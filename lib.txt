@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+re
+setuptools
+wheel
+spacy
+

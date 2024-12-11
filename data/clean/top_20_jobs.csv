@@ -1,0 +1,21 @@
+job,stress_flag,burnout_flag,anxiety_flag,toxic_flag,supportive_env_flag,depression_flag,total_flags
+Anonymous Employee,1337,204,43,746,706,107,3143
+Manager,702,123,20,347,370,48,1610
+Team Member,528,140,13,104,143,16,944
+Software Engineer,269,6,8,94,119,17,513
+Analyst,228,23,5,74,119,8,457
+Sales Associate,181,30,4,100,111,12,438
+Consultant,110,16,5,90,123,9,353
+Cashier,139,26,3,39,97,4,308
+Associate,104,13,3,35,39,4,198
+Customer Service,79,15,4,40,44,4,186
+Director,37,5,0,34,46,6,128
+Vice President,58,5,1,20,34,3,121
+Senior Game Advisor,42,6,1,13,4,2,68
+Shift Leader,19,12,0,11,14,2,58
+Software Developer,17,2,1,16,18,1,55
+Store Leader,29,4,2,11,3,3,52
+Engineer,20,2,1,15,11,2,51
+Administrative Assistant,19,1,0,8,20,1,49
+Delivery Driver,25,8,1,4,7,3,48
+Senior Guest Advisor,28,1,0,11,3,2,45
