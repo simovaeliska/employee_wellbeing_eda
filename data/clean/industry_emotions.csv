@@ -1,0 +1,16 @@
+industry,stress_flag,burnout_flag,anxiety_flag,toxic_flag,supportive_env_flag,depression_flag,total_flags
+Retail,2222,538,65,693,891,114,4523
+Technology,1457,138,42,903,992,119,3651
+Finance,1000,107,13,379,538,36,2073
+Energy,417,8,4,107,105,18,659
+Healthcare,125,52,8,145,145,23,498
+Transportation_and_Logistics,109,30,7,116,86,17,365
+Business_Services,120,12,4,107,107,12,362
+Consumer_Goods,108,16,6,97,56,22,305
+Food_and_Beverage,57,11,5,44,33,8,158
+Public_Sector,36,10,3,45,42,7,143
+Education,33,7,2,24,48,8,122
+Media_and_Entertainment,38,8,5,42,23,6,122
+Automotive,31,2,2,30,24,2,91
+Other,24,3,1,23,14,2,67
+Telecommunication,21,5,0,17,10,2,55
