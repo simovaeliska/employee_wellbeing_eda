@@ -1,0 +1,21 @@
+job,stress_flag,burnout_flag,anxiety_flag,toxic_flag,depression_flag,total_flags,stress_flag_percentage,burnout_flag_percentage,toxic_flag_percentage,anxiety_flag_percentage,depression_flag_percentage
+Anonymous Employee,1597,205,147,1085,118,3152,50.67,6.5,34.42,4.66,3.74
+Manager,838,126,74,472,52,1562,53.65,8.07,30.22,4.74,3.33
+Team Member,556,140,19,232,16,963,57.74,14.54,24.09,1.97,1.66
+Software Engineer,281,6,21,100,20,428,65.65,1.4,23.36,4.91,4.67
+Analyst,267,24,12,98,9,410,65.12,5.85,23.9,2.93,2.2
+Sales Associate,200,30,10,150,13,403,49.63,7.44,37.22,2.48,3.23
+Cashier,148,25,4,109,4,290,51.03,8.62,37.59,1.38,1.38
+Consultant,117,16,20,120,10,283,41.34,5.65,42.4,7.07,3.53
+Associate,122,13,3,49,6,193,63.21,6.74,25.39,1.55,3.11
+Customer Service,93,16,8,69,4,190,48.95,8.42,36.32,4.21,2.11
+Director,43,5,8,45,7,108,39.81,4.63,41.67,7.41,6.48
+Vice President,66,5,2,25,4,102,64.71,4.9,24.51,1.96,3.92
+Senior Game Advisor,46,6,4,26,2,84,54.76,7.14,30.95,4.76,2.38
+Shift Leader,23,12,0,21,2,58,39.66,20.69,36.21,0.0,3.45
+Store Leader,33,4,2,13,3,55,60.0,7.27,23.64,3.64,5.45
+Delivery Driver,32,8,2,9,4,55,58.18,14.55,16.36,3.64,7.27
+Account Executive,20,0,2,27,0,49,40.82,0.0,55.1,4.08,0.0
+Area Supervisor,23,6,1,16,0,46,50.0,13.04,34.78,2.17,0.0
+Engineer,25,2,2,15,2,46,54.35,4.35,32.61,4.35,4.35
+Senior Guest Advisor,29,1,1,13,2,46,63.04,2.17,28.26,2.17,4.35
