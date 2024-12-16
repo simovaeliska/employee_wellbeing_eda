@@ -16,7 +16,9 @@ dependencies = [
     "seaborn>=0.13.2",
     "setuptools>=75.6.0",
     "spacy>=3.7.5",
+    "statsmodels>=0.14.4",
     "textblob>=0.18.0.post0",
     "tqdm>=4.67.1",
     "wheel>=0.45.1",
+    "wordcloud>=1.9.4",
 ]

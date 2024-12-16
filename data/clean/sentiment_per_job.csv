@@ -1,0 +1,3786 @@
+,job,sentiment_category,overall_sentiment
+3047,Senior Procurement Specialist,Positive,0.9450000000000001
+3086,Senior SQA Engineer,Positive,0.85
+2706,SDE1,Positive,0.85
+633,Clinical Psychologist,Positive,0.8
+3053,Senior Product Specialist,Positive,0.8
+492,Care Coordinator,Positive,0.8
+1152,Facilities Technician,Positive,0.7875000000000001
+564,Chief Financial Officer,Positive,0.78
+1702,Junior Engineer,Positive,0.7625000000000001
+2990,Senior Human Resources Assistant,Positive,0.75
+1251,Foreman,Positive,0.71
+8,AML Investigator,Positive,0.7
+1045,ENO,Positive,0.7
+3600,Test Development Engineer,Positive,0.7
+3635,Transaction Risk Investigator,Positive,0.675
+696,Computer Technician,Positive,0.675
+507,Casher,Positive,0.6666666666666666
+430,Busser/Runner,Positive,0.65
+2909,Senior Civil Engineer,Positive,0.65
+308,BPO Executive,Positive,0.6499999999999999
+756,Corporate Trainer,Positive,0.635
+390,Business Data Analyst,Positive,0.6
+2640,Research Officer,Positive,0.6
+404,Business Development Specialist,Positive,0.6
+3011,Senior Lead Engineer,Positive,0.6
+1991,Medical Coder,Positive,0.595
+3416,Student Mentor,Positive,0.595
+2318,President,Positive,0.5925
+2544,Quality Inspector,Positive,0.5900000000000001
+1570,Implementation Specialist,Positive,0.585
+2699,SAP ABAP Developer,Positive,0.5833333333333334
+3242,Small Business Sales Representative,Positive,0.5800000000000001
+3403,Strategic Account Executive,Positive,0.5650000000000001
+458,COVID,Positive,0.565
+3782,Working Student,Positive,0.5625
+1682,Janitorial,Positive,0.5625
+2285,Planning Analyst,Positive,0.56
+519,Catalog Associate,Positive,0.56
+2817,Salesforce Administrator,Positive,0.56
+360,Bim Engineer,Positive,0.5599999999999999
+3302,Software Support Engineer,Positive,0.555
+3660,UI,Positive,0.5525
+1331,Game Tester,Positive,0.55
+2908,Senior CSE,Positive,0.55
+448,CEO,Positive,0.5475
+3315,Solution Engineer,Positive,0.5449999999999999
+3779,Workforce Analyst,Positive,0.5425
+2042,Model,Positive,0.535
+913,Data Engineer II,Positive,0.525
+2767,Sales Coordinator,Positive,0.5225
+1503,ISR,Positive,0.5175000000000001
+2563,Radiologic Technologist,Positive,0.5175
+1964,Material Handler/Forklift Operator,Positive,0.515
+1337,General Assistant,Positive,0.5125
+885,Customer Support Agent,Positive,0.51
+1283,Front End Web Developer,Positive,0.51
+3287,Software Engineer In Test,Positive,0.505
+3491,Talent Acquisition Partner,Positive,0.5
+3369,Sterile Processing Technician,Positive,0.5
+1865,ML Data Associate,Positive,0.5
+639,Cloud Solution Architect,Positive,0.5
+276,Attractions Cast Member,Positive,0.5
+374,Building Engineer,Positive,0.5
+2254,Pharmaceuticals Sales Representative,Positive,0.5
+3244,Social Media Coordinator,Positive,0.5
+364,Bodily Injury Claims Adjuster,Positive,0.5
+2623,Remote Customer Service Representative,Positive,0.5
+996,Director of Development,Positive,0.5
+3270,Software Development Engineer I,Positive,0.5
+1350,Grader,Positive,0.5
+46,Accounting Associate,Positive,0.49625
+320,Bakery Assistant,Positive,0.495
+1809,Licensed Insurance Advisor,Positive,0.4925
+3298,Software QA Tester,Positive,0.4925
+370,Brand Specialist,Positive,0.49
+1079,Emergency Medical Technician,Positive,0.49
+1579,Inbound Stower,Positive,0.49
+1845,Logistics Officer,Positive,0.48750000000000004
+3360,Staff Pharmacist,Positive,0.48750000000000004
+2918,Senior Communications Specialist,Positive,0.48500000000000004
+1433,Head of Business Development,Positive,0.485
+3367,Statistician,Positive,0.485
+1998,Medical Science Liaison (MSL),Positive,0.4825
+149,Application Developer,Positive,0.48
+701,Construction Superintendent,Positive,0.48
+1524,IT Help Desk,Positive,0.47750000000000004
+543,Charge Nurse,Positive,0.47666666666666674
+361,Biologist,Positive,0.47500000000000003
+1830,Litigation Paralegal,Positive,0.47500000000000003
+415,Business Operations Specialist,Positive,0.475
+1318,Fundraiser,Positive,0.475
+420,Business Process Lead,Positive,0.475
+2652,Resident Physician,Positive,0.475
+1913,Manual QA Tester,Positive,0.475
+1421,HRM,Positive,0.47250000000000003
+2276,Pilot,Positive,0.4725
+3481,TSE,Positive,0.47000000000000003
+1484,Human Resources Coordinator (HR Coordinator),Positive,0.47000000000000003
+531,Certified Medical Assistant,Positive,0.47000000000000003
+3777,Work From Home Customer Service Representative,Positive,0.47000000000000003
+438,CAD Designer,Positive,0.47000000000000003
+1532,IT Lead,Positive,0.47
+1315,Functional Analyst,Positive,0.4683333333333333
+1394,Group Leader,Positive,0.465
+2269,Physician Assistant,Positive,0.465
+2037,Military Police,Positive,0.46499999999999997
+3644,Transportation Associate,Positive,0.46499999999999997
+826,Customer Experience Representative,Positive,0.46499999999999997
+2727,SVP,Positive,0.4625
+2823,Salesperson,Positive,0.4625
+1501,IOS Developer,Positive,0.46166666666666667
+3521,Tech Support,Positive,0.46125000000000005
+3098,Senior Salesforce Developer,Positive,0.46125
+3385,Stocking Associate,Positive,0.46
+1307,Full Stack Web Developer,Positive,0.45999999999999996
+1399,Guest Service Agent,Positive,0.45999999999999996
+3022,Senior Marketing Specialist,Positive,0.45999999999999996
+3036,Senior Planner,Positive,0.4575
+3218,Sever,Positive,0.45749999999999996
+1121,Estimator,Positive,0.455
+605,Client Associate,Positive,0.455
+3670,UX,Positive,0.455
+1703,Junior Executive,Positive,0.455
+2320,Prestige Beauty Advisor,Positive,0.455
+2539,Quality Control Technician,Positive,0.455
+664,Communications Officer,Positive,0.455
+2991,Senior Human Resources Business Partner,Positive,0.45499999999999996
+398,Business Development Director,Positive,0.45499999999999996
+1304,Full Stack Engineer,Positive,0.45499999999999996
+636,Cloud Architect,Positive,0.4525
+172,Area Director,Positive,0.4525
+1614,Installer,Positive,0.45249999999999996
+2698,SALES CLERK,Positive,0.45166666666666666
+3311,Software Trainee,Positive,0.45166666666666666
+3725,Video Editor,Positive,0.45
+3709,Veterinary Technician,Positive,0.45
+1457,Home Advisor,Positive,0.45
+2099,Office Clerk,Positive,0.45
+2144,Operations Technician,Positive,0.45
+2920,Senior Compliance Associate,Positive,0.45
+3552,Technical Service Representative,Positive,0.45
+2722,SRE/DevOps Engineer,Positive,0.45
+3547,Technical Marketing Engineer,Positive,0.45
+2347,Process Engineer II,Positive,0.45
+2788,Sales Management Trainee,Positive,0.45
+1922,Manufacturing Supervisor,Positive,0.44999999999999996
+2747,Sales Agent,Positive,0.44999999999999996
+962,Desktop Support Engineer,Positive,0.4475
+1456,Hgv Driver,Positive,0.44749999999999995
+2600,Regional Sales Executive,Positive,0.445
+22,Academic Tutor,Positive,0.445
+2901,Senior Automation Engineer,Positive,0.445
+1934,Market Risk Analyst,Positive,0.44499999999999995
+3323,Sortation Associate,Positive,0.44000000000000006
+3068,Senior Quality Analyst,Positive,0.44
+2258,Phd Student Researcher,Positive,0.44
+3161,Senior Technical Writer,Positive,0.44
+2047,Monitor Technician,Positive,0.44
+3675,Unarmed Security Officer,Positive,0.44
+975,Diesel Mechanic,Positive,0.43999999999999995
+3485,Tableau Developer,Positive,0.4375
+2927,Senior Customer Service Associate,Positive,0.4375
+3133,Senior System Engineer,Positive,0.435
+3046,Senior Procurement Analyst,Positive,0.435
+1814,Licensed Practical Nurse (LPN),Positive,0.43374999999999997
+3346,Sr. Director,Positive,0.4325
+1140,Executive Team Leader,Positive,0.43249999999999994
+2169,PCT/CNA,Positive,0.43000000000000005
+1993,Medical Laboratory Technician,Positive,0.43000000000000005
+1097,Enrollment Advisor,Positive,0.43000000000000005
+2979,Senior Fund Accountant,Positive,0.43000000000000005
+1051,Economist,Positive,0.43
+1869,Machine Learning Engineer,Positive,0.42875
+2209,Patient Care Coordinator,Positive,0.42500000000000004
+801,Cst,Positive,0.42500000000000004
+3113,Senior Software QA Engineer,Positive,0.425
+907,Data Analytics,Positive,0.425
+1829,Linux Systems Administrator,Positive,0.425
+2342,Process Associate,Positive,0.425
+122,Algorithm Engineer,Positive,0.425
+3252,Software Analyst,Positive,0.42000000000000004
+722,Content Strategist,Positive,0.42000000000000004
+1,3D Artist,Positive,0.42000000000000004
+1014,Distribution,Positive,0.42000000000000004
+3413,Student Assistant,Positive,0.42000000000000004
+3050,Senior Product Engineer,Positive,0.42
+1643,Integration Specialist,Positive,0.42
+157,Applications Sales Representative,Positive,0.42
+347,Benefits Analyst,Positive,0.42
+2450,Program Associate,Positive,0.4175
+2205,Patient Access Representative,Positive,0.4166666666666667
+1336,General Accountant,Positive,0.41500000000000004
+3538,Technical Coordinator,Positive,0.41500000000000004
+1914,Manual Tester,Positive,0.41500000000000004
+397,Business Development Associate (BDA),Positive,0.41500000000000004
+1025,Document Controller,Positive,0.41500000000000004
+1928,Market Associate,Positive,0.41333333333333333
+1411,HR Assistant,Positive,0.41333333333333333
+373,Builder,Positive,0.4125
+2617,Relationship Banker,Positive,0.4125
+3582,Technology Architect,Positive,0.4125
+188,Asset Protection Associate,Positive,0.41000000000000003
+1511,IT Auditor,Positive,0.41000000000000003
+562,Chief Executive Officer (CEO),Positive,0.41000000000000003
+2890,Senior Applications Engineer,Positive,0.41000000000000003
+396,Business Development Associate,Positive,0.41000000000000003
+3059,Senior Project Coordinator,Positive,0.41000000000000003
+3214,Service Specialist,Positive,0.41000000000000003
+3482,TSE I,Positive,0.41000000000000003
+637,Cloud Engineer,Positive,0.41
+634,Clinical Research Coordinator,Positive,0.41
+1132,Executive Chef,Positive,0.40625
+2535,Quality Control,Positive,0.406
+1046,ER Medical Scribe,Positive,0.405
+2970,Senior Financial Advisor,Positive,0.40499999999999997
+569,Chief of Staff,Positive,0.40499999999999997
+2108,On,Positive,0.40249999999999997
+3358,Staff Nurse,Positive,0.40166666666666667
+2431,Production Specialist,Positive,0.4
+3588,Telecommunications Engineer,Positive,0.4
+2542,Quality Engineer II,Positive,0.4
+542,Chaplain,Positive,0.4
+662,Commissioning Engineer,Positive,0.4
+1876,Mail Clerk,Positive,0.4
+2118,Operation Specialist,Positive,0.4
+576,Claims Assistant,Positive,0.4
+3126,Senior Staff Accountant,Positive,0.4
+1551,IT Supervisor,Positive,0.4
+980,Digital Designer,Positive,0.4
+997,Director of Engineering,Positive,0.4
+940,Delivery Lead,Positive,0.4
+3128,Senior Supervisor,Positive,0.4
+1358,Graduate Engineer Trainee (GET),Positive,0.4
+1415,HR Director,Positive,0.4
+1279,Front End Engineer,Positive,0.4
+1808,Licensed Esthetician,Positive,0.4
+733,Control Room Operator,Positive,0.4
+1787,Learning Specialist,Positive,0.4
+1744,Labourer,Positive,0.4
+1700,Junior Data Scientist,Positive,0.4
+1636,Insurance Sales Representative,Positive,0.4
+951,Design Director,Positive,0.39999999999999997
+1609,Inside Sales Specialist,Positive,0.39999999999999997
+3587,Technology Specialist,Positive,0.39999999999999997
+212,Assistant Superintendent,Positive,0.39999999999999997
+3774,Whole Foods Shopper,Positive,0.3983333333333334
+2455,Program Leader,Positive,0.39749999999999996
+3144,Senior Team LEader,Positive,0.39749999999999996
+2643,Research and Development Engineer,Positive,0.39749999999999996
+2820,Salesman,Positive,0.39666666666666667
+1099,Enterprise Account Executive,Positive,0.395
+1083,Engineer I,Positive,0.395
+2206,Patient Access Specialist,Positive,0.395
+942,Dental Assistant,Positive,0.395
+950,Department Supervisor,Positive,0.395
+814,Customer Care Associate,Positive,0.395
+141,Animator,Positive,0.395
+1070,Electro,Positive,0.395
+3784,Yard Worker,Positive,0.395
+3048,Senior Producer,Positive,0.395
+2734,Safety Engineer,Positive,0.39499999999999996
+2173,PMO Lead,Positive,0.39499999999999996
+1861,MBA Student,Positive,0.39499999999999996
+2942,Senior Designer,Positive,0.39357142857142857
+2256,Pharmacist,Positive,0.393
+2483,Project Management,Positive,0.3925
+1957,Master Data Analyst,Positive,0.39166666666666666
+2508,QA Lead,Positive,0.3908333333333333
+2910,Senior Claims Adjuster,Positive,0.39
+874,Customer Service Teammate,Positive,0.39
+538,Certified Personal Trainer,Positive,0.39
+674,Complaints Handler,Positive,0.39
+1423,HVAC Technician,Positive,0.39
+1618,Instructional Designer,Positive,0.38999999999999996
+1631,Insurance Agent,Positive,0.38875000000000004
+2824,Sandwich Artist,Positive,0.38875000000000004
+2319,Press Operator,Positive,0.38833333333333336
+182,Assembler,Positive,0.38833333333333336
+2399,Product Support Engineer,Positive,0.3875
+1761,Lead DevOps Engineer,Positive,0.38749999999999996
+3572,Technical Test Lead,Positive,0.38749999999999996
+2068,Network Security Engineer,Positive,0.38625
+1294,Frontend Engineer,Positive,0.385
+63,Accounts Receivable Specialist,Positive,0.385
+2797,Sales Professional,Positive,0.385
+660,Commercial Underwriter,Positive,0.385
+224,Associate Architect,Positive,0.385
+1369,Graduate Student Research Assistant,Positive,0.385
+3404,Strategic Planner,Positive,0.38333333333333336
+1124,Event Planner,Positive,0.3833333333333333
+3094,Senior Sales Engineer,Positive,0.3825
+330,Banking,Positive,0.3825
+2463,Project Accountant,Positive,0.3825
+1366,Graduate Researcher,Positive,0.38249999999999995
+255,Associate Software Developer,Positive,0.38125
+1590,Information Security Analyst,Positive,0.381
+2923,Senior CopyWriter,Positive,0.38000000000000006
+3744,Warehouse Loader,Positive,0.38
+2638,Research Engineer,Positive,0.38
+1370,Graduate Student Researcher,Positive,0.38
+2998,Senior IT Analyst,Positive,0.38
+1641,Intake Specialist,Positive,0.38
+3646,Transportation Coordinator,Positive,0.38
+2134,Operations Executive,Positive,0.38
+2663,Retail Merchandiser,Positive,0.37999999999999995
+2234,People Team,Positive,0.37833333333333335
+2379,Product Controller,Positive,0.378
+3145,Senior Team Lead,Positive,0.378
+2220,Payment Specialist,Positive,0.3775
+2895,Senior Art Director,Positive,0.3766666666666667
+1693,Junior Accountant,Positive,0.37666666666666665
+2171,PMO,Positive,0.37666666666666665
+231,Associate Creative Director,Positive,0.37625000000000003
+1478,Human Resources Associate,Positive,0.37625000000000003
+2441,Professional Recruiter,Positive,0.375
+3655,Tron Associate,Positive,0.375
+704,Consulting,Positive,0.375
+1544,IT Senior Business Analyst,Positive,0.375
+2101,Office Coordinator,Positive,0.375
+2159,Outbound Order Picker,Positive,0.375
+1818,Lifeguard/Swim Instructor,Positive,0.375
+1990,Medical Billing Specialist,Positive,0.375
+2870,Seller,Positive,0.375
+2873,Senior,Positive,0.375
+270,Attendant,Positive,0.375
+2064,Network Architect,Positive,0.375
+2137,Operations Officer,Positive,0.375
+372,Budget Analyst,Positive,0.375
+2975,Senior Frontend Developer,Positive,0.375
+1297,Fry Cook,Positive,0.375
+2362,Procurement Analyst,Positive,0.375
+1033,Drive Thru Cashier,Positive,0.375
+2651,Resident Engineer,Positive,0.37499999999999994
+1916,Manufacturing Associate,Positive,0.37333333333333335
+2218,Patient Transporter,Positive,0.373
+2030,Merchant,Positive,0.3725
+3705,Validation Engineer,Positive,0.372
+607,Client Executive,Positive,0.37166666666666665
+2517,QA Tester,Positive,0.37166666666666665
+3400,Store Supervisor,Positive,0.37
+1973,Meat Wrapper,Positive,0.37
+1815,Licensed Sales Producer,Positive,0.37
+1510,IT Associate,Positive,0.37
+1745,Lawn Technician,Positive,0.37
+1257,Fraud Analyst,Positive,0.36999999999999994
+687,Computer Operator,Positive,0.36833333333333335
+1148,Facilities,Positive,0.36833333333333335
+3730,Visual Designer,Positive,0.36750000000000005
+884,Customer Support,Positive,0.36642857142857144
+3110,Senior Software Development Engineer,Positive,0.3658333333333334
+36,Account Specialist,Positive,0.365
+2624,Remote Work From Home Jobs,Positive,0.365
+3117,Senior Solution Architect,Positive,0.365
+521,Catalog Specialist,Positive,0.365
+3465,System Analyst,Positive,0.365
+3783,Writer,Positive,0.365
+784,Credentialing Specialist,Positive,0.365
+222,Associate Applications Developer,Positive,0.365
+635,Clinical Specialist,Positive,0.365
+3063,Senior QA Analyst,Positive,0.36375
+2596,Regional Director,Positive,0.36333333333333334
+1577,Inbound Sales Representative,Positive,0.36333333333333334
+1227,Floor Associate,Positive,0.36250000000000004
+1392,Group Fitness Instructor,Positive,0.3625
+427,Business Technology Analyst,Positive,0.3625
+2878,Senior Actuarial Analyst,Positive,0.3625
+3742,Warehouse Lead,Positive,0.3625
+3604,Test Technician,Positive,0.36166666666666664
+215,Assistant Team Leader,Positive,0.36000000000000004
+765,Costumer Service Representative,Positive,0.36
+3082,Senior Risk Analyst,Positive,0.36
+1362,Graduate Mechanical Engineer,Positive,0.36
+836,Customer Relations Specialist,Positive,0.36
+3411,Student Ambassador,Positive,0.36
+1347,Global Director,Positive,0.36
+1782,Learning And Development Specialist,Positive,0.35875
+440,CAD Engineer,Positive,0.35750000000000004
+2743,Sales Administrator,Positive,0.3575
+788,Credit Controller,Positive,0.3575
+841,Customer Sales Representative,Positive,0.3575
+1624,Instrument Technician,Positive,0.35666666666666663
+2089,OTR Truck Driver,Positive,0.355
+83,Administration Officer,Positive,0.355
+3570,Technical Team Lead,Positive,0.355
+714,Content Analyst,Positive,0.355
+2973,Senior Financial Associate,Positive,0.355
+436,C S R,Positive,0.355
+1480,Human Resources Business Partner,Positive,0.3541666666666667
+2274,Picker/Packer,Positive,0.35333333333333333
+2735,Safety Officer,Positive,0.35250000000000004
+1606,Infrastructure Specialist,Positive,0.35250000000000004
+503,Caseworker,Positive,0.35250000000000004
+2654,Respiratory Therapist,Positive,0.3525
+2336,Principal Systems Engineer,Positive,0.3516666666666666
+585,Claims Representative,Positive,0.35125
+2026,Merchandising,Positive,0.35000000000000003
+1804,Librarian,Positive,0.35
+2564,Radiology Technologist,Positive,0.35
+1598,Information Technology Analyst,Positive,0.35
+2509,QA Specialist,Positive,0.35
+2513,QA Test Analyst,Positive,0.35
+2536,Quality Control Analyst,Positive,0.35
+3763,Web Designer,Positive,0.35
+706,Consulting Associate,Positive,0.35
+3610,Third Key Holder,Positive,0.35
+3611,Ticket Agent,Positive,0.35
+2045,Module Lead,Positive,0.35
+2130,Operations Coordinator,Positive,0.35
+2132,Operations Director,Positive,0.35
+2013,Member of Technical Staff(MTS),Positive,0.35
+3614,Tier III Process Assistant,Positive,0.35
+909,Data Center Engineer,Positive,0.35
+875,Customer Service and Sales Representative,Positive,0.35
+551,Chemical Engineer,Positive,0.35
+2225,Payroll Analyst,Positive,0.35
+1995,Medical Sales Representative,Positive,0.35
+1349,Grad Student,Positive,0.35
+899,Cybersecurity Analyst,Positive,0.35
+1432,Head Office Employee,Positive,0.35
+2327,Principal Applications Engineer,Positive,0.35
+1835,Loan Officer,Positive,0.35
+3497,Talent Sourcer,Positive,0.35
+2383,Product Development,Positive,0.35
+3495,Talent Advisor,Positive,0.35
+487,Car Detailer,Positive,0.35
+1766,Lead QA Engineer,Positive,0.35
+1154,Factory Worker,Positive,0.35
+3140,Senior Tax Accountant,Positive,0.35
+2570,Real Time Analyst,Positive,0.35
+2261,Photo Specialist,Positive,0.35
+3364,Staffing Coordinator,Positive,0.35
+2868,Self Checkout Host,Positive,0.35
+2884,Senior Agent,Positive,0.35
+3151,Senior Technical Associate,Positive,0.35
+3339,Sporting Goods Sales Associate,Positive,0.35
+2848,Seasonal Warehouse Associate,Positive,0.35
+2800,Sales Supervisor,Positive,0.35
+3164,Senior Test Automation Engineer,Positive,0.35
+134,Analyst Programmer(SSE),Positive,0.35
+1422,HSE Specialist,Positive,0.35
+2703,SAP Basis Administrator,Positive,0.35
+34,Account Representative,Positive,0.35
+2827,Sandwich Maker,Positive,0.35
+3573,Technical Trainer,Positive,0.34875
+2289,Platform Engineer,Positive,0.34875
+692,Computer Systems Analyst,Positive,0.34750000000000003
+806,Customer Account Specialist,Positive,0.34750000000000003
+1945,Marketing Communications Specialist,Positive,0.3475
+200,Assistant Director,Positive,0.347
+3665,UI Developer,Positive,0.3466666666666667
+1285,Front Office Assistant,Positive,0.34500000000000003
+672,Compensation Analyst,Positive,0.34500000000000003
+3401,Store Team Leader,Positive,0.345
+734,Control Systems Engineer,Positive,0.345
+1274,Front Desk Supervisor,Positive,0.345
+999,Director of Human Resources,Positive,0.345
+699,Configuration Analyst,Positive,0.345
+3633,Transaction Processor,Positive,0.345
+1199,Finance/Accounting,Positive,0.34375
+3192,Service,Positive,0.34375
+2490,Project Specialist,Positive,0.3433333333333333
+1091,Engineering Co,Positive,0.3425
+3606,Testing Engineer,Positive,0.3425
+145,Anonymous/Employee,Positive,0.3425
+2486,Project Management Office (PMO),Positive,0.3425
+3778,Work Study Student,Positive,0.3425
+1096,Engineering Technician,Positive,0.3425
+864,Customer Service Lead,Positive,0.34199999999999997
+237,Associate Designer,Positive,0.34199999999999997
+2328,Principal Architect,Positive,0.3416666666666666
+3540,Technical Director,Positive,0.341
+1018,District Sales Leader,Positive,0.34
+1535,IT Operations,Positive,0.34
+568,Chief Technology Officer (CTO),Positive,0.34
+2032,Microbiologist,Positive,0.34
+1836,Loan Servicing Specialist,Positive,0.34
+2996,Senior IOS Developer,Positive,0.34
+1920,Manufacturing Operator,Positive,0.34
+698,Conductor,Positive,0.34
+1832,Loader,Positive,0.33999999999999997
+310,Back Office,Positive,0.33999999999999997
+2567,Ramp Agent,Positive,0.33999999999999997
+2593,Referral Coordinator,Positive,0.33999999999999997
+1802,Legislative Assistant,Positive,0.33999999999999997
+974,Diagnostic Medical Sonographer,Positive,0.33999999999999997
+2903,Senior Business Development Executive,Positive,0.33999999999999997
+2135,Operations Leader,Positive,0.33999999999999997
+3683,Underwriting,Positive,0.33999999999999997
+3440,Supply Chain Coordinator,Positive,0.33999999999999997
+3651,Transportation Supervisor,Positive,0.3392857142857143
+1716,Key Account Executive,Positive,0.33875
+3449,Support,Positive,0.3383333333333334
+2172,PMO Analyst,Positive,0.3383333333333333
+1794,Legal,Positive,0.3383333333333333
+1567,IT Systems Engineer,Positive,0.33799999999999997
+2322,Pricing Analyst,Positive,0.33799999999999997
+3325,Sorter,Positive,0.3375
+422,Business Specialist,Positive,0.3375
+454,CNC Machinist,Positive,0.3375
+3217,ServiceNow Developer,Positive,0.3375
+348,Benefits Specialist,Positive,0.33749999999999997
+760,Cost Analyst,Positive,0.33666666666666667
+3350,Staff Assistant,Positive,0.33599999999999997
+610,Client Relationship Specialist,Positive,0.335
+2790,Sales Operations,Positive,0.335
+1797,Legal Assistant/Paralegal,Positive,0.335
+2874,Senior Account Director,Positive,0.335
+2954,"Senior Director, Product Management",Positive,0.335
+1929,Market Development Representative,Positive,0.335
+3636,Transcriptionist,Positive,0.335
+1888,Maintenance Planner,Positive,0.335
+3019,Senior Marketing Analyst,Positive,0.335
+2237,Performance Engineer,Positive,0.33499999999999996
+2309,Prefer Not To Say,Positive,0.33499999999999996
+3280,Software Engineer Associate,Positive,0.33499999999999996
+1605,Infrastructure Engineer,Positive,0.33499999999999996
+1930,Market Development Representative (MDR),Positive,0.33499999999999996
+378,Bus Operator,Positive,0.33499999999999996
+2792,Sales Operations Specialist,Positive,0.33499999999999996
+1975,Mechanic,Positive,0.33416666666666667
+1211,Financial Planner,Positive,0.3333333333333333
+2967,Senior Executive Assistant,Positive,0.3333333333333333
+2583,Recruiting,Positive,0.3333333333333333
+1765,Lead Engineer,Positive,0.3325
+294,Automotive Technician,Positive,0.3325
+1880,Mainframe Developer,Positive,0.33249999999999996
+2164,Over Night Stocker,Positive,0.33166666666666667
+536,Certified Nursing Assistant CNA,Positive,0.33166666666666667
+3677,Undergraduate Research Assistant,Positive,0.3316666666666666
+914,Data Entry,Positive,0.3314285714285714
+2465,Project Analyst,Positive,0.33125
+2814,Sales and Marketing,Positive,0.33
+2071,Network Technician,Positive,0.33
+2167,Owner,Positive,0.33
+1425,Hardware Design Engineer,Positive,0.33
+3291,Software Engineer(),Positive,0.33
+482,Call Center Supervisor,Positive,0.33
+657,Commercial Account Executive,Positive,0.33
+800,Csr1,Positive,0.33
+3627,Training,Positive,0.33
+3342,Sr Financial Analyst,Positive,0.33
+120,Aircraft Mechanic,Positive,0.33
+3297,Software QA Engineer,Positive,0.32999999999999996
+3000,Senior IT Auditor,Positive,0.32999999999999996
+1158,Family Nurse Practitioner,Positive,0.32999999999999996
+187,Assembly Worker,Positive,0.32999999999999996
+3289,Software Engineer Trainee,Positive,0.32999999999999996
+2981,Senior Graphic Designer,Positive,0.329
+3044,Senior Process Engineer,Positive,0.32875
+1733,Lab Assistant,Positive,0.32875
+1334,General,Positive,0.3283333333333333
+891,Cyber Security,Positive,0.3283333333333333
+405,Business Director,Positive,0.3283333333333333
+2658,Retail,Positive,0.3283333333333333
+1635,Insurance Sales Agent,Positive,0.3283333333333333
+3487,Talent Acquisition,Positive,0.32785714285714285
+2003,Medical Support Assistant,Positive,0.3275
+812,Customer Care Agent,Positive,0.3275
+3327,Sourcer,Positive,0.3275
+2302,Postdoctoral Researcher,Positive,0.3275
+718,Content Moderator,Positive,0.3275
+1138,Executive Secretary,Positive,0.3275
+2877,Senior Accountant,Positive,0.3275
+2495,Public Relations,Positive,0.32749999999999996
+3255,Software Applications Engineer,Positive,0.327
+1823,Line Cook/Prep Cook,Positive,0.32666666666666666
+1711,Junior Trader,Positive,0.32666666666666666
+408,Business Intelligence Analyst,Positive,0.326
+3163,Senior Test Analyst,Positive,0.32599999999999996
+2852,Security,Positive,0.32599999999999996
+1740,Laboratory Technician,Positive,0.32571428571428573
+2375,Product,Positive,0.32500000000000007
+1458,Home Health Caregiver,Positive,0.325
+2477,Project Engineer II,Positive,0.325
+1275,Front End Assistant,Positive,0.325
+2057,Multiple Positions,Positive,0.325
+640,Cloud Support Associate,Positive,0.325
+3178,Senior Web Developer,Positive,0.325
+631,Clinical Pharmacist,Positive,0.325
+709,Contact Center Agent,Positive,0.325
+2789,Sales Officer,Positive,0.325
+2806,Sales Support Coordinator,Positive,0.325
+829,Customer Operations Specialist,Positive,0.325
+266,Associate Test Engineer,Positive,0.325
+3620,Trainee,Positive,0.325
+1250,Food and Beverage Attendant,Positive,0.325
+1322,GIS Technician,Positive,0.325
+3274,Software Development Engineer In Test (SDET),Positive,0.325
+171,Architectural Designer,Positive,0.325
+2805,Sales Support Associate,Positive,0.325
+3649,Transportation Specialist,Positive,0.325
+2484,Project Management Analyst,Positive,0.325
+1662,Inventory Coordinator,Positive,0.325
+1063,Electrical Engineer I,Positive,0.325
+1262,Freight Operations Supervisor,Positive,0.325
+115,Agile Coach,Positive,0.325
+680,Compliance Associate,Positive,0.325
+2919,Senior Compliance Analyst,Positive,0.32499999999999996
+1967,Materials Engineer,Positive,0.32499999999999996
+2478,Project Executive,Positive,0.32499999999999996
+3732,Volunteer,Positive,0.32499999999999996
+3780,Workforce Management Analyst,Positive,0.32499999999999996
+2759,Sales Associate/Key Holder,Positive,0.324
+1697,Junior Associate,Positive,0.32399999999999995
+1364,Graduate Research/Teaching Assistant,Positive,0.32375
+2354,Process Technician,Positive,0.32333333333333336
+371,Broker,Positive,0.3233333333333333
+413,Business Operations Associate,Positive,0.3233333333333333
+1074,Electronics Technician,Positive,0.323
+3555,Technical Solutions Engineer,Positive,0.3225
+3731,Visual Merchandiser,Positive,0.3225
+981,Digital Marketing,Positive,0.3225
+327,Banker,Positive,0.3225
+2850,Secretary,Positive,0.3225
+1351,Graduate Analyst,Positive,0.3225
+3100,Senior Scientist,Positive,0.322
+3684,Underwriting Assistant,Positive,0.3216666666666667
+2680,Revenue Analyst,Positive,0.32166666666666666
+1419,HRBP,Positive,0.32125000000000004
+925,Database Administrator,Positive,0.321
+170,Architect,Positive,0.32071428571428573
+1982,Mechanical Engineer II,Positive,0.32
+2040,Mobile Developer,Positive,0.32
+1344,General Warehouse Associate,Positive,0.32
+983,Digital Marketing Executive,Positive,0.32
+2168,Owner Operator,Positive,0.32
+3064,Senior QA Automation Engineer,Positive,0.32
+1265,Front Counter,Positive,0.32
+3374,Stock,Positive,0.32
+581,Claims Handler,Positive,0.32
+1088,Engineering,Positive,0.32
+3321,Solutions Specialist,Positive,0.32
+3678,Undergraduate Student,Positive,0.32
+3395,Store Director,Positive,0.32
+3313,Solution Architect,Positive,0.32
+3749,Warehouse Operator,Positive,0.32
+139,Android Developer,Positive,0.32
+1481,Human Resources Business Partner HRBP,Positive,0.32
+3015,Senior Legal Counsel,Positive,0.32
+920,Data Science,Positive,0.32
+1959,Mate,Positive,0.32
+2714,SME,Positive,0.31999999999999995
+689,Computer Sales Associate,Positive,0.31999999999999995
+387,Business Assistant,Positive,0.31999999999999995
+1954,Marketing Representative,Positive,0.31999999999999995
+2372,Producer,Positive,0.3192857142857143
+366,Bookkeeper,Positive,0.31875000000000003
+209,Assistant Software Engineer (ASE),Positive,0.31875
+1177,Field Technician,Positive,0.31875
+2528,Quality Assurance Engineer,Positive,0.31857142857142856
+598,Cleaner,Positive,0.31857142857142856
+2437,Production Technician,Positive,0.3183333333333333
+3088,Senior Sales,Positive,0.3183333333333333
+94,Administrative Coordinator,Positive,0.3175
+2614,Regulatory Specialist,Positive,0.3175
+3004,Senior Infrastructure Engineer,Positive,0.3175
+2212,Patient Registrar,Positive,0.3175
+412,Business Operations Analyst,Positive,0.3175
+2160,Outbound Sales Representative,Positive,0.3175
+2520,Quality,Positive,0.3175
+1309,Full Time,Positive,0.3175
+12,ASE,Positive,0.3175
+1049,Ecommerce Associate,Positive,0.3175
+3662,UI Designer,Positive,0.3166666666666667
+40,Accountant II,Positive,0.31666666666666665
+816,Customer Care Executive,Positive,0.31666666666666665
+1278,Front End Developer,Positive,0.31666666666666665
+2585,Recruiting Coordinator,Positive,0.316
+2370,Produce Clerk,Positive,0.315625
+2332,Principal Scientist,Positive,0.31500000000000006
+1493,Human Resources Professional,Positive,0.315
+2929,Senior Customer Service Representative,Positive,0.315
+606,Client Director,Positive,0.315
+946,Department Head,Positive,0.315
+2637,Research Associate II,Positive,0.315
+2552,Quantity Surveyor,Positive,0.315
+1363,Graduate Program,Positive,0.315
+3551,Technical Sales Representative,Positive,0.315
+3268,Software Development Engineer (SDE1),Positive,0.315
+2055,Multi,Positive,0.315
+2392,Product Marketing,Positive,0.315
+1862,MET Associate,Positive,0.315
+667,Community Assistant,Positive,0.315
+2210,Patient Care Technician,Positive,0.315
+1873,Maharashtra,Positive,0.315
+663,Communications,Positive,0.31399999999999995
+3166,Senior Test Engineer,Positive,0.31375
+3122,Senior Solutions Engineer,Positive,0.31375
+3147,Senior Technical Analyst,Positive,0.31375
+2296,Portfolio Analyst,Positive,0.3133333333333333
+3157,Senior Technical Support Engineer,Positive,0.3133333333333333
+3012,Senior Leader,Positive,0.31300000000000006
+2695,S S E(Senior Software Engineer),Positive,0.313
+833,Customer Relations Representative,Positive,0.3125
+219,Associate Account Executive,Positive,0.3125
+828,Customer Experience Specialist,Positive,0.3125
+1455,Helper,Positive,0.3125
+353,Billing,Positive,0.3125
+1162,Fellow,Positive,0.3125
+2408,Production Assistant,Positive,0.312
+76,Adjunct Professor,Positive,0.311875
+1685,Java SSE,Positive,0.3116666666666667
+3265,Software Development Engineer (SDE),Positive,0.31125
+3653,Treasury Analyst,Positive,0.31125
+451,CNA,Positive,0.31125
+3115,Senior Software Test Engineer,Positive,0.31125
+2555,R&D,Positive,0.31
+590,Claims Supervisor,Positive,0.31
+2310,Preloader,Positive,0.31
+3594,Territory Sales Representative,Positive,0.31
+2741,Sale Representative,Positive,0.31
+1047,ETL Developer,Positive,0.31
+1773,Lead Technician,Positive,0.31
+3074,Senior RPA Developer,Positive,0.31
+2151,Order Management Specialist,Positive,0.31
+1668,Investigator,Positive,0.30999999999999994
+1477,Human Resources Assistant,Positive,0.3092857142857143
+2557,R&D Engineer,Positive,0.309
+2497,Purchasing,Positive,0.309
+3380,Stock Controller,Positive,0.309
+25,Account Assistant,Positive,0.30874999999999997
+2175,PTA,Positive,0.30833333333333335
+648,Collections Agent,Positive,0.30833333333333335
+3501,Tax Associate,Positive,0.30833333333333335
+1882,Maintenance,Positive,0.308125
+3596,Test Analyst,Positive,0.308
+1767,Lead Recruiter,Positive,0.3075
+2989,Senior Hardware Engineer,Positive,0.3075
+1221,First Officer,Positive,0.3075
+1343,General Merchandise Clerk,Positive,0.3075
+933,Deli,Positive,0.3066666666666667
+2785,Sales Leader,Positive,0.30666666666666664
+3519,Tech Lead,Positive,0.30625
+2279,Piping Engineer,Positive,0.30625
+2730,Safety,Positive,0.30625
+2398,Product Specialist,Positive,0.30500000000000005
+1016,Distribution Supervisor,Positive,0.30500000000000005
+1146,FOH,Positive,0.305
+385,Business Architect,Positive,0.305
+1110,Equipment Engineer,Positive,0.305
+2947,Senior Developer,Positive,0.305
+2569,Real Estate Agent,Positive,0.305
+7,AML Compliance Analyst,Positive,0.305
+3073,Senior R&D Engineer,Positive,0.305
+2459,Program Specialist,Positive,0.305
+2005,Medical Technologist,Positive,0.305
+1640,Intake Coordinator,Positive,0.305
+2945,Senior DevOps Engineer,Positive,0.305
+3079,Senior Research Engineer,Positive,0.305
+96,Administrative Secretary,Positive,0.305
+301,BDE,Positive,0.305
+1024,Doctoral Student,Positive,0.305
+2058,N A,Positive,0.305
+321,Bakery Associate,Positive,0.305
+442,CAE Engineer,Positive,0.30416666666666664
+3171,Senior User Experience Designer,Positive,0.304
+3579,Technology,Positive,0.30374999999999996
+1320,GET,Positive,0.30333333333333334
+3173,Senior Vice President,Positive,0.30333333333333334
+1472,Human Resources Administrator,Positive,0.30333333333333334
+1515,IT Coordinator,Positive,0.30333333333333334
+2794,Sales Person,Positive,0.3033333333333333
+2799,Sales Specialist,Positive,0.303
+2922,Senior Coordinator,Positive,0.3025
+2726,SSR,Positive,0.3025
+1367,Graduate Software Engineer,Positive,0.3025
+111,Aerospace Engineer,Positive,0.3025
+2000,Medical Scribe,Positive,0.3025
+82,Administration Assistant,Positive,0.3025
+1739,Laboratory Assistant,Positive,0.3025
+1905,Management Assistant,Positive,0.3016666666666667
+90,Administrative Assistant III,Positive,0.3016666666666667
+3727,Video Producer,Positive,0.3016666666666667
+290,Automation Engineer,Positive,0.3016666666666667
+3042,Senior Process Associate,Positive,0.3016666666666667
+2196,Part Time Package Handler,Positive,0.30125
+2505,QA Automation Engineer,Positive,0.30125
+446,CDL Driver,Positive,0.30125
+31,Account Director,Positive,0.300625
+3347,Sr. Software Engineer,Positive,0.30000000000000004
+291,Automation Tester,Positive,0.30000000000000004
+971,Device Associate,Positive,0.30000000000000004
+256,Associate Software Engineer Developer,Positive,0.30000000000000004
+356,Billing Coordinator,Positive,0.30000000000000004
+802,Culinary Specialist,Positive,0.30000000000000004
+155,Applications Development Analyst,Positive,0.30000000000000004
+982,Digital Marketing Analyst,Positive,0.3
+838,Customer Relationship Officer,Positive,0.3
+944,Dentist,Positive,0.3
+1044,ENGINEER,Positive,0.3
+1420,HRIS Analyst,Positive,0.3
+3159,Senior Technical Support Specialist,Positive,0.3
+1404,H R,Positive,0.3
+3748,Warehouse Operative/Picker,Positive,0.3
+877,Customer Services,Positive,0.3
+3737,Warehouse,Positive,0.3
+904,Dairy Clerk,Positive,0.3
+3212,Service Representative,Positive,0.3
+123,All,Positive,0.3
+2708,SDM,Positive,0.3
+278,Audit,Positive,0.3
+622,Client Support Specialist,Positive,0.3
+1491,Human Resources Leader,Positive,0.3
+1495,Human Resources Representative,Positive,0.3
+2974,Senior Front End Developer,Positive,0.3
+690,Computer Scientist,Positive,0.3
+702,Construction Worker,Positive,0.3
+2494,Psychologist,Positive,0.3
+3389,Store Assistant,Positive,0.3
+2707,SDE2,Positive,0.3
+456,CNC Operator,Positive,0.3
+3258,Software Associate,Positive,0.3
+761,Cost Engineer,Positive,0.3
+2717,SQA Engineer,Positive,0.3
+1843,Logistics Coordinator,Positive,0.299375
+1679,Janitor,Positive,0.29875
+1438,Head of Sales,Positive,0.29874999999999996
+3247,Social Worker,Positive,0.29874999999999996
+2239,Performance Test Engineer,Positive,0.29833333333333334
+1192,Finance Director,Positive,0.29833333333333334
+2076,Non,Positive,0.29833333333333334
+2283,Planning,Positive,0.29833333333333334
+409,Business Intelligence Developer,Positive,0.29833333333333334
+2779,Sales Floor Associate,Positive,0.2975
+53,Accounts Executive,Positive,0.2975
+3106,Senior Site Reliability Engineer,Positive,0.2975
+893,Cyber Security Analyst,Positive,0.2975
+3712,Vice President Business Development,Positive,0.2975
+226,Associate Business Analyst,Positive,0.297
+1417,HR Specialist,Positive,0.2966666666666667
+1170,Field Service Engineer,Positive,0.2966666666666667
+1002,Director of Operations,Positive,0.2966666666666667
+27,Account Associate,Positive,0.2966666666666667
+2039,Millwright,Positive,0.29666666666666663
+2841,Scrum Master,Positive,0.29642857142857143
+2750,Sales Ambassador,Positive,0.29625
+125,Allocation Analyst,Positive,0.29625
+1483,Human Resources Coordinator,Positive,0.2957142857142857
+2667,Retail Sales Merchandiser,Positive,0.29500000000000004
+3189,Server/Waitress,Positive,0.29500000000000004
+2008,Member Representative,Positive,0.29500000000000004
+2860,Security Guard,Positive,0.295
+69,Actuary,Positive,0.295
+2701,SAP Analyst,Positive,0.295
+1379,Graphic Artist,Positive,0.295
+757,Correctional Officer,Positive,0.295
+2732,Safety Coordinator,Positive,0.295
+3454,Support Associate,Positive,0.295
+3638,Translator,Positive,0.295
+1731,LVN,Positive,0.295
+2139,Operations Specialist,Positive,0.295
+3203,Service Desk Agent,Positive,0.295
+514,Cashier/Sales Associate,Positive,0.295
+3037,Senior Principal Engineer,Positive,0.295
+1656,Inventory Associate,Positive,0.295
+1530,IT Helpdesk Technician,Positive,0.294
+2228,Payroll Specialist,Positive,0.294
+3626,Trainer,Positive,0.29333333333333333
+643,Co,Positive,0.29333333333333333
+570,Civil Engineer,Positive,0.29333333333333333
+3208,Service Desk Technician,Positive,0.29333333333333333
+3723,Vice President of Sales,Positive,0.2933333333333333
+3753,Warehouse Packer,Positive,0.2933333333333333
+114,Agent,Positive,0.2933333333333333
+3680,Undergraduate Teaching Assistant,Positive,0.29312499999999997
+1580,Independent Contractor,Positive,0.2928571428571428
+2452,Program Coordinator,Positive,0.29250000000000004
+3039,Senior Principal Software Engineer,Positive,0.29250000000000004
+3770,Welder/Fabricator,Positive,0.2925
+1193,Finance Executive,Positive,0.2925
+2180,Packaging Engineer,Positive,0.2925
+52,Accounts Assistant,Positive,0.2925
+3765,Web Developer,Positive,0.2925
+1670,Investment Advisor,Positive,0.2925
+312,Backend Developer,Positive,0.2925
+659,Commercial Director,Positive,0.2925
+1066,Electrical Technician,Positive,0.2925
+359,Billing Specialist,Positive,0.2925
+71,Adjunct Faculty,Positive,0.2925
+208,Assistant Software Engineer,Positive,0.2925
+2938,Senior Database Administrator,Positive,0.2925
+1879,Mail Sorter,Positive,0.2925
+3507,Teaching Assistant,Positive,0.2922222222222222
+1556,IT Support Analyst,Positive,0.29214285714285715
+20,Academic Advisor,Positive,0.292
+1520,IT Director,Positive,0.2916666666666667
+2368,Produce Associate,Positive,0.2916666666666667
+978,Dietary Aide,Positive,0.2916666666666667
+2879,Senior Administrative Assistant,Positive,0.2916666666666667
+1100,Enterprise Architect,Positive,0.2916666666666667
+1629,Insurance Advisor,Positive,0.29125
+2522,Quality Analyst,Positive,0.29125
+463,CSM,Positive,0.29125
+1069,Electrician,Positive,0.29125
+2498,Purchasing Agent,Positive,0.29125
+11,AREA SALES MANAGER,Positive,0.29100000000000004
+2686,Risk Management,Positive,0.29083333333333333
+206,Assistant Professor,Positive,0.29083333333333333
+3319,Solutions Engineer,Positive,0.29071428571428576
+566,Chief Financial Officer (CFO),Positive,0.29000000000000004
+3062,Senior Project Leader,Positive,0.29000000000000004
+1289,Front of House Staff,Positive,0.29000000000000004
+73,Adjunct Instructor,Positive,0.29000000000000004
+879,Customer Services Representative,Positive,0.29000000000000004
+3118,Senior Solution Engineer,Positive,0.29
+1244,Food Service Supervisor,Positive,0.29
+1104,Environmental Engineer,Positive,0.29
+2192,Part Time,Positive,0.29
+1329,Game Developer,Positive,0.29
+1687,Java Software Developer,Positive,0.29
+1675,Investment Banking Associate,Positive,0.29
+2325,Principal,Positive,0.29
+3034,Senior PM,Positive,0.29
+1849,Logistics Supervisor,Positive,0.29
+268,Associate Trainer,Positive,0.29
+1607,Inside Sales,Positive,0.28900000000000003
+2223,Payroll Administrator,Positive,0.28875
+3156,Senior Technical Specialist,Positive,0.28875
+3031,Senior Operations Analyst,Positive,0.2885714285714286
+624,Clinical Assistant,Positive,0.28833333333333333
+1071,Electronic Technician,Positive,0.28833333333333333
+343,Benefits Administrator,Positive,0.28833333333333333
+67,Actuarial Associate,Positive,0.288
+3138,Senior Systems Architect,Positive,0.28785714285714287
+1357,Graduate Engineer Trainee,Positive,0.2878571428571428
+3132,Senior Support Engineer,Positive,0.28750000000000003
+3461,Surgical Technologist,Positive,0.2875
+3231,Shipping And Receiving Clerk,Positive,0.2875
+1316,Fund Accountant,Positive,0.2875
+2987,Senior HRBP,Positive,0.2875
+871,Customer Service Supervisor,Positive,0.2875
+164,Applications Support Engineer,Positive,0.2875
+1470,Housekeeping,Positive,0.2875
+1613,Installation Technician,Positive,0.2875
+3149,Senior Technical Architect,Positive,0.2875
+3717,Vice President Marketing,Positive,0.2875
+2835,Scheduling Coordinator,Positive,0.2875
+3199,Service Delivery,Positive,0.2866666666666667
+2420,Production Line Worker,Positive,0.2866666666666667
+727,Contract Specialist,Positive,0.2866666666666667
+1119,Esthetician,Positive,0.2866666666666667
+2620,Relationship Officer,Positive,0.2866666666666667
+1390,Grocery Clerk,Positive,0.28625
+3293,Software Engineering,Positive,0.28625
+1012,Dispatcher,Positive,0.28625
+2769,Sales Counselor,Positive,0.28600000000000003
+3049,Senior Product Designer,Positive,0.286
+102,Administrator,Positive,0.2857142857142857
+2491,Property Claims Adjuster,Positive,0.28500000000000003
+1111,Equipment Operator,Positive,0.28500000000000003
+1039,E,Positive,0.28500000000000003
+861,Customer Service Engineer,Positive,0.28500000000000003
+3607,Therapist,Positive,0.28500000000000003
+1596,Information Technology,Positive,0.28500000000000003
+2082,Nursing,Positive,0.285
+2059,National Account Executive,Positive,0.285
+2466,Project Assistant,Positive,0.285
+1212,Financial Reporting Analyst,Positive,0.285
+1926,Marine Engineer,Positive,0.285
+1837,Loan Specialist,Positive,0.285
+1342,General Merchandise Associate,Positive,0.285
+3672,UX Designer,Positive,0.285
+2471,Project Coordinator,Positive,0.285
+0,3D Animator,Positive,0.285
+135,Analyst/Software Engineer,Positive,0.285
+2907,Senior Buyer,Positive,0.28400000000000003
+985,Digital Marketing Specialist,Positive,0.28375
+3273,Software Development Engineer In Test,Positive,0.28375
+684,Compliance Specialist,Positive,0.28375
+1449,Help Desk Analyst,Positive,0.2833333333333334
+2857,Security Engineer,Positive,0.2833333333333334
+79,Admin Assistant,Positive,0.2833333333333333
+3433,Supplier Quality Engineer,Positive,0.2833333333333333
+2588,Recruitment,Positive,0.2833333333333333
+697,Concierge,Positive,0.28300000000000003
+191,Assistant,Positive,0.28300000000000003
+2242,Personal Banker,Positive,0.28300000000000003
+2444,Professor,Positive,0.28300000000000003
+3437,Supply Chain Analyst,Positive,0.28300000000000003
+3095,Senior Sales Executive,Positive,0.28285714285714286
+2454,Program Director,Positive,0.28250000000000003
+349,Big Data Engineer,Positive,0.28250000000000003
+203,Assistant Merchandiser,Positive,0.2825
+850,Customer Service Agent (CSA),Positive,0.2825
+1528,IT Helpdesk Analyst,Positive,0.2825
+857,Customer Service Clerk,Positive,0.2825
+303,BI Analyst,Positive,0.28200000000000003
+2807,Sales Support Representative,Positive,0.2816666666666667
+748,Corporate,Positive,0.2816666666666667
+1195,Finance Officer,Positive,0.2816666666666667
+1109,Environmental Specialist,Positive,0.2816666666666667
+2298,Postdoctoral Fellow,Positive,0.28125
+2125,Operations Assistant,Positive,0.28125
+65,Actuarial Analyst,Positive,0.281
+3263,Software Designer,Positive,0.281
+2802,Sales Support,Positive,0.28
+2340,Process Assistant,Positive,0.28
+1729,Kitchen Staff,Positive,0.28
+2911,Senior Claims Examiner,Positive,0.28
+2777,Sales Engineer,Positive,0.28
+2048,Morning Stocker,Positive,0.28
+571,Claim Associate,Positive,0.28
+2303,Postdoctoral Scholar,Positive,0.28
+41,Accounting,Positive,0.28
+2590,Recruitment Coordinator,Positive,0.28
+3429,Superintendent,Positive,0.28
+2230,Peer Mentor,Positive,0.28
+1841,Logistics Analyst,Positive,0.28
+1550,IT Specialist,Positive,0.27999999999999997
+3384,Stocker,Positive,0.27999999999999997
+862,Customer Service Executive,Positive,0.27999999999999997
+161,Applications Support,Positive,0.27999999999999997
+194,Assistant Accountant,Positive,0.27999999999999997
+3409,Structural Engineer,Positive,0.27999999999999997
+3382,Stock Lead,Positive,0.27999999999999997
+1165,Field Representative,Positive,0.27999999999999997
+1410,HR Advisor,Positive,0.27999999999999997
+2648,Reservations Agent,Positive,0.279375
+772,Courier,Positive,0.279
+2709,SDR,Positive,0.27875
+9,AP Specialist,Positive,0.27875
+60,Accounts Payable Specialist,Positive,0.2785714285714286
+2034,Mid,Positive,0.2783333333333334
+1060,Educator,Positive,0.2783333333333333
+2470,Project Controls Engineer,Positive,0.2783333333333333
+1642,Integration Engineer,Positive,0.2783333333333333
+2090,OUTSIDE SALES,Positive,0.2783333333333333
+3216,Service Technician,Positive,0.2783333333333333
+3348,Staff Accountant,Positive,0.278125
+78,Adjuster,Positive,0.2775
+3006,Senior Instructional Designer,Positive,0.27749999999999997
+3076,Senior Research Analyst,Positive,0.27749999999999997
+2605,Registered Dietitian,Positive,0.27749999999999997
+965,Desktop Support Technician,Positive,0.27749999999999997
+3577,Technologist,Positive,0.27749999999999997
+2184,Packing,Positive,0.27749999999999997
+1756,Lead Business Analyst,Positive,0.27749999999999997
+3378,Stock Clerk,Positive,0.277
+3137,Senior Systems Analyst,Positive,0.277
+2547,Quality Technician,Positive,0.27666666666666667
+3108,Senior Software Architect,Positive,0.27666666666666667
+509,Cashier/Bagger,Positive,0.2761111111111111
+916,Data Entry Clerk,Positive,0.276
+2479,Project Lead,Positive,0.2758333333333333
+2201,Partner,Positive,0.2758333333333333
+2141,Operations Supervisor,Positive,0.2757142857142857
+1664,Inventory Specialist,Positive,0.275
+1505,IT,Positive,0.275
+721,Content Specialist,Positive,0.275
+3387,Stockroom Assistant,Positive,0.275
+2097,Office Associate,Positive,0.275
+3103,Senior Security Analyst,Positive,0.275
+1360,Graduate Engineering Trainee GET,Positive,0.275
+890,Customer Support Representative,Positive,0.275
+183,Assembler I,Positive,0.275
+3009,Senior Lead,Positive,0.275
+2685,Risk Analyst,Positive,0.275
+2067,Network Engineer II,Positive,0.275
+3275,Software Development Engineer In Test (SDET) II,Positive,0.275
+319,Bakery,Positive,0.275
+1743,Laborer,Positive,0.275
+1608,Inside Sales Associate,Positive,0.275
+752,Corporate Office,Positive,0.275
+3598,Test Automation Engineer,Positive,0.275
+3515,Tech,Positive,0.27499999999999997
+2488,Project Planner,Positive,0.27499999999999997
+1546,IT Service Desk,Positive,0.27499999999999997
+778,Covid,Positive,0.27499999999999997
+1890,Maintenance Supervisor,Positive,0.27499999999999997
+941,Demand Planner,Positive,0.27437500000000004
+3545,Technical Lead,Positive,0.2742857142857143
+852,Customer Service Assistant,Positive,0.27416666666666667
+2313,Prep Cook/Dishwasher,Positive,0.274
+1962,Material Handler,Positive,0.274
+3294,Software Engineering Analyst,Positive,0.27375
+1117,Equity Research Associate,Positive,0.27375
+516,Cashier/Stocker,Positive,0.27375
+522,Category Analyst,Positive,0.27375
+3558,Technical Specialist,Positive,0.2733333333333334
+3027,Senior Network Engineer,Positive,0.2733333333333334
+1131,Executive Administrative Assistant,Positive,0.2733333333333333
+62,Accounts Receivable,Positive,0.2733333333333333
+775,Courtesy Clerk,Positive,0.2733333333333333
+3065,Senior QA Engineer,Positive,0.273
+196,Assistant Buyer,Positive,0.2725
+1534,IT Management,Positive,0.2725
+2862,Security Officer,Positive,0.2725
+1763,Lead Developer,Positive,0.2725
+3331,Sourcing Specialist,Positive,0.2725
+3514,Team Supervisor,Positive,0.2725
+2461,Programmer,Positive,0.2725
+1516,IT Department,Positive,0.2725
+2324,Pricing Specialist,Positive,0.2725
+3603,Test Lead,Positive,0.2725
+3102,Senior Scrum Master,Positive,0.27249999999999996
+2812,Sales Trainee,Positive,0.27249999999999996
+3508,Team Assistant,Positive,0.272
+746,Copywriter,Positive,0.272
+3286,Software Engineer III,Positive,0.27166666666666667
+55,Accounts Payable,Positive,0.27166666666666667
+1209,Financial Controller,Positive,0.27166666666666667
+3624,Trainee Software Engineer,Positive,0.27166666666666667
+2425,Production Operator,Positive,0.27166666666666667
+3584,Technology Associate,Positive,0.27166666666666667
+2723,SSE,Positive,0.27166666666666667
+1333,Gas Station Attendant,Positive,0.27166666666666667
+2656,Restaurant Staff,Positive,0.27166666666666667
+3493,Talent Acquisition Specialist,Positive,0.2714285714285714
+2020,Merchandise Coordinator,Positive,0.27125
+3531,Technical Architect,Positive,0.271
+1600,Information Technology Specialist,Positive,0.271
+2746,Sales Advisor,Positive,0.271
+3714,Vice President Engineering,Positive,0.2708333333333333
+2502,Python Developer,Positive,0.27
+3316,Solutions Analyst,Positive,0.27
+3334,Sous Chef,Positive,0.27
+741,Copy Center Associate,Positive,0.27
+1010,Dishwasher,Positive,0.27
+147,Any Position,Positive,0.27
+3,AGM,Positive,0.27
+3622,Trainee Engineer,Positive,0.27
+908,Data Architect,Positive,0.27
+3193,Service Clerk,Positive,0.27
+2845,Seasonal Cashier,Positive,0.27
+2199,Part Time Service Crew,Positive,0.27
+3081,Senior Researcher,Positive,0.26928571428571424
+1951,Marketing Executive,Positive,0.26928571428571424
+2572,Receiver,Positive,0.269
+2096,Office Assistant,Positive,0.269
+3631,Training Specialist,Positive,0.269
+2855,Security Architect,Positive,0.26875000000000004
+369,Brand Representative,Positive,0.26875000000000004
+1264,Front,Positive,0.26875
+541,Certified Trainer,Positive,0.26857142857142857
+3125,Senior Specialist,Positive,0.2683333333333333
+1400,Guest Service Associate,Positive,0.2683333333333333
+2681,Revenue Management Analyst,Positive,0.2683333333333333
+855,Customer Service Cashier,Positive,0.2683333333333333
+186,Assembly Technician,Positive,0.2683333333333333
+457,COUNTER SALES,Positive,0.2675
+3526,Technical,Positive,0.2675
+1565,IT Systems Administrator,Positive,0.26749999999999996
+2367,Procurement Specialist,Positive,0.26666666666666666
+655,Commercial,Positive,0.26666666666666666
+954,Designer,Positive,0.26666666666666666
+2487,Project Officer,Positive,0.26666666666666666
+300,BDC Representative,Positive,0.26666666666666666
+263,Associate Technology L1,Positive,0.26666666666666666
+1918,Manufacturing Engineer,Positive,0.26666666666666666
+3308,Software Tester,Positive,0.26625
+615,Client Service Representative,Positive,0.2657142857142857
+2270,"Physician Assistant, PA",Positive,0.265
+2953,Senior Director Marketing,Positive,0.265
+1677,Investment Specialist,Positive,0.265
+1654,Inventory Analyst,Positive,0.265
+525,Catering Assistant,Positive,0.265
+1339,General Labor,Positive,0.265
+1594,Information Systems Security Officer (ISSO),Positive,0.265
+1872,Machinist,Positive,0.265
+1542,IT Senior Analyst,Positive,0.265
+1127,Everything,Positive,0.265
+98,Administrative Specialist,Positive,0.265
+545,Chat Support,Positive,0.265
+1261,Freelancer,Positive,0.265
+2146,Operator,Positive,0.265
+3421,Stylist,Positive,0.265
+882,Customer Success Specialist,Positive,0.265
+2103,Office Staff,Positive,0.265
+2147,Optometrist,Positive,0.265
+2913,Senior Claims Specialist,Positive,0.26499999999999996
+3476,Systems Software Engineer,Positive,0.26499999999999996
+1666,Investigation Specialist,Positive,0.26499999999999996
+1089,Engineering Analyst,Positive,0.26499999999999996
+315,Bagger,Positive,0.264375
+2281,Planner,Positive,0.2642857142857143
+3575,Technician,Positive,0.2638888888888889
+3317,Solutions Architect,Positive,0.26375000000000004
+3605,Tester,Positive,0.26375
+202,Assistant Engineer,Positive,0.26375
+935,Deli Associate,Positive,0.26357142857142857
+1748,Lawyer,Positive,0.26333333333333336
+2646,Reservation Sales Agent,Positive,0.26333333333333336
+2893,Senior Architect,Positive,0.26333333333333336
+2598,Regional Sales Director,Positive,0.263
+2022,Merchandise Planner,Positive,0.263
+3706,Various,Positive,0.263
+2866,Selector,Positive,0.26285714285714284
+2808,Sales Support Specialist,Positive,0.2625
+1672,Investment Associate,Positive,0.2625
+846,Customer Service Advisor,Positive,0.2625
+3299,Software Quality Assurance Engineer,Positive,0.2625
+3456,Support Engineer,Positive,0.2625
+2421,Production Machine Operator,Positive,0.2625
+476,Call Center Agent,Positive,0.26249999999999996
+1868,MSA,Positive,0.26249999999999996
+81,Administration,Positive,0.26249999999999996
+1974,Meat/Seafood Clerk,Positive,0.26249999999999996
+2854,Security Analyst,Positive,0.26249999999999996
+3423,Subject Matter Expert (SME),Positive,0.26249999999999996
+2771,Sales Development Representative,Positive,0.26249999999999996
+1489,Human Resources Generalist,Positive,0.2621428571428571
+2413,Production Coordinator,Positive,0.2621428571428571
+2066,Network Engineer,Positive,0.26187499999999997
+3641,Transportation,Positive,0.26166666666666666
+2716,SOC Analyst,Positive,0.26166666666666666
+259,Associate Systems Engineer,Positive,0.2614285714285714
+2885,Senior Analyst Developer,Positive,0.26125
+3721,Vice President Sales,Positive,0.26125
+392,Business Developer,Positive,0.261
+1633,Insurance Broker,Positive,0.261
+1750,Lead,Positive,0.261
+284,Auditor,Positive,0.2608333333333333
+2612,Registrar,Positive,0.26071428571428573
+243,Associate Financial Analyst,Positive,0.26
+819,Customer Care Representative,Positive,0.26
+1253,Forklift Driver,Positive,0.26
+325,Bank Teller,Positive,0.26
+1508,IT Architect,Positive,0.26
+1277,Front End Associate,Positive,0.26
+3033,Senior Oracle,Positive,0.26
+3239,Shuttle Driver,Positive,0.26
+1907,Management Trainee,Positive,0.26
+2876,Senior Account Executive,Positive,0.26
+1185,Finance Associate,Positive,0.26
+1874,Mail Carrier,Positive,0.26
+979,Digital Analyst,Positive,0.26
+1476,Human Resources Analyst,Positive,0.26
+158,Applications Specialist,Positive,0.26
+2446,Program Analyst,Positive,0.26
+2183,Packer,Positive,0.25999999999999995
+3307,Software Test Engineer,Positive,0.2594444444444444
+1474,Human Resources Advisor,Positive,0.259
+3756,Warehouse Selector,Positive,0.2588888888888889
+1203,Financial Advisor,Positive,0.25875000000000004
+3250,Software,Positive,0.25875000000000004
+248,Associate Professor,Positive,0.25875000000000004
+2069,Network Specialist,Positive,0.25875
+781,Creative,Positive,0.25875
+666,Communications Specialist,Positive,0.25875
+1062,Electrical Engineer,Positive,0.25857142857142856
+3407,Strategy,Positive,0.25833333333333336
+619,Client Services,Positive,0.25833333333333336
+2381,Product Designer,Positive,0.25833333333333336
+1806,Library Assistant,Positive,0.25833333333333336
+2448,Program Assistant,Positive,0.2583333333333333
+2301,Postdoctoral Research Fellow,Positive,0.2575
+1150,Facilities Coordinator,Positive,0.2575
+2150,Order Filler,Positive,0.2575
+1248,Food and Beverage,Positive,0.25749999999999995
+524,Category Specialist,Positive,0.257
+1353,Graduate Assistant,Positive,0.256875
+2389,Product Management,Positive,0.25666666666666665
+3462,Surveyor,Positive,0.25666666666666665
+3408,Strategy Analyst,Positive,0.25666666666666665
+389,Business Controller,Positive,0.25666666666666665
+2307,Pre,Positive,0.25625
+2936,Senior Data Scientist,Positive,0.25625
+1611,Inspector,Positive,0.25625
+3601,Test Engineer,Positive,0.2561111111111111
+1939,Marketing Analyst,Positive,0.25583333333333336
+2960,Senior Embedded Software Engineer,Positive,0.2558333333333333
+1272,Front Desk Receptionist,Positive,0.2557142857142857
+1971,Meat Cutter,Positive,0.255625
+2574,Receiving,Positive,0.255
+2079,Nurse,Positive,0.255
+1113,Equipment Technician,Positive,0.255
+1569,IT Technician,Positive,0.255
+3245,Social Media Specialist,Positive,0.255
+715,Content Creator,Positive,0.255
+3477,Systems Test Engineer,Positive,0.255
+1498,Human Resources Supervisor,Positive,0.255
+2687,Robotic Process Automation (RPA) Developer,Positive,0.255
+1485,Human Resources Director,Positive,0.2542857142857143
+2932,Senior Data Analyst,Positive,0.25416666666666665
+2092,Occupational Therapist,Positive,0.25416666666666665
+2439,Production Worker,Positive,0.254
+1434,Head of Department,Positive,0.25375000000000003
+1671,Investment Analyst,Positive,0.25375000000000003
+410,Business Office Associate,Positive,0.25375
+2360,Procurement,Positive,0.25333333333333335
+1004,Director of Sales,Positive,0.25333333333333335
+2300,Postdoctoral Research Associate,Positive,0.253
+3690,User Experience Designer,Positive,0.25285714285714284
+821,Customer Care Specialist,Positive,0.2525
+2966,Senior Executive,Positive,0.2525
+1713,KYC Analyst,Positive,0.2525
+2207,Patient Account Representative,Positive,0.2525
+3695,Utility,Positive,0.2525
+544,Chartered Accountant,Positive,0.2525
+1901,Management Accountant,Positive,0.2525
+1988,Medical Assistant,Positive,0.2525
+3195,Service Coordinator,Positive,0.2525
+912,Data Engineer,Positive,0.252
+3560,Technical Support,Positive,0.252
+2440,Professional,Positive,0.2516666666666667
+1428,Head,Positive,0.25166666666666665
+48,Accounting Clerk,Positive,0.25166666666666665
+1453,Helpdesk Technician,Positive,0.25166666666666665
+246,Associate Producer,Positive,0.251
+3170,Senior Underwriter,Positive,0.2508333333333333
+3574,Technical Writer,Positive,0.250625
+3761,Wealth Management,Positive,0.25
+658,Commercial Analyst,Positive,0.25
+1345,Geologist,Positive,0.25
+2401,Product Support Specialist,Positive,0.25
+92,Administrative Clerk,Positive,0.25
+189,Asset Protection Specialist,Positive,0.25
+992,Director IT,Positive,0.25
+423,Business Support,Positive,0.25
+3343,Sr. Associate,Positive,0.25
+1970,Meat Clerk,Positive,0.25
+341,Behavior Technician,Positive,0.25
+2532,Quality Assurance Technician,Positive,0.25
+338,Bartender/Server,Positive,0.25
+3035,Senior Payroll Specialist,Positive,0.25
+261,Associate Technical Professional,Positive,0.25
+2288,Plant Engineer,Positive,0.25
+527,Catering Coordinator,Positive,0.25
+1536,IT Operations Analyst,Positive,0.25
+3522,Tech Support Engineer,Positive,0.25
+153,Applications Architect,Positive,0.25
+2924,Senior Counsel,Positive,0.25
+1566,IT Systems Analyst,Positive,0.25
+1431,Head Of Operations,Positive,0.25
+1796,Legal Assistant,Positive,0.25
+3184,Server/Bartender,Positive,0.25
+2675,Retention Representative,Positive,0.25
+2189,Paraprofessional,Positive,0.25
+1064,Electrical Engineer II,Positive,0.25
+388,Business Associate,Positive,0.25
+2411,Production Associate,Positive,0.25
+3349,Staff Analyst,Positive,0.25
+2837,School Bus Driver,Positive,0.25
+2246,Personal Shopper/OGP,Positive,0.25
+1216,Financial Specialist,Positive,0.25
+59,Accounts Payable Clerk,Positive,0.25
+2690,Route Sales Representative,Positive,0.25
+3629,Training Coordinator,Positive,0.25
+3306,Software Test Automation Engineer,Positive,0.24999999999999997
+3017,Senior Management,Positive,0.24999999999999997
+1341,General Laborer,Positive,0.2492857142857143
+1372,Graduate Teaching Assistant,Positive,0.24916666666666668
+2191,Part,Positive,0.24900000000000003
+1427,Hardware Engineer,Positive,0.24900000000000003
+3772,Wellness Coach,Positive,0.24900000000000003
+2775,Sales Director,Positive,0.24875000000000003
+644,Coach,Positive,0.24875
+1626,Instrumentation Engineer,Positive,0.24875
+1507,IT Administrator,Positive,0.24833333333333338
+2844,Seasonal Associate,Positive,0.2483333333333333
+286,Authorized Officer,Positive,0.24812499999999998
+2259,Phlebotomist,Positive,0.24800000000000005
+1243,Food Service,Positive,0.248
+444,CCE,Positive,0.248
+854,Customer Service Associate (CSA),Positive,0.248
+3406,Strategist,Positive,0.24785714285714286
+3187,Server/Waiter,Positive,0.24785714285714283
+2586,Recruiting Specialist,Positive,0.2475
+1302,Full,Positive,0.2475
+2011,Member Services,Positive,0.2475
+1375,Graduate Trainee,Positive,0.2475
+478,Call Center Customer Service Representative,Positive,0.2475
+1412,HR Business Partner,Positive,0.2475
+2018,Merchandise Associate,Positive,0.2475
+2512,QA Technician,Positive,0.2475
+3085,Senior SME,Positive,0.2475
+2015,Mental Health Technician,Positive,0.2475
+931,Debt Collector,Positive,0.24749999999999997
+869,Customer Service Representative II,Positive,0.24666666666666667
+1924,Manufacturing Technician,Positive,0.24666666666666667
+596,Class A Truck Driver,Positive,0.24666666666666667
+3716,Vice President Finance,Positive,0.24666666666666667
+1208,Financial Associate,Positive,0.24666666666666667
+3362,Staff RN,Positive,0.24642857142857144
+198,Assistant Designer,Positive,0.24625
+3234,Shipping and Receiving,Positive,0.24625
+2560,RN Staff Nurse,Positive,0.24625
+1965,Material Planner,Positive,0.24625
+2740,Sale Associate,Positive,0.246
+1391,Grocery Stocker,Positive,0.24571428571428572
+2074,Night Stocker,Positive,0.245625
+1936,Marketing,Positive,0.24555555555555555
+1855,Loss Prevention Associate,Positive,0.24500000000000002
+1585,Industrial Engineer,Positive,0.24500000000000002
+1714,Karnataka,Positive,0.24500000000000002
+1413,HR Coordinator,Positive,0.245
+3129,Senior Supply Chain Analyst,Positive,0.245
+242,Associate Engineer,Positive,0.245
+3393,Store Clerk,Positive,0.245
+967,Detailer,Positive,0.245
+3729,Virtual Customer Service Representative,Positive,0.245
+1327,Game Designer,Positive,0.245
+233,Associate Data Analyst,Positive,0.245
+1997,Medical Science Liaison,Positive,0.245
+2606,Registered Nurse,Positive,0.245
+128,Amazon Associate Tier I,Positive,0.245
+1160,Fast Food Worker,Positive,0.245
+251,Associate Recruiter,Positive,0.245
+2546,Quality Specialist,Positive,0.245
+2403,Production,Positive,0.24499999999999997
+1548,IT Service Desk Analyst,Positive,0.24416666666666667
+1775,Leader,Positive,0.24416666666666667
+400,Business Development Executive,Positive,0.24416666666666664
+1513,IT Business Analyst,Positive,0.24416666666666664
+2024,Merchandiser,Positive,0.244
+1859,Loss Prevention Specialist,Positive,0.244
+1174,Field Service Technician,Positive,0.244
+3457,Support Specialist,Positive,0.244
+1904,Management Analyst,Positive,0.24375000000000002
+323,Bakery Clerk,Positive,0.24375000000000002
+617,Client Service Specialist,Positive,0.24375000000000002
+3467,System Engineer,Positive,0.24375
+3227,Shipper/Receiver,Positive,0.24333333333333337
+350,Bilingual Customer Service Representative,Positive,0.24333333333333332
+3443,Supply Chain Planner,Positive,0.24333333333333332
+2222,Payroll,Positive,0.24333333333333332
+2345,Process Engineer,Positive,0.24333333333333332
+2462,Programmer/Analyst,Positive,0.24333333333333332
+178,Art Director,Positive,0.243125
+273,Attorney,Positive,0.24300000000000002
+2507,QA Engineer,Positive,0.24285714285714288
+2194,Part Time Cashier,Positive,0.24285714285714285
+3566,Technical Support Representative,Positive,0.24250000000000002
+3284,Software Engineer II,Positive,0.24250000000000002
+1691,Journeyman Electrician,Positive,0.2425
+1866,MRI Technologist,Positive,0.2425
+554,Chemical Operator,Positive,0.2425
+1986,Media Planner,Positive,0.2416666666666667
+3422,Subject Matter Expert,Positive,0.24166666666666667
+1009,"Director, Program Management",Positive,0.24166666666666667
+1388,Grocery Checker,Positive,0.24166666666666664
+1562,IT Support Technician,Positive,0.24125000000000002
+302,BDM,Positive,0.24000000000000005
+2592,Recruitment Specialist,Positive,0.24
+2886,Senior Android Developer,Positive,0.24
+2418,Production Lead,Positive,0.24
+2203,Passenger Service Agent,Positive,0.24
+2934,Senior Data Engineer,Positive,0.24
+2608,"Registered Nurse, Critical Care",Positive,0.24
+650,Collections Representative,Positive,0.24
+513,Cashier/Customer Service,Positive,0.24
+953,Design Engineer,Positive,0.24
+2524,Quality Assurance,Positive,0.24
+39,Accountant,Positive,0.24
+1468,Housekeeper,Positive,0.24
+335,"Barista, Shift Supervisor",Positive,0.24
+2641,Research Scientist,Positive,0.24
+3703,Valet Attendant,Positive,0.24
+3002,Senior IT Specialist,Positive,0.24
+2265,Physical Therapist,Positive,0.23916666666666667
+3567,Technical Support Specialist,Positive,0.23916666666666667
+1429,Head Cashier,Positive,0.23916666666666667
+2889,Senior Applications Developer,Positive,0.23900000000000002
+3257,Software Architect,Positive,0.23900000000000002
+3419,Student Worker,Positive,0.23875
+85,Administrative,Positive,0.2385714285714286
+156,Applications Engineer,Positive,0.2383333333333333
+2287,Planning Engineer,Positive,0.2383333333333333
+557,Chemist,Positive,0.2383333333333333
+1955,Marketing Specialist,Positive,0.23785714285714285
+740,Coordinator,Positive,0.23785714285714285
+3167,Senior Treasury Analyst,Positive,0.2375
+3524,Tech Support Representative,Positive,0.2375
+1270,Front Desk Associate,Positive,0.2375
+2780,Sales Floor Team Leader,Positive,0.2375
+3458,Support Staff,Positive,0.2375
+825,Customer Experience Associate,Positive,0.2375
+2530,Quality Assurance Specialist,Positive,0.2375
+1053,Editor,Positive,0.2375
+604,Client Advisor,Positive,0.23700000000000002
+2080,Nurse Practitioner,Positive,0.23700000000000002
+1770,Lead Software Engineer,Positive,0.2366666666666667
+3233,Shipping Clerk,Positive,0.2366666666666667
+1224,Flight Attendant,Positive,0.23666666666666666
+1737,Lab Technician,Positive,0.23642857142857143
+1722,Keyholder,Positive,0.23625000000000002
+2865,Security Specialist,Positive,0.23625000000000002
+2829,Sanitation Worker,Positive,0.23625000000000002
+100,Administrative Support,Positive,0.23625000000000002
+1847,Logistics Specialist,Positive,0.23600000000000004
+1303,Full Stack Developer,Positive,0.23583333333333334
+1620,Instructor,Positive,0.23583333333333334
+1522,IT Engineer,Positive,0.235625
+3550,Technical Recruiter,Positive,0.235625
+2900,Senior Auditor,Positive,0.23500000000000001
+2330,Principal Engineer,Positive,0.23500000000000001
+265,Associate Technology L2,Positive,0.23500000000000001
+3071,Senior Quality Engineer,Positive,0.23500000000000001
+367,Brand Ambassador,Positive,0.23500000000000001
+340,Beauty Advisor,Positive,0.23500000000000001
+1355,Graduate Engineer,Positive,0.23500000000000001
+3069,Senior Quality Assurance Engineer,Positive,0.23500000000000001
+1701,Junior Developer,Positive,0.235
+1269,Front Desk Agent,Positive,0.235
+839,Customer Representative,Positive,0.235
+705,Consulting Analyst,Positive,0.235
+2017,Mentor,Positive,0.235
+725,Contract Administrator,Positive,0.235
+2384,Product Development Engineer,Positive,0.235
+583,Claims Processor,Positive,0.235
+1036,Driver Helper,Positive,0.235
+2999,Senior IT Architect,Positive,0.235
+2377,Product Analyst,Positive,0.235
+1864,MIS Executive,Positive,0.235
+2737,Salaried Professional,Positive,0.235
+2626,Repair Technician,Positive,0.235
+1592,Information Security Specialist,Positive,0.235
+3075,Senior Recruiter,Positive,0.234375
+2127,Operations Associate,Positive,0.2342857142857143
+3061,Senior Project Engineer,Positive,0.23416666666666666
+724,Content Writer,Positive,0.23399999999999999
+253,Associate Sales Representative,Positive,0.23399999999999999
+193,Assistant Account Executive,Positive,0.23375
+3092,Senior Sales Associate,Positive,0.23375
+2253,PhD Student,Positive,0.23357142857142857
+3205,Service Desk Analyst,Positive,0.23357142857142857
+262,Associate Technical Support Engineer,Positive,0.2333333333333333
+119,Aircraft Maintenance Technician,Positive,0.2333333333333333
+3363,Staff Software Engineer,Positive,0.2333333333333333
+1017,District Leader,Positive,0.2333333333333333
+2683,Ride Operator,Positive,0.233125
+1462,Host/Hostess,Positive,0.233
+2634,Research Analyst,Positive,0.23285714285714285
+2481,Project Leader,Positive,0.2325
+1319,GENERAL SALES MANAGER,Positive,0.2325
+847,Customer Service Advocate,Positive,0.2325
+1231,Floor Staff,Positive,0.23249999999999998
+3338,Speech Language Pathologist,Positive,0.23249999999999998
+1022,Doctor,Positive,0.23249999999999998
+1115,Equity Research Analyst,Positive,0.231875
+2752,Sales Analyst,Positive,0.2316666666666667
+1406,HCA,Positive,0.2316666666666667
+3546,Technical Leader,Positive,0.2316666666666667
+567,Chief Operating Officer,Positive,0.23125
+1311,Full Time Sales Associate,Positive,0.23125
+152,Applications Analyst,Positive,0.231
+1201,Financial Accountant,Positive,0.23083333333333333
+486,Captain,Positive,0.23083333333333333
+973,Devops Engineer,Positive,0.23083333333333333
+3352,Staff Attorney,Positive,0.23
+2867,Self,Positive,0.23
+74,Adjunct Lecturer,Positive,0.23
+3688,Universal Banker,Positive,0.23
+489,Car Salesman,Positive,0.23
+2863,Security Professional,Positive,0.23
+313,Backroom Associate,Positive,0.23
+1301,Fulfilment Associate,Positive,0.23
+1143,FC Associate I,Positive,0.23
+3469,Systems Administrator,Positive,0.23
+1085,Engineer III,Positive,0.23
+1164,Field Engineer,Positive,0.23
+3692,User Experience Researcher,Positive,0.22999999999999998
+559,Chief Engineer,Positive,0.22999999999999998
+2956,Senior Editor,Positive,0.22999999999999998
+3278,Software Engineer (Swe II),Positive,0.22999999999999998
+1979,Mechanical Designer,Positive,0.22999999999999998
+380,Busineess Analyst,Positive,0.22999999999999998
+3175,Senior Vice President Operations,Positive,0.22999999999999998
+2143,Operations Team Leader,Positive,0.22999999999999998
+2613,Regulatory Affairs Specialist,Positive,0.22999999999999998
+2457,Program Officer,Positive,0.22999999999999998
+1368,Graduate Student,Positive,0.2292857142857143
+1233,Floor Supervisor,Positive,0.229
+3451,Support Analyst,Positive,0.22875
+1707,Junior Software Developer,Positive,0.22874999999999998
+1857,Loss Prevention Officer,Positive,0.22833333333333336
+3525,Tech Support Specialist,Positive,0.22833333333333336
+2561,"RN, Bsn",Positive,0.2283333333333333
+3618,Trader,Positive,0.228125
+2607,"Registered Nurse, BSN",Positive,0.22800000000000004
+3402,Stower,Positive,0.2275
+434,Buyer/Planner,Positive,0.2275
+3181,Sergeant,Positive,0.2275
+1223,Flex Associate,Positive,0.2275
+2474,Project Engineer,Positive,0.2275
+1758,Lead Cashier,Positive,0.22749999999999998
+3687,Unit Secretary,Positive,0.22749999999999998
+1007,"Director, Product Management",Positive,0.22749999999999998
+3202,Service Desk,Positive,0.22749999999999998
+579,Claims Examiner,Positive,0.22714285714285715
+425,Business Systems Analyst,Positive,0.227
+3425,Summer Analyst,Positive,0.226875
+2950,Senior Director,Positive,0.226875
+3261,Software Design Engineer,Positive,0.22666666666666666
+1255,Forklift Operator,Positive,0.22666666666666666
+1648,Interior Designer,Positive,0.22666666666666666
+3581,Technology Analyst,Positive,0.22642857142857142
+1689,Journalist,Positive,0.22625
+1726,Kitchen Crew,Positive,0.22625
+3746,Warehouse Operative,Positive,0.22625
+1704,Junior Java Developer,Positive,0.22600000000000003
+1778,Leadership,Positive,0.22583333333333333
+1000,Director of Marketing,Positive,0.22500000000000003
+2272,Picker,Positive,0.22500000000000003
+896,Cyber Security Engineer,Positive,0.22500000000000003
+2343,Process Development Engineer,Positive,0.225
+549,Chef,Positive,0.225
+2503,QA Analyst,Positive,0.225
+1451,Help Desk Technician,Positive,0.225
+3180,Senor Software Engineer,Positive,0.225
+2334,Principal Software Engineer,Positive,0.225
+2669,Retail Sales Representative,Positive,0.225
+3682,Underwriter,Positive,0.225
+3541,Technical Engineer,Positive,0.225
+903,DSP,Positive,0.225
+1098,Enrollment Counselor,Positive,0.225
+2961,Senior Engineer II,Positive,0.225
+381,Business,Positive,0.22499999999999998
+3707,Verification Engineer,Positive,0.22499999999999998
+3111,Senior Software Engineer II,Positive,0.22499999999999998
+2350,Process Operator,Positive,0.22499999999999998
+1077,Embedded Engineer,Positive,0.22499999999999998
+3441,Supply Chain Management,Positive,0.22499999999999998
+3277,Software Engineer,Positive,0.22482142857142856
+86,Administrative Assistant,Positive,0.22444444444444445
+32,Account Executive,Positive,0.22444444444444445
+2782,Sales Lead,Positive,0.22428571428571428
+2660,Retail Assistant,Positive,0.22333333333333336
+600,Clerical,Positive,0.22333333333333336
+2294,Porter,Positive,0.22333333333333336
+217,Assistant Vice President,Positive,0.2233333333333333
+2842,Seafood Clerk,Positive,0.2233333333333333
+2241,Personal Assistant,Positive,0.223
+1813,Licensed Practical Nurse,Positive,0.223
+1299,Fulfillment Associate,Positive,0.223
+3534,Technical Associate,Positive,0.22250000000000003
+108,Advisor,Positive,0.2225
+693,Computer Systems Engineer,Positive,0.2225
+948,Department Lead,Positive,0.2225
+2292,Policy Analyst,Positive,0.2225
+15,ASM,Positive,0.2225
+1649,Intern,Positive,0.22166666666666668
+2236,Performance Analyst,Positive,0.22166666666666668
+480,Call Center Representative,Positive,0.22166666666666668
+1932,Market Research Analyst,Positive,0.22166666666666665
+2578,Receptionist,Positive,0.22125
+592,Class A CDL Delivery Driver,Positive,0.22125
+1751,Lead Analyst,Positive,0.22111111111111112
+546,Checker,Positive,0.22111111111111112
+2905,Senior Business Systems Analyst,Positive,0.221
+2415,Production Engineer,Positive,0.221
+866,Customer Service Officer,Positive,0.221
+905,Data Analyst,Positive,0.22055555555555553
+3498,Tax Accountant,Positive,0.22000000000000003
+803,Custodian,Positive,0.22
+462,CSE,Positive,0.22
+2036,Middle Management,Positive,0.22
+2674,Retail Store Associate,Positive,0.22
+646,Coffee Specialist,Positive,0.22
+3464,System Administrator,Positive,0.22
+2317,Presales,Positive,0.22
+2337,Private Banker,Positive,0.21999999999999997
+2677,Retired,Positive,0.21999999999999997
+3093,Senior Sales Director,Positive,0.21999999999999997
+1981,Mechanical Engineer,Positive,0.21937500000000001
+956,Deskside Support Technician,Positive,0.219
+1181,Finance Analyst,Positive,0.219
+2898,Senior Associate Technology,Positive,0.219
+3471,Systems Analyst,Positive,0.21875
+1709,Junior Software Engineer,Positive,0.21833333333333335
+1798,Legal Counsel,Positive,0.21833333333333335
+1407,HR,Positive,0.21833333333333335
+2689,Route Driver,Positive,0.21799999999999997
+1554,IT Support,Positive,0.21799999999999997
+3512,Team Leader,Positive,0.21777777777777776
+1496,Human Resources Specialist,Positive,0.2175
+1517,IT Developer,Positive,0.2175
+5,AML Analyst,Positive,0.2175
+154,Applications Developer,Positive,0.2175
+1820,Lift Operator,Positive,0.2175
+1102,Entry Level,Positive,0.21749999999999997
+3024,Senior Mechanical Engineer,Positive,0.21749999999999997
+3473,Systems Architect,Positive,0.217
+2268,Physician,Positive,0.21666666666666667
+2166,Overnight Stocker,Positive,0.21611111111111111
+2251,PhD Graduate Student,Positive,0.21600000000000003
+2263,Photographer,Positive,0.21571428571428572
+45,Accounting Assistant,Positive,0.21500000000000002
+2580,Receptionist/Administrative Assistant,Positive,0.21500000000000002
+1295,Frozen/Dairy Associate,Positive,0.21500000000000002
+1172,Field Service Representative,Positive,0.21500000000000002
+1286,Front Service Clerk (Bagger),Positive,0.21500000000000002
+3057,Senior Programmer Analyst,Positive,0.215
+1041,EHS Specialist,Positive,0.215
+3733,WFM Analyst,Positive,0.215
+2666,Retail Sales Assistant,Positive,0.215
+306,BI Developer,Positive,0.215
+1811,Licensed Insurance Agent,Positive,0.215
+2773,Sales Development Representative (SDR),Positive,0.215
+185,Assembly Line Worker,Positive,0.215
+1893,Maintenance Technician,Positive,0.215
+3021,Senior Marketing Executive,Positive,0.215
+2834,Scheduler,Positive,0.215
+241,Associate Editor,Positive,0.215
+621,Client Specialist,Positive,0.215
+3562,Technical Support Agent,Positive,0.215
+1015,Distribution Associate,Positive,0.215
+588,Claims Specialist,Positive,0.21399999999999997
+1946,Marketing Coordinator,Positive,0.21375
+1853,Loss Prevention Agent,Positive,0.21375
+43,Accounting Analyst,Positive,0.21333333333333337
+3447,Supply Planner,Positive,0.21333333333333335
+1673,Investment Banking Analyst,Positive,0.21333333333333332
+2957,Senior Electrical Engineer,Positive,0.2133333333333333
+2645,Researcher,Positive,0.213125
+2245,Personal Shopper,Positive,0.213
+2969,Senior Finance Analyst,Positive,0.21250000000000002
+2338,Problem Solver,Positive,0.21250000000000002
+726,Contract Analyst,Positive,0.21166666666666667
+1384,Grill Cook,Positive,0.21166666666666667
+3341,Sps Associate,Positive,0.21166666666666667
+401,Business Development Representative,Positive,0.21166666666666667
+786,Credit Analyst,Positive,0.21142857142857144
+1768,Lead Sales Associate,Positive,0.21125
+3489,Talent Acquisition Coordinator,Positive,0.21125
+2763,Sales Associate/Photographer,Positive,0.21125
+2177,Package Handler,Positive,0.21125
+2603,Registered Client Service Associate,Positive,0.21125
+3517,Tech Analyst,Positive,0.211
+394,Business Development,Positive,0.21071428571428572
+1884,Maintenance Engineer,Positive,0.21000000000000002
+499,Carpenter,Positive,0.21000000000000002
+2757,Sales Associate%2FCashier,Positive,0.21000000000000002
+2977,Senior Full Stack Developer,Positive,0.21000000000000002
+1436,Head of Marketing,Positive,0.21000000000000002
+763,Costumer Service,Positive,0.21000000000000002
+2394,Product Owner,Positive,0.21
+2105,Office Worker,Positive,0.21
+1129,Executive,Positive,0.21
+132,Analyst Programmer,Positive,0.21
+1238,"Food Prep, Cook, Server, Cashier",Positive,0.21
+711,Contact Center Representative,Positive,0.21
+867,Customer Service Representative I,Positive,0.20999999999999996
+3685,Unit Director,Positive,0.20999999999999996
+703,Consultant,Positive,0.20944444444444443
+783,Creative Director,Positive,0.209375
+432,Buyer,Positive,0.209375
+719,Content Reviewer,Positive,0.20875
+2153,Order Picker,Positive,0.20875
+738,Cook,Positive,0.20875
+1942,Marketing Associate,Positive,0.20875
+2428,Production Planner,Positive,0.20875
+130,Ambassador,Positive,0.20833333333333334
+2162,Outside Sales Representative,Positive,0.20833333333333334
+18,AVP,Positive,0.20833333333333334
+3130,Senior Support Analyst,Positive,0.20833333333333334
+3751,Warehouse Order Selector,Positive,0.20800000000000002
+298,BDC,Positive,0.20750000000000002
+2186,Paralegal,Positive,0.20750000000000002
+2178,Packaging,Positive,0.20750000000000002
+3445,Supply Chain Specialist,Positive,0.2075
+1440,Health Coach,Positive,0.2075
+922,Data Scientist,Positive,0.2075
+220,Associate Analyst,Positive,0.20722222222222222
+682,Compliance Officer,Positive,0.20714285714285713
+1134,Executive Director,Positive,0.206875
+3718,Vice President Operations,Positive,0.206875
+729,Contractor,Positive,0.20666666666666667
+211,Assistant Store Leader,Positive,0.20666666666666667
+460,CSA,Positive,0.20625
+131,Analyst,Positive,0.2061111111111111
+3565,Technical Support Engineer,Positive,0.205625
+602,Clerk,Positive,0.205625
+3710,Vice President,Positive,0.20555555555555557
+1207,Financial Analyst II,Positive,0.20500000000000002
+3755,Warehouse Picker,Positive,0.20500000000000002
+2754,Sales Associaate,Positive,0.20500000000000002
+1792,Lecturer,Positive,0.20500000000000002
+811,Customer Care Advisor,Positive,0.20500000000000002
+168,Apprentice Electrician,Positive,0.20500000000000002
+1005,"Director, Marketing",Positive,0.20500000000000002
+292,Automotive Service Advisor,Positive,0.205
+1526,IT Help Desk Technician,Positive,0.205
+1822,Line Cook,Positive,0.205
+2650,Resident Assistant,Positive,0.205
+2972,Senior Financial Analyst,Positive,0.205
+317,Baker,Positive,0.205
+872,Customer Service Team Lead,Positive,0.205
+1698,Junior Business Analyst,Positive,0.205
+2305,Practitioner,Positive,0.205
+2386,Product Engineer,Positive,0.205
+2434,Production Support Analyst,Positive,0.205
+1189,Finance Controller,Positive,0.20400000000000001
+3659,Tutor,Positive,0.20375
+166,Apprentice,Positive,0.20375
+1187,Finance Business Partner,Positive,0.20333333333333334
+2818,Salesforce Developer,Positive,0.20333333333333328
+736,Controller,Positive,0.203125
+1572,In Store Shopper,Positive,0.203
+121,Airline Pilot,Positive,0.2025
+1137,Executive Recruiter,Positive,0.2025
+1896,Major Account Executive,Positive,0.2025
+2002,Medical Secretary,Positive,0.2025
+860,Customer Service Coordinator,Positive,0.20249999999999999
+3734,Waiter/Waitress,Positive,0.20222222222222222
+991,Director,Positive,0.20222222222222222
+1817,Lifeguard,Positive,0.20214285714285712
+144,Anonymous Employee,Positive,0.20166666666666666
+2115,Operation Analyst,Positive,0.20125
+2526,Quality Assurance Analyst,Positive,0.20125
+1560,IT Support Specialist,Positive,0.20099999999999998
+3336,Specialist,Positive,0.2007142857142857
+1912,Managing Partner,Positive,0.20000000000000004
+3532,Technical Assistant,Positive,0.2
+823,Customer Experience,Positive,0.2
+1416,HR Generalist,Positive,0.2
+3616,Tour Guide,Positive,0.2
+923,Data Specialist,Positive,0.2
+817,Customer Care Professional,Positive,0.2
+599,Cleaning Technician,Positive,0.2
+754,Corporate Recruiter,Positive,0.2
+3154,Senior Technical Recruiter,Positive,0.2
+2921,Senior Compliance Officer,Positive,0.2
+2226,Payroll Coordinator,Positive,0.2
+2123,Operations Analyst,Positive,0.2
+517,Casual Sales Assistant,Positive,0.2
+470,Cafe Assistant,Positive,0.2
+3354,Staff Engineer,Positive,0.2
+3592,Temp Worker,Positive,0.2
+3013,Senior Lecturer,Positive,0.2
+917,Data Entry Specialist,Positive,0.2
+2679,Returns Processor,Positive,0.2
+2744,Sales Adviser,Positive,0.2
+3135,Senior Systems Administrator,Positive,0.19999999999999998
+1994,Medical Receptionist,Positive,0.19999999999999998
+2208,Patient Care Assistant (PCA),Positive,0.19999999999999998
+3052,Senior Product Owner,Positive,0.19999999999999998
+957,Desktop Engineer,Positive,0.19999999999999998
+468,Cabin Crew,Positive,0.19999999999999998
+612,Client Service Associate,Positive,0.199375
+3511,Team Lead,Positive,0.1988888888888889
+1911,Managing Director,Positive,0.19875
+1871,Machine Operator,Positive,0.19875
+50,Accounting Specialist,Positive,0.19874999999999998
+474,Cake Decorator,Positive,0.1985714285714286
+678,Compliance Analyst,Positive,0.19857142857142857
+629,Clinical Nurse,Positive,0.19833333333333333
+2882,Senior Advisor,Positive,0.19833333333333333
+3759,Warehouse Supervisor,Positive,0.198
+1684,Java Developer,Positive,0.198
+1909,Manager,Positive,0.19777777777777777
+793,Crew,Positive,0.19777777777777777
+1179,Finance,Positive,0.1975
+1072,Electronics Engineer,Positive,0.1975
+2267,Physical Therapist Assistant,Positive,0.19749999999999998
+1156,Faculty,Positive,0.19666666666666668
+1690,Journalist/Reporter,Positive,0.19666666666666668
+3657,Truck Driver,Positive,0.19666666666666666
+2257,Pharmacy,Positive,0.19611111111111112
+2311,Prep Cook,Positive,0.19611111111111112
+218,Associate,Positive,0.1961111111111111
+337,Bartender,Positive,0.1957142857142857
+969,Developer,Positive,0.19562500000000002
+2548,Quantitative Analyst,Positive,0.19555555555555557
+1267,Front Desk,Positive,0.195
+3484,Table Games Dealer,Positive,0.195
+1284,Front Office,Positive,0.195
+1622,"Instructor, College Or University",Positive,0.195
+229,Associate Buyer,Positive,0.195
+3084,Senior S/W Engineer,Positive,0.195
+3282,Software Engineer I,Positive,0.195
+960,Desktop Support,Positive,0.195
+2963,Senior Engineering Technician,Positive,0.19499999999999998
+2533,Quality Auditor,Positive,0.19499999999999998
+3768,Welder,Positive,0.19499999999999998
+1166,Field Sales,Positive,0.19375
+1977,Mechanical Design Engineer,Positive,0.19375
+2838,Scientist,Positive,0.19375
+3078,Senior Research Associate,Positive,0.19333333333333336
+2631,Reporting Analyst,Positive,0.19333333333333336
+1886,Maintenance Mechanic,Positive,0.193
+2357,Processor,Positive,0.1925
+774,Courier Driver,Positive,0.1925
+2712,SERVICE ADVISOR,Positive,0.192
+2636,Research Associate,Positive,0.19187500000000002
+1281,Front End Supervisor,Positive,0.191875
+2847,Seasonal Sales Associate,Positive,0.19166666666666668
+1639,Insurance Specialist,Positive,0.19166666666666665
+2541,Quality Engineer,Positive,0.19166666666666665
+2120,Operations,Positive,0.19142857142857145
+505,Cash Office Associate,Positive,0.19125
+37,Account Supervisor,Positive,0.19125
+1043,EMT,Positive,0.1907142857142857
+1558,IT Support Engineer,Positive,0.19000000000000003
+779,Crane Operator,Positive,0.19
+2051,Mortgage Underwriter,Positive,0.19
+3586,Technology Lead,Positive,0.19
+3097,Senior Sales Representative,Positive,0.19
+176,Armed Security Officer,Positive,0.19
+1602,Infrastructure Analyst,Positive,0.19
+2986,Senior HR,Positive,0.19
+3417,Student Research Assistant,Positive,0.19
+2084,Nursing Assistant,Positive,0.19
+1107,Environmental Services,Positive,0.19
+1234,Food Clerk,Positive,0.19
+1249,Food and Beverage Assistant,Positive,0.19
+3510,Team Coordinator,Positive,0.19
+1204,Financial Advisor Associate,Positive,0.19
+260,Associate Team Leader,Positive,0.19
+1539,IT Recruiter,Positive,0.19
+1387,Grocery Bagger,Positive,0.19
+1445,Heavy Equipment Operator,Positive,0.19
+1028,Documentation Specialist,Positive,0.19
+3142,Senior Tax Analyst,Positive,0.19
+1403,Guest Services,Positive,0.18999999999999997
+1287,Front of House,Positive,0.18999999999999997
+508,Cashier,Positive,0.18944444444444444
+214,Assistant Supervisor,Positive,0.1891666666666667
+1851,Loss Prevention,Positive,0.189
+2094,Office Administrator,Positive,0.18875
+937,Deli Clerk,Positive,0.18857142857142858
+2831,Scanner,Positive,0.18833333333333335
+2469,Project Controller,Positive,0.18833333333333332
+2432,Production Supervisor,Positive,0.18777777777777777
+810,Customer Care,Positive,0.1875
+494,Career Counselor,Positive,0.1875
+103,Admissions,Positive,0.1875
+2810,Sales Team Leader,Positive,0.1875
+2355,Process Trainer,Positive,0.18666666666666668
+1461,Host,Positive,0.18642857142857142
+652,Collections Specialist,Positive,0.186
+3529,Technical Analyst,Positive,0.18500000000000003
+163,Applications Support Analyst,Positive,0.18500000000000003
+3030,Senior Officer,Positive,0.185
+1587,Industrial Placement Student,Positive,0.185
+3505,Tax Staff,Positive,0.185
+1092,Engineering Director,Positive,0.185
+1135,Executive Producer,Positive,0.185
+1084,Engineer II,Positive,0.185
+849,Customer Service Agent,Positive,0.185
+745,Copy and Print Specialist,Positive,0.185
+2445,Program Administrator,Positive,0.185
+1021,Dock Worker,Positive,0.185
+472,Cafe Associate,Positive,0.185
+296,Avionics Technician,Positive,0.185
+799,Crew Trainer,Positive,0.185
+2765,Sales BDM,Positive,0.18499999999999997
+3564,Technical Support Analyst,Positive,0.184375
+1081,Employee,Positive,0.1842857142857143
+2157,Order Selector,Positive,0.1842857142857143
+609,Client Partner,Positive,0.18375000000000002
+1401,Guest Service Representative,Positive,0.18375000000000002
+3499,Tax Analyst,Positive,0.18333333333333335
+3223,Shift Lead,Positive,0.18333333333333335
+1828,Line Worker,Positive,0.183125
+1381,Graphic Designer,Positive,0.183125
+3376,Stock Associate,Positive,0.1825
+2315,Prep/Line Cook,Positive,0.1825
+716,Content Developer,Positive,0.1825
+994,Director of Business Development,Positive,0.1825
+3237,Shop Assistant,Positive,0.1825
+1313,Fullstack Developer,Positive,0.1825
+688,Computer Programmer,Positive,0.1825
+1082,Engineer,Positive,0.18166666666666667
+1899,Management,Positive,0.18125000000000002
+1241,Food Server,Positive,0.18083333333333332
+1459,Hospitality,Positive,0.18000000000000002
+2581,Reconciliation Analyst,Positive,0.18
+3553,Technical Services Engineer,Positive,0.18
+2761,Sales Associate/Keyholder,Positive,0.18
+2007,Member Of Technical Staff,Positive,0.18
+1650,Interpreter/Translator,Positive,0.18
+1730,LPN,Positive,0.18
+331,Bar Staff,Positive,0.18
+1908,Managemet Trainee,Positive,0.18
+796,Crew Leader,Positive,0.18
+1464,Hostess,Positive,0.17857142857142858
+3430,Supervisor,Positive,0.17833333333333334
+239,Associate Developer,Positive,0.17833333333333334
+1948,Marketing Director,Positive,0.178125
+3506,Teacher,Positive,0.17777777777777778
+510,Cashier/Barista,Positive,0.17777777777777778
+676,Compliance,Positive,0.17750000000000002
+767,Counselor,Positive,0.1775
+1305,Full Stack Java Developer,Positive,0.1775
+143,Anonymous,Positive,0.1775
+573,Claims,Positive,0.17666666666666667
+1183,Finance Assistant,Positive,0.17666666666666667
+842,Customer Service,Positive,0.17666666666666664
+204,Assistant Principal,Positive,0.17500000000000002
+749,Corporate Counsel,Positive,0.17500000000000002
+30,Account Coordinator,Positive,0.17500000000000002
+500,Cart Attendant,Positive,0.17500000000000002
+2756,Sales Associate (Model),Positive,0.17500000000000002
+938,Delivery Associate,Positive,0.17500000000000002
+136,Analytical Chemist,Positive,0.175
+3220,Sharepoint Developer,Positive,0.175
+91,Administrative Associate,Positive,0.175
+3536,Technical Business Analyst,Positive,0.175
+3762,Wealth Management Advisor,Positive,0.175
+2291,Police Officer,Positive,0.175
+1538,IT Professional,Positive,0.175
+1502,IOS Engineer,Positive,0.175
+594,Class A Cdl Truck Driver,Positive,0.175
+2028,Merchandising Associate,Positive,0.175
+3139,Senior Talent Acquisition Specialist,Positive,0.175
+1037,Drug Safety Associate,Positive,0.175
+2111,Onboarding Specialist,Positive,0.175
+1780,Learning Ambassador,Positive,0.175
+173,Area Sales Executive,Positive,0.175
+1724,Keyholder/Floor Leader,Positive,0.175
+1772,Lead Systems Engineer,Positive,0.175
+3267,Software Development Engineer (SDE) II,Positive,0.175
+1992,Medical Laboratory Scientist,Positive,0.175
+3615,Tire Technician,Positive,0.175
+1826,Line Operator,Positive,0.175
+3486,Take Out Specialist,Positive,0.17388888888888887
+1497,Human Resources Specialist (HR Specialist),Positive,0.17333333333333334
+180,Artist,Positive,0.173
+3197,Service Crew,Positive,0.1725
+3210,Service Engineer,Positive,0.1725
+790,Credit Risk Analyst,Positive,0.1725
+3264,Software Development Engineer,Positive,0.17222222222222222
+2247,Personal Trainer,Positive,0.17214285714285715
+777,Courtesy Clerk/Bagger,Positive,0.17166666666666663
+2198,Part Time Sales Associate,Positive,0.17142857142857143
+333,Barista,Positive,0.17142857142857143
+3740,Warehouse Associate,Positive,0.17099999999999999
+2277,"Pilot, First Officer",Positive,0.17
+2364,Procurement Engineer,Positive,0.17
+1055,Editorial,Positive,0.17
+1397,Guest Advocate,Positive,0.17
+625,Clinical Coordinator,Positive,0.17
+1785,Learning Assistant,Positive,0.17
+668,Community Associate,Positive,0.17
+2705,SDE,Positive,0.17
+1937,Marketing Advisor,Positive,0.16999999999999998
+1292,Frontend Developer,Positive,0.16999999999999998
+1447,Help Desk,Positive,0.16999999999999998
+2550,Quantitative Researcher,Positive,0.16999999999999998
+95,Administrative Officer,Positive,0.16999999999999998
+1006,"Director, Operations",Positive,0.16999999999999998
+707,Consulting Hardware Engineer,Positive,0.16999999999999998
+3055,Senior Programmer,Positive,0.16999999999999998
+3702,VP,Positive,0.16999999999999998
+3513,Team Member,Positive,0.16944444444444443
+3391,Store Associate,Positive,0.16875
+2755,Sales Associate,Positive,0.16833333333333333
+376,Bus Driver,Positive,0.168125
+1246,Food Service Worker,Positive,0.168
+1396,Guest Advisor,Positive,0.16749999999999998
+1840,Logistics,Positive,0.167
+3120,Senior Solutions Architect,Positive,0.16666666666666666
+2630,Reporter,Positive,0.16583333333333333
+1118,Escalation Engineer,Positive,0.165
+794,Crew Chief,Positive,0.165
+1048,EVP,Positive,0.165
+1377,Graduate Trainee Engineer,Positive,0.165
+443,CCA,Positive,0.165
+3089,Senior Sales Advisor,Positive,0.165
+2787,Sales Management,Positive,0.165
+3041,Senior Process Analyst,Positive,0.165
+1123,Event Coordinator,Positive,0.16499999999999998
+2250,PhD Candidate,Positive,0.16499999999999998
+2061,Network Administrator,Positive,0.16499999999999998
+1719,Key Holder,Positive,0.16416666666666668
+1034,Driver,Positive,0.1638888888888889
+1940,Marketing Assistant,Positive,0.16375
+175,Area Supervisor,Positive,0.16375
+3397,Store Leader,Positive,0.16357142857142856
+2575,Receiving Associate,Positive,0.16333333333333333
+1695,Junior Analyst,Positive,0.16333333333333333
+2941,Senior Design Engineer,Positive,0.16333333333333333
+3023,Senior Mechanical Design Engineer,Positive,0.1625
+2405,Production Assembler,Positive,0.1625
+2423,Production Operative,Positive,0.16249999999999998
+3008,Senior Java Developer,Positive,0.162
+1444,Healthcare Assistant,Positive,0.16166666666666665
+1984,Mechanical Technician,Positive,0.16166666666666665
+1218,Firmware Engineer,Positive,0.16000000000000003
+1616,Instructional Assistant,Positive,0.16000000000000003
+3371,Steward,Positive,0.16
+2435,Production Team Leader,Positive,0.16
+2087,OTR Driver,Positive,0.16
+3356,Staff Member,Positive,0.16
+1897,Makeup Artist,Positive,0.16
+1058,Education Specialist,Positive,0.15999999999999998
+2994,Senior Human Resources Specialist,Positive,0.15999999999999998
+730,Contracts Administrator,Positive,0.15999999999999998
+3399,Store Protection Specialist,Positive,0.15916666666666668
+575,Claims Adjuster,Positive,0.157
+939,Delivery Driver,Positive,0.155
+57,Accounts Payable Analyst,Positive,0.155
+2027,Merchandising Assistant,Positive,0.155
+368,Brand Associate,Positive,0.155
+988,Direct Support Professional,Positive,0.155
+2925,Senior Credit Analyst,Positive,0.155
+2985,Senior Guest Advisor (SGA),Positive,0.155
+2107,Officer,Positive,0.15375
+927,Database Administrator (Database Administrator),Positive,0.1525
+1236,Food Prep,Positive,0.15125
+105,Admissions Counselor,Positive,0.15000000000000002
+435,Buying Assistant,Positive,0.15000000000000002
+464,CSR2,Positive,0.15000000000000002
+3509,Team Coach,Positive,0.15000000000000002
+1582,Industrial Designer,Positive,0.15000000000000002
+2931,Senior Customer Service Specialist,Positive,0.15
+1499,ICQA,Positive,0.15
+3478,Systems Validation Engineer,Positive,0.15
+1754,Lead Associate,Positive,0.15
+3480,TELESALES Representative,Positive,0.15
+3698,Utility Worker,Positive,0.15
+3072,Senior Quantity Surveyor,Positive,0.15
+1198,Finance Specialist,Positive,0.15
+2326,Principal Analyst,Positive,0.15
+197,Assistant Controller,Positive,0.15
+2736,Safety Specialist,Positive,0.15
+1125,Event Specialist,Positive,0.15
+207,Assistant Scientist,Positive,0.14999999999999997
+2839,Scientist I,Positive,0.14999999999999997
+3176,Senior Web Designer,Positive,0.14999999999999997
+3590,Telemarketer,Positive,0.14999999999999997
+1040,EARLY MORNING STOCKER,Positive,0.14750000000000002
+419,Business Process Analyst,Positive,0.1475
+363,Biomedical Engineer,Positive,0.1475
+1259,Fraud Specialist,Positive,0.1475
+3238,Shopper,Positive,0.1466666666666667
+2601,Registered Client Associate,Positive,0.14500000000000002
+2662,Retail Associate,Positive,0.14500000000000002
+2348,Process Expert,Positive,0.14500000000000002
+561,Chief Executive Officer,Positive,0.14500000000000002
+382,Business Analysis Senior Analyst,Positive,0.14500000000000002
+3719,Vice President Product Management,Positive,0.145
+1239,Food Runner,Positive,0.145
+2983,Senior Guest Advisor,Positive,0.144
+3435,Supply Chain,Positive,0.143
+1969,Math Tutor,Positive,0.1425
+1571,In,Positive,0.14125
+1168,Field Sales Representative,Positive,0.14
+511,Cashier/Cook,Positive,0.14
+2248,Ph D Student,Positive,0.14
+2896,Senior Associate Engineer,Positive,0.14
+2816,Sales and Service Representative,Positive,0.14
+1324,GSA,Positive,0.14
+3609,Third Key,Positive,0.14
+3674,Unarmed Security Guard,Positive,0.13999999999999999
+1317,Fund Administrator,Positive,0.13999999999999999
+976,Diesel Technician,Positive,0.13999999999999999
+998,Director of Finance,Positive,0.1375
+3329,Sourcing,Positive,0.1375
+3229,Shipping,Positive,0.135
+888,Customer Support Executive,Positive,0.135
+2114,Online Shopper,Positive,0.135
+3295,Software Enginnner,Positive,0.135
+686,Computer Engineer,Positive,0.135
+2609,Registered Respiratory Therapist,Positive,0.135
+497,"Caregiver, CNA",Positive,0.135
+2113,Online Grocery Pickup,Positive,0.13499999999999998
+2349,Process Lead,Positive,0.13499999999999998
+1790,Leasing Professional,Positive,0.13499999999999998
+2352,Process Specialist,Positive,0.13499999999999998
+3224,Shift Leader,Positive,0.1338888888888889
+1326,Game Advisor,Positive,0.1322727272727273
+533,Certified Nursing Assistant,Positive,0.13125
+2653,Resolution Specialist,Positive,0.13
+881,Customer Success,Positive,0.13
+2233,People Operations,Positive,0.13
+411,Business Operations,Positive,0.13
+2010,Member Service Representative,Positive,0.13
+3673,Ui\Ux Designer,Positive,0.13
+873,Customer Service Team Leader,Positive,0.1275
+127,Amazon,Positive,0.125
+1214,Financial Sales and Analytics,Positive,0.125
+2214,Patient Service Representative,Positive,0.125
+2053,Mover,Positive,0.125
+990,Direct Support Professional (DSP),Positive,0.125
+496,Caregiver,Positive,0.125
+1801,Legal Secretary,Positive,0.125
+628,Clinical Laboratory Scientist,Positive,0.125
+1030,Drive,Positive,0.125
+2063,Network Analyst,Positive,0.12
+1681,Janitor/Cleaner,Positive,0.12
+2880,Senior Administrator,Positive,0.12
+2387,Product Lead,Positive,0.12
+2378,Product Builder,Positive,0.12
+1658,Inventory Control,Positive,0.12
+970,Development Engineer,Positive,0.11999999999999998
+51,Accounting Supervisor,Positive,0.11500000000000002
+2672,Retail Store Assistant,Positive,0.115
+110,Aeronautical Engineer,Positive,0.115
+234,Associate Data Scientist,Positive,0.115
+1921,Manufacturing Process Engineer,Positive,0.11499999999999999
+1575,Inbound Customer Service Representative,Positive,0.11499999999999999
+2116,Operation Executive,Positive,0.11
+1225,Floater,Positive,0.11
+770,Counter Help,Positive,0.11
+831,Customer Relations,Positive,0.11
+428,Busser,Positive,0.11
+1603,Infrastructure Architect,Positive,0.11
+3668,UPS Part Time Package Handler,Positive,0.11
+3304,Software Test Analyst,Positive,0.11
+501,Cart Pusher,Positive,0.11
+1660,Inventory Control Specialist,Positive,0.10999999999999999
+2515,QA Test Engineer,Positive,0.10999999999999999
+2916,Senior Client Partner,Positive,0.10999999999999999
+2610,Registered Respiratory Therapist (RRT),Positive,0.10500000000000001
+1983,Mechanical Engineering Co,Positive,0.10500000000000001
+2693,Runner,Positive,0.10499999999999998
+2691,Rpa Developer,Neutral,0.1
+384,Business Architect,Neutral,0.1
+414,Business Operations Specialist,Neutral,0.1
+2500,Purchasing Specialist,Neutral,0.1
+2499,Purchasing Assistant,Neutral,0.1
+2742,Sales Administrator,Neutral,0.1
+2516,QA Tester,Neutral,0.1
+418,Business Process Analyst,Neutral,0.1
+365,Bookkeeper,Neutral,0.1
+275,Attractions Cast Member,Neutral,0.1
+2721,SRE/DevOps Engineer,Neutral,0.1
+3018,Senior Manufacturing Engineer,Neutral,0.1
+2374,Product,Neutral,0.1
+1467,Housekeeper,Neutral,0.1
+1630,Insurance Agent,Neutral,0.1
+1933,Market Risk Analyst,Neutral,0.1
+804,Customer Account Representative,Neutral,0.1
+3492,Talent Acquisition Specialist,Neutral,0.1
+3479,TELESALES Representative,Neutral,0.1
+1898,Management,Neutral,0.1
+771,Courier,Neutral,0.1
+769,Counter Help,Neutral,0.1
+2031,Microbiologist,Neutral,0.1
+2112,Online Grocery Pickup,Neutral,0.1
+744,Copy and Print Specialist,Neutral,0.1
+1414,HR Director,Neutral,0.1
+3386,Stockroom Assistant,Neutral,0.1
+2052,Mover,Neutral,0.1
+3366,Statistician,Neutral,0.1
+2091,Occupational Therapist,Neutral,0.1
+1699,Junior Data Analyst,Neutral,0.1
+671,Compensation Analyst,Neutral,0.1
+3288,Software Engineer Trainee,Neutral,0.1
+1803,Liability Claims Adjuster,Neutral,0.1
+685,Computer Engineer,Neutral,0.1
+807,Customer Advisor,Neutral,0.1
+2062,Network Analyst,Neutral,0.1
+832,Customer Relations Representative,Neutral,0.1
+1312,Fullstack Developer,Neutral,0.1
+1139,Executive Team Leader,Neutral,0.1
+611,Client Service Associate,Neutral,0.1
+64,Actuarial Analyst,Neutral,0.1
+1226,Floor Associate,Neutral,0.1
+3745,Warehouse Operative,Neutral,0.1
+1023,Doctoral Student,Neutral,0.1
+16,ASP.NET Developer,Neutral,0.1
+1003,Director of Sales,Neutral,0.1
+987,Direct Support Professional,Neutral,0.1
+863,Customer Service Lead,Neutral,0.1
+1308,Full Time,Neutral,0.1
+1130,Executive Administrative Assistant,Neutral,0.1
+3026,Senior Network Engineer,Neutral,0.09999999999999999
+932,Deli,Neutral,0.09999999999999999
+2200,Partner,Neutral,0.09999999999999999
+2871,Seller Support Associate,Neutral,0.09999999999999999
+1133,Executive Director,Neutral,0.09999999999999999
+2456,Program Officer,Neutral,0.09999999999999999
+3165,Senior Test Engineer,Neutral,0.09999999999999999
+2944,Senior DevOps Engineer,Neutral,0.09999999999999999
+2331,Principal Scientist,Neutral,0.09999999999999999
+459,CSA,Neutral,0.09999999999999999
+1273,Front Desk Supervisor,Neutral,0.09999999999999998
+3328,Sourcing,Neutral,0.09999999999999998
+2410,Production Associate,Neutral,0.09999999999999998
+309,Back Office,Neutral,0.09999999999999998
+1583,Industrial Electrician,Neutral,0.0975
+3335,Specialist,Neutral,0.0975
+1885,Maintenance Mechanic,Neutral,0.09666666666666668
+2344,Process Engineer,Neutral,0.09666666666666666
+2521,Quality Analyst,Neutral,0.09500000000000003
+677,Compliance Analyst,Neutral,0.095
+2946,Senior Developer,Neutral,0.095
+3232,Shipping Clerk,Neutral,0.095
+2012,Member Services Representative,Neutral,0.095
+2928,Senior Customer Service Representative,Neutral,0.095
+126,Amazon,Neutral,0.095
+683,Compliance Specialist,Neutral,0.095
+1738,Laboratory Assistant,Neutral,0.095
+2912,Senior Claims Specialist,Neutral,0.095
+2414,Production Engineer,Neutral,0.095
+133,Analyst Programmer(SSE),Neutral,0.095
+2442,Professional Services,Neutral,0.095
+3405,Strategist,Neutral,0.095
+3459,Support Technician,Neutral,0.095
+776,Courtesy Clerk/Bagger,Neutral,0.095
+780,Creative,Neutral,0.095
+452,CNC Machine Operator,Neutral,0.095
+2577,Receptionist,Neutral,0.095
+2768,Sales Counselor,Neutral,0.095
+35,Account Specialist,Neutral,0.095
+3776,Work From Home,Neutral,0.095
+2297,Postdoctoral Fellow,Neutral,0.095
+547,Checkout Cashier,Neutral,0.095
+236,Associate Designer,Neutral,0.095
+3105,Senior Site Reliability Engineer,Neutral,0.095
+2065,Network Engineer,Neutral,0.095
+597,Cleaner,Neutral,0.095
+1426,Hardware Engineer,Neutral,0.09499999999999999
+150,Application Engineer,Neutral,0.09499999999999999
+2284,Planning Analyst,Neutral,0.0925
+787,Credit Controller,Neutral,0.0925
+2665,Retail Sales Assistant,Neutral,0.09000000000000001
+1734,Lab Tech,Neutral,0.09000000000000001
+785,Credit Analyst,Neutral,0.09000000000000001
+1621,"Instructor, College Or University",Neutral,0.09000000000000001
+645,Coffee Specialist,Neutral,0.09000000000000001
+2073,Night Stocker,Neutral,0.09000000000000001
+679,Compliance Associate,Neutral,0.09000000000000001
+2193,Part Time Cashier,Neutral,0.09000000000000001
+402,Business Development Representative (BDR),Neutral,0.09
+2988,Senior Hardware Engineer,Neutral,0.09
+1090,Engineering Co,Neutral,0.09
+1247,Food and Beverage,Neutral,0.09
+577,Claims Associate,Neutral,0.09
+2739,Sale Associate,Neutral,0.09
+1163,Field Engineer,Neutral,0.09
+1923,Manufacturing Technician,Neutral,0.09
+3724,Video Editor,Neutral,0.09
+3704,Validation Engineer,Neutral,0.09
+2781,Sales Lead,Neutral,0.09
+1931,Market Research Analyst,Neutral,0.09
+1157,Family Nurse Practitioner,Neutral,0.09
+2758,Sales Associate/Key Holder,Neutral,0.09
+540,Certified Trainer,Neutral,0.09
+1710,Junior Trader,Neutral,0.09
+1667,Investigator,Neutral,0.09
+1669,Investment Advisor,Neutral,0.09
+3119,Senior Solutions Architect,Neutral,0.09
+2995,Senior IOS Developer,Neutral,0.09
+19,Academic Advisor,Neutral,0.09
+1972,Meat Wrapper,Neutral,0.09
+2682,Ride Operator,Neutral,0.09
+3029,Senior Officer,Neutral,0.09
+3390,Store Associate,Neutral,0.09
+1380,Graphic Designer,Neutral,0.09
+2904,Senior Business Systems Analyst,Neutral,0.0875
+324,Bank Teller,Neutral,0.0875
+3739,Warehouse Associate,Neutral,0.08666666666666667
+2545,Quality Specialist,Neutral,0.08500000000000002
+2725,SSR,Neutral,0.08500000000000002
+2170,PHP Developer,Neutral,0.08500000000000002
+876,Customer Services,Neutral,0.085
+101,Administrator,Neutral,0.085
+1705,Junior Researcher,Neutral,0.085
+1728,Kitchen Staff,Neutral,0.085
+2262,Photographer,Neutral,0.085
+1494,Human Resources Representative,Neutral,0.085
+2232,People Operations,Neutral,0.085
+3361,Staff RN,Neutral,0.085
+2982,Senior Guest Advisor,Neutral,0.085
+3494,Talent Advisor,Neutral,0.085
+1314,Functional Analyst,Neutral,0.085
+283,Auditor,Neutral,0.085
+2647,Reservations Agent,Neutral,0.085
+1094,Engineering Supervisor,Neutral,0.085
+210,Assistant Store Leader,Neutral,0.085
+3226,Shipper/Receiver,Neutral,0.085
+475,Call Center Agent,Neutral,0.085
+2965,Senior Executive,Neutral,0.085
+2004,Medical Technologist,Neutral,0.085
+3518,Tech Lead,Neutral,0.08499999999999999
+2468,Project Controller,Neutral,0.08499999999999999
+2299,Postdoctoral Research Associate,Neutral,0.08499999999999999
+375,Bus Driver,Neutral,0.08499999999999999
+1395,Guest Advisor,Neutral,0.08499999999999999
+465,CT Technologist,Neutral,0.08499999999999999
+584,Claims Representative,Neutral,0.08499999999999999
+3182,Server Assistant,Neutral,0.08499999999999999
+2438,Production Worker,Neutral,0.08499999999999999
+614,Client Service Representative,Neutral,0.08499999999999999
+3345,Sr. Director,Neutral,0.08499999999999999
+2124,Operations Assistant,Neutral,0.08499999999999999
+118,Aircraft Maintenance Technician,Neutral,0.08499999999999999
+395,Business Development Associate,Neutral,0.08499999999999999
+1354,Graduate Civil Engineer,Neutral,0.08499999999999999
+2371,Producer,Neutral,0.08499999999999999
+2826,Sandwich Maker,Neutral,0.08499999999999999
+1128,Executive,Neutral,0.08499999999999999
+2140,Operations Supervisor,Neutral,0.08499999999999999
+1523,IT Help Desk,Neutral,0.08499999999999999
+68,Actuary,Neutral,0.08499999999999999
+113,Agent,Neutral,0.08499999999999999
+1653,Inventory Analyst,Neutral,0.08499999999999999
+1581,Individual Contributor,Neutral,0.08499999999999999
+1210,Financial Planner,Neutral,0.08333333333333333
+3754,Warehouse Picker,Neutral,0.0825
+1240,Food Server,Neutral,0.0825
+2393,Product Owner,Neutral,0.08166666666666667
+424,Business Systems Analyst,Neutral,0.08000000000000002
+3207,Service Desk Technician,Neutral,0.08000000000000002
+1405,HCA,Neutral,0.08000000000000002
+2021,Merchandise Planner,Neutral,0.08000000000000002
+1529,IT Helpdesk Technician,Neutral,0.08000000000000002
+3179,Senor Software Engineer,Neutral,0.08000000000000002
+3504,Tax Specialist,Neutral,0.08
+608,Client Partner,Neutral,0.08
+1644,Intelligence Analyst,Neutral,0.08
+943,Dentist,Neutral,0.08
+2980,Senior Graphic Designer,Neutral,0.08
+3752,Warehouse Packer,Neutral,0.08
+2935,Senior Data Scientist,Neutral,0.08
+1191,Finance Director,Neutral,0.08
+3043,Senior Process Engineer,Neutral,0.08
+504,Cash Office Associate,Neutral,0.08
+3204,Service Desk Analyst,Neutral,0.08
+1533,IT Management,Neutral,0.08
+274,Attractions Attendant,Neutral,0.08
+416,Business Owner,Neutral,0.08
+2774,Sales Director,Neutral,0.08
+2174,PT Supervisor,Neutral,0.08
+1895,Major Account Executive,Neutral,0.08
+2733,Safety Engineer,Neutral,0.08
+506,Casher,Neutral,0.08
+484,Call Handler,Neutral,0.08
+848,Customer Service Agent,Neutral,0.08
+1789,Learning and Development,Neutral,0.08
+853,Customer Service Associate (CSA),Neutral,0.07999999999999999
+2081,Nursing,Neutral,0.07999999999999999
+1736,Lab Technician,Neutral,0.07999999999999999
+1547,IT Service Desk Analyst,Neutral,0.07999999999999999
+1061,Electrical Engineer,Neutral,0.07750000000000001
+2849,Secretary,Neutral,0.0775
+2684,Risk Analyst,Neutral,0.0775
+1694,Junior Analyst,Neutral,0.0775
+2531,Quality Assurance Technician,Neutral,0.0775
+1816,Lifeguard,Neutral,0.07749999999999999
+582,Claims Processor,Neutral,0.07749999999999999
+1553,IT Support,Neutral,0.07666666666666667
+2840,Scribe,Neutral,0.07500000000000001
+2126,Operations Associate,Neutral,0.07500000000000001
+3121,Senior Solutions Engineer,Neutral,0.07500000000000001
+1786,Learning Specialist,Neutral,0.07500000000000001
+1574,Inbound Customer Service Representative,Neutral,0.07500000000000001
+2955,Senior Editor,Neutral,0.07500000000000001
+3613,Tier II Technical Support,Neutral,0.07500000000000001
+2673,Retail Store Associate,Neutral,0.07500000000000001
+1764,Lead Engineer,Neutral,0.07500000000000001
+868,Customer Service Representative II,Neutral,0.07500000000000001
+1919,Manufacturing Operator,Neutral,0.07500000000000001
+1291,Frontend Developer,Neutral,0.07500000000000001
+2549,Quantitative Researcher,Neutral,0.07500000000000001
+1352,Graduate Assistant,Neutral,0.07500000000000001
+2264,Physical Therapist,Neutral,0.07500000000000001
+2696,S/W Engineer,Neutral,0.07500000000000001
+417,Business Partner,Neutral,0.07500000000000001
+3760,Wealth Management,Neutral,0.075
+2217,Patient Transporter,Neutral,0.075
+1038,E,Neutral,0.075
+1054,Editorial,Neutral,0.075
+377,Bus Operator,Neutral,0.075
+2240,Personal Assistant,Neutral,0.075
+1103,Environmental Engineer,Neutral,0.075
+1184,Finance Associate,Neutral,0.075
+1202,Financial Advisor,Neutral,0.075
+336,Bartender,Neutral,0.075
+766,Counselor,Neutral,0.075
+437,CAD Designer,Neutral,0.075
+352,Billing,Neutral,0.075
+1488,Human Resources Generalist,Neutral,0.075
+97,Administrative Specialist,Neutral,0.075
+2599,Regional Sales Executive,Neutral,0.075
+393,Business Development,Neutral,0.075
+3168,Senior UI Developer,Neutral,0.075
+3333,Sous Chef,Neutral,0.075
+1718,Key Holder,Neutral,0.075
+3398,Store Protection Specialist,Neutral,0.075
+3160,Senior Technical Writer,Neutral,0.075
+747,Corporate,Neutral,0.075
+1721,Keyholder,Neutral,0.075
+2102,Office Staff,Neutral,0.075
+728,Contractor,Neutral,0.075
+2914,Senior Client Executive,Neutral,0.075
+2104,Office Worker,Neutral,0.075
+1593,Information Systems Security Officer (ISSO),Neutral,0.075
+151,Applications Analyst,Neutral,0.075
+1188,Finance Controller,Neutral,0.07499999999999998
+1521,IT Engineer,Neutral,0.07499999999999998
+3107,Senior Software Architect,Neutral,0.07499999999999998
+1325,Game Advisor,Neutral,0.07428571428571429
+2286,Planning Engineer,Neutral,0.07250000000000001
+2556,R&D Engineer,Neutral,0.07250000000000001
+332,Barista,Neutral,0.0725
+2293,Porter,Neutral,0.07166666666666667
+2480,Project Leader,Neutral,0.07166666666666667
+2616,Relationship Banker,Neutral,0.07
+3726,Video Producer,Neutral,0.07
+3691,User Experience Researcher,Neutral,0.07
+901,DSM,Neutral,0.07
+1147,FP&A Analyst,Neutral,0.07
+461,CSE,Neutral,0.07
+553,Chemical Operator,Neutral,0.07
+1471,Human Resources Administrator,Neutral,0.07
+1634,Insurance Producer,Neutral,0.07
+919,Data Science,Neutral,0.07
+3671,UX Designer,Neutral,0.07
+244,Associate Merchant,Neutral,0.07
+1086,Engineer Trainee,Neutral,0.07
+1514,IT Coordinator,Neutral,0.07
+1348,Grad Student,Neutral,0.07
+129,Ambassador,Neutral,0.07
+2984,Senior Guest Advisor (SGA),Neutral,0.07
+14,ASM,Neutral,0.07
+54,Accounts Payable,Neutral,0.07
+223,Associate Architect,Neutral,0.07
+955,Deskside Support Technician,Neutral,0.07
+3528,Technical Analyst,Neutral,0.06999999999999999
+3038,Senior Principal Software Engineer,Neutral,0.06999999999999999
+880,Customer Success,Neutral,0.06999999999999999
+1402,Guest Services,Neutral,0.06999999999999999
+2083,Nursing Assistant,Neutral,0.06999999999999999
+595,Class A Truck Driver,Neutral,0.06999999999999999
+433,Buyer/Planner,Neutral,0.06999999999999999
+426,Business Technology Analyst,Neutral,0.06999999999999999
+2014,Mental Health Counselor,Neutral,0.06999999999999999
+928,Database Analyst,Neutral,0.06999999999999999
+2836,School Bus Driver,Neutral,0.06999999999999999
+3116,Senior Solution Architect,Neutral,0.06999999999999999
+29,Account Coordinator,Neutral,0.06999999999999999
+1683,Java Developer,Neutral,0.06999999999999998
+1237,"Food Prep, Cook, Server, Cashier",Neutral,0.069
+3383,Stocker,Neutral,0.06833333333333334
+2566,Ramp Agent,Neutral,0.06833333333333334
+739,Coordinator,Neutral,0.0675
+3091,Senior Sales Associate,Neutral,0.0675
+3222,Shift Lead,Neutral,0.0675
+2801,Sales Support,Neutral,0.0675
+1254,Forklift Operator,Neutral,0.06666666666666667
+1504,IT,Neutral,0.06500000000000002
+493,Career Advisor,Neutral,0.06500000000000002
+2971,Senior Financial Analyst,Neutral,0.065
+1968,Math Tutor,Neutral,0.065
+984,Digital Marketing Specialist,Neutral,0.065
+2119,Operations,Neutral,0.065
+10,AREA SALES MANAGER,Neutral,0.065
+3775,Windows Systems Administrator,Neutral,0.065
+287,Auto Claims Adjuster,Neutral,0.065
+2227,Payroll Specialist,Neutral,0.065
+1615,Instructional Assistant,Neutral,0.065
+3554,Technical Solutions Engineer,Neutral,0.065
+1178,Finance,Neutral,0.065
+1791,Lecturer,Neutral,0.065
+2185,Paralegal,Neutral,0.065
+2395,Product Owner (PO),Neutral,0.065
+1755,Lead Business Analyst,Neutral,0.065
+3051,Senior Product Owner,Neutral,0.065
+827,Customer Experience Specialist,Neutral,0.065
+3377,Stock Clerk,Neutral,0.065
+647,Collections,Neutral,0.065
+911,Data Engineer,Neutral,0.065
+3593,Territory Sales Representative,Neutral,0.065
+3320,Solutions Specialist,Neutral,0.065
+792,Credit Specialist,Neutral,0.065
+1149,Facilities Coordinator,Neutral,0.065
+3172,Senior Vice President,Neutral,0.065
+2815,Sales and Service Associate,Neutral,0.065
+2751,Sales Analyst,Neutral,0.065
+1625,Instrumentation Engineer,Neutral,0.065
+1708,Junior Software Engineer,Neutral,0.065
+2534,Quality Control,Neutral,0.065
+1167,Field Sales Representative,Neutral,0.065
+2952,Senior Director Marketing,Neutral,0.065
+1263,Front,Neutral,0.06499999999999999
+2447,Program Assistant,Neutral,0.06333333333333334
+565,Chief Financial Officer (CFO),Neutral,0.06250000000000001
+1674,Investment Banking Associate,Neutral,0.0625
+254,Associate Software Developer,Neutral,0.0625
+773,Courier Driver,Neutral,0.0625
+3131,Senior Support Engineer,Neutral,0.0625
+3442,Supply Chain Planner,Neutral,0.0625
+2152,Order Picker,Neutral,0.06166666666666667
+1465,Hostess/Cashier,Neutral,0.060000000000000026
+1450,Help Desk Technician,Neutral,0.06000000000000001
+2579,Receptionist/Administrative Assistant,Neutral,0.06000000000000001
+1176,Field Technician,Neutral,0.060000000000000005
+1910,Managing Director,Neutral,0.060000000000000005
+3741,Warehouse Fullfilment Associate,Neutral,0.060000000000000005
+1245,Food Service Worker,Neutral,0.060000000000000005
+2584,Recruiting Coordinator,Neutral,0.060000000000000005
+2859,Security Guard,Neutral,0.060000000000000005
+2813,Sales and Marketing,Neutral,0.060000000000000005
+3583,Technology Associate,Neutral,0.060000000000000005
+1106,Environmental Services,Neutral,0.06
+3599,Test Development Engineer,Neutral,0.06
+3083,Senior S/W Engineer,Neutral,0.06
+1057,Education Specialist,Neutral,0.06
+3722,Vice President of Sales,Neutral,0.06
+174,Area Supervisor,Neutral,0.06
+469,Cafe Assistant,Neutral,0.06
+471,Cafe Associate,Neutral,0.06
+2219,Payment Specialist,Neutral,0.06
+247,Associate Professor,Neutral,0.06
+1059,Educator,Neutral,0.06
+1276,Front End Associate,Neutral,0.06
+2006,Member Of Technical Staff,Neutral,0.06
+708,Contact Center Agent,Neutral,0.06
+665,Communications Specialist,Neutral,0.06
+3771,Wellness Coach,Neutral,0.06
+1268,Front Desk Agent,Neutral,0.06
+2629,Reporter,Neutral,0.06
+6,AML Compliance Analyst,Neutral,0.06
+2235,Performance Analyst,Neutral,0.059999999999999984
+2145,Operator,Neutral,0.05875
+142,Anonymous,Neutral,0.05833333333333333
+3625,Trainer,Neutral,0.05833333333333333
+2329,Principal Engineer,Neutral,0.05833333333333333
+1891,Maintenance Tech,Neutral,0.05750000000000001
+3209,Service Engineer,Neutral,0.0575
+3720,Vice President Sales,Neutral,0.0575
+38,Accountant,Neutral,0.0575
+3215,Service Technician,Neutral,0.0575
+2595,Regional Director,Neutral,0.0575
+2363,Procurement Engineer,Neutral,0.057499999999999996
+1601,Infrastructure Analyst,Neutral,0.057499999999999996
+623,Clinical Assistant,Neutral,0.057499999999999996
+3375,Stock Associate,Neutral,0.05666666666666667
+924,Database Administrator,Neutral,0.05666666666666667
+3681,Underwriter,Neutral,0.056666666666666664
+1980,Mechanical Engineer,Neutral,0.05500000000000001
+1473,Human Resources Advisor,Neutral,0.05500000000000001
+3355,Staff Member,Neutral,0.05500000000000001
+354,Billing Analyst,Neutral,0.05500000000000001
+3666,UI/User Experience Designer,Neutral,0.05500000000000001
+2506,QA Engineer,Neutral,0.05500000000000001
+2312,Prep Cook/Dishwasher,Neutral,0.055
+2376,Product Analyst,Neutral,0.055
+993,Director of Business Development,Neutral,0.055
+1950,Marketing Executive,Neutral,0.055
+2333,Principal Software Engineer,Neutral,0.05499999999999999
+1323,GSA,Neutral,0.05499999999999999
+316,Baker,Neutral,0.05499999999999999
+1463,Hostess,Neutral,0.05499999999999999
+1759,Lead Cook,Neutral,0.05499999999999999
+1256,Fraud Analyst,Neutral,0.05499999999999999
+603,Client Advisor,Neutral,0.053333333333333344
+1753,Lead Associate,Neutral,0.05333333333333334
+878,Customer Services Representative,Neutral,0.05333333333333332
+2282,Planning,Neutral,0.052500000000000005
+1604,Infrastructure Engineer,Neutral,0.0525
+213,Assistant Supervisor,Neutral,0.0525
+2940,Senior Design Engineer,Neutral,0.0525
+1435,Head of Marketing,Neutral,0.05249999999999999
+44,Accounting Assistant,Neutral,0.051666666666666666
+2778,Sales Floor Associate,Neutral,0.051250000000000004
+1145,FOH,Neutral,0.050000000000000044
+3693,Usher,Neutral,0.050000000000000044
+3228,Shipping,Neutral,0.050000000000000044
+751,Corporate Office,Neutral,0.05000000000000002
+1568,IT Technician,Neutral,0.05000000000000002
+2380,Product Designer,Neutral,0.05000000000000001
+851,Customer Service Assistant,Neutral,0.05000000000000001
+281,Audit Senior,Neutral,0.05
+1623,Instrument Technician,Neutral,0.05
+21,Academic Tutor,Neutral,0.05
+1985,Media Planner,Neutral,0.05
+3249,Software,Neutral,0.05
+1328,Game Developer,Neutral,0.05
+2489,Project Specialist,Neutral,0.05
+1854,Loss Prevention Associate,Neutral,0.05
+601,Clerk,Neutral,0.05
+2412,Production Coordinator,Neutral,0.05
+99,Administrative Support,Neutral,0.05
+258,Associate Systems Engineer,Neutral,0.05
+1541,IT Senior Analyst,Neutral,0.05
+2131,Operations Director,Neutral,0.05
+1860,Lot Attendant,Neutral,0.05
+895,Cyber Security Engineer,Neutral,0.05
+3446,Supply Planner,Neutral,0.05
+808,Customer Associate,Neutral,0.05
+918,Data Researcher,Neutral,0.05
+3077,Senior Research Associate,Neutral,0.05
+3444,Supply Chain Specialist,Neutral,0.05
+1101,Entry Level,Neutral,0.05
+735,Controller,Neutral,0.05
+556,Chemist,Neutral,0.05
+550,Chemical Engineer,Neutral,0.05
+2559,RN Staff Nurse,Neutral,0.05
+3056,Senior Programmer Analyst,Neutral,0.049999999999999996
+232,Associate Data Analyst,Neutral,0.049999999999999996
+1116,Equity Research Associate,Neutral,0.049999999999999996
+2597,Regional Sales Director,Neutral,0.04999999999999999
+2917,Senior Cloud Architect,Neutral,0.04999999999999999
+1492,Human Resources Officer,Neutral,0.04999999999999999
+764,Costumer Service Representative,Neutral,0.04999999999999999
+2086,OTR Driver,Neutral,0.04999999999999999
+295,Aviation Maintenance Technician,Neutral,0.04999999999999999
+3185,Server/Hostess,Neutral,0.04999999999999999
+289,Automation Engineer,Neutral,0.04999999999999999
+334,"Barista, Shift Supervisor",Neutral,0.04999999999999999
+691,Computer Systems Analyst,Neutral,0.04750000000000001
+1460,Host,Neutral,0.04750000000000001
+2772,Sales Development Representative (SDR),Neutral,0.0475
+3318,Solutions Engineer,Neutral,0.0475
+3530,Technical Architect,Neutral,0.04666666666666667
+4,AML Analyst,Neutral,0.04666666666666667
+3608,Third Key,Neutral,0.04500000000000001
+3713,Vice President Engineering,Neutral,0.04500000000000001
+3256,Software Architect,Neutral,0.04500000000000001
+1490,Human Resources Leader,Neutral,0.04500000000000001
+2926,Senior Customer Service Associate,Neutral,0.045000000000000005
+267,Associate Trainer,Neutral,0.045000000000000005
+3080,Senior Researcher,Neutral,0.045000000000000005
+964,Desktop Support Technician,Neutral,0.045000000000000005
+1288,Front of House Staff,Neutral,0.045000000000000005
+2275,Pilot,Neutral,0.045000000000000005
+2519,Quality,Neutral,0.045000000000000005
+1680,Janitor/Cleaner,Neutral,0.045000000000000005
+1688,Journalist,Neutral,0.045
+272,Attorney,Neutral,0.045
+1943,Marketing Communications,Neutral,0.045
+3241,Site Supervisor,Neutral,0.045
+2009,Member Service Representative,Neutral,0.045
+2482,Project Management,Neutral,0.045
+3679,Undergraduate Teaching Assistant,Neutral,0.045
+2422,Production Operative,Neutral,0.045
+2644,Researcher,Neutral,0.045
+1080,Employee,Neutral,0.045
+2861,Security Officer,Neutral,0.045
+447,CEO,Neutral,0.045
+3453,Support Associate,Neutral,0.045
+1576,Inbound Sales Representative,Neutral,0.045
+515,Cashier/Stocker,Neutral,0.045
+26,Account Associate,Neutral,0.045
+1771,Lead Systems Engineer,Neutral,0.04499999999999999
+1821,Line Cook,Neutral,0.044999999999999984
+737,Cook,Neutral,0.044999999999999984
+3312,Solution Architect,Neutral,0.04375
+1678,Janitor,Neutral,0.043333333333333335
+2,AGM,Neutral,0.04250000000000001
+591,Class A CDL Delivery Driver,Neutral,0.04250000000000001
+2615,Reimbursement Specialist,Neutral,0.0425
+3580,Technology Analyst,Neutral,0.0425
+2025,Merchandising,Neutral,0.0425
+3381,Stock Lead,Neutral,0.042499999999999996
+2930,Senior Customer Service Specialist,Neutral,0.042499999999999996
+1340,General Laborer,Neutral,0.042499999999999996
+2892,Senior Architect,Neutral,0.042499999999999996
+845,Customer Service Advisor,Neutral,0.042499999999999996
+3559,Technical Support,Neutral,0.041666666666666664
+789,Credit Risk Analyst,Neutral,0.041666666666666664
+2697,SALES CLERK,Neutral,0.04125000000000001
+966,Detailer,Neutral,0.040000000000000036
+297,BDC,Neutral,0.04000000000000001
+252,Associate Sales Representative,Neutral,0.04000000000000001
+2833,Scheduler,Neutral,0.04000000000000001
+535,Certified Nursing Assistant CNA,Neutral,0.04000000000000001
+2382,Product Development,Neutral,0.04000000000000001
+3701,VP,Neutral,0.04
+2195,Part Time Package Handler,Neutral,0.04
+3483,TSM,Neutral,0.04
+2156,Order Selector,Neutral,0.04
+2361,Procurement Analyst,Neutral,0.04
+2266,Physical Therapist Assistant,Neutral,0.04
+2887,Senior Applications Analyst,Neutral,0.04
+3186,Server/Waiter,Neutral,0.04
+1827,Line Worker,Neutral,0.04
+3428,Superintendent,Neutral,0.04
+2786,Sales Management,Neutral,0.04
+1479,Human Resources Business Partner,Neutral,0.04
+661,Commissioning Engineer,Neutral,0.04
+2851,Security,Neutral,0.04
+2211,Patient Registrar,Neutral,0.04
+2949,Senior Director,Neutral,0.039999999999999994
+2611,Registrar,Neutral,0.039999999999999994
+3310,Software Trainee,Neutral,0.039999999999999994
+1235,Food Prep,Neutral,0.039999999999999994
+613,Client Service Executive,Neutral,0.039999999999999994
+2633,Research Analyst,Neutral,0.039999999999999994
+3196,Service Crew,Neutral,0.03999999999999999
+3236,Shop Assistant,Neutral,0.03999999999999998
+3412,Student Assistant,Neutral,0.03833333333333334
+1443,Healthcare Assistant,Neutral,0.03833333333333334
+1588,Information Developer,Neutral,0.037500000000000006
+2402,Production,Neutral,0.0375
+2149,Order Filler,Neutral,0.0375
+2273,Picker/Packer,Neutral,0.0375
+3686,Unit Secretary,Neutral,0.0375
+2100,Office Coordinator,Neutral,0.0375
+2589,Recruitment Coordinator,Neutral,0.0375
+1180,Finance Analyst,Neutral,0.0375
+723,Content Writer,Neutral,0.03749999999999998
+77,Adjuster,Neutral,0.036666666666666674
+870,Customer Service Supervisor,Neutral,0.036666666666666674
+3253,Software Applications Developer,Neutral,0.03625
+195,Assistant Buyer,Neutral,0.03625
+1595,Information Systems Technician,Neutral,0.03500000000000002
+616,Client Service Specialist,Neutral,0.035
+1628,Insurance Advisor,Neutral,0.035
+2190,Part,Neutral,0.035
+264,Associate Technology L2,Neutral,0.035
+2661,Retail Associate,Neutral,0.035
+2604,Registered Dietitian,Neutral,0.035
+1732,Lab Assistant,Neutral,0.035
+632,Clinical Psychologist,Neutral,0.035
+3153,Senior Technical Lead,Neutral,0.035
+883,Customer Support,Neutral,0.035
+3285,Software Engineer II SDE2,Neutral,0.035
+2635,Research Associate,Neutral,0.035
+1848,Logistics Supervisor,Neutral,0.035
+181,Assembler,Neutral,0.035
+33,Account Representative,Neutral,0.035
+2700,SAP Analyst,Neutral,0.035
+2798,Sales Specialist,Neutral,0.035
+2295,Portfolio Analyst,Neutral,0.035
+3007,Senior Java Developer,Neutral,0.035
+1448,Help Desk Analyst,Neutral,0.035
+2335,Principal Systems Engineer,Neutral,0.035
+1500,IOS Developer,Neutral,0.035
+968,Developer,Neutral,0.035
+467,Cabin Crew,Neutral,0.034999999999999996
+216,Assistant Vice President,Neutral,0.034999999999999996
+165,Apprentice,Neutral,0.03499999999999999
+1519,IT Director,Neutral,0.03499999999999999
+1742,Laborer,Neutral,0.034999999999999976
+2853,Security Analyst,Neutral,0.03375
+1762,Lead Developer,Neutral,0.03333333333333333
+1506,IT Administrator,Neutral,0.0325
+169,Architect,Neutral,0.0325
+681,Compliance Officer,Neutral,0.0325
+106,Admissions Representative,Neutral,0.0325
+3708,Veterinary Technician,Neutral,0.0325
+1042,EMT,Neutral,0.0325
+587,Claims Specialist,Neutral,0.0325
+2417,Production Lead,Neutral,0.0325
+3516,Tech Analyst,Neutral,0.0325
+1087,Engineering,Neutral,0.03000000000000002
+2117,Operation Specialist,Neutral,0.030000000000000013
+3758,Warehouse Supervisor,Neutral,0.030000000000000013
+3136,Senior Systems Analyst,Neutral,0.030000000000000006
+1512,IT Business Analyst,Neutral,0.030000000000000002
+2753,Sales Associaate,Neutral,0.030000000000000002
+2035,Middle Management,Neutral,0.030000000000000002
+3373,Stock,Neutral,0.030000000000000002
+1437,Head of Sales,Neutral,0.030000000000000002
+3764,Web Developer,Neutral,0.03
+2715,SOC Analyst,Neutral,0.03
+403,Business Development Specialist,Neutral,0.03
+1095,Engineering Technician,Neutral,0.03
+2720,SQL Server Database Administrator,Neutral,0.03
+3240,Site Engineer,Neutral,0.03
+2397,Product Specialist,Neutral,0.03
+383,Business Analyst II,Neutral,0.03
+3251,Software Analyst,Neutral,0.03
+3488,Talent Acquisition Coordinator,Neutral,0.03
+1589,Information Security Analyst,Neutral,0.03
+1332,Gas Station Attendant,Neutral,0.03
+758,Cosmetics Sales Associate,Neutral,0.03
+1665,Investigation Specialist,Neutral,0.03
+824,Customer Experience Associate,Neutral,0.03
+1805,Library Assistant,Neutral,0.03
+3557,Technical Specialist,Neutral,0.03
+3475,Systems Integration Engineer,Neutral,0.03
+2776,Sales Engineer,Neutral,0.029999999999999992
+2155,Order Puller,Neutral,0.029999999999999985
+2271,Picker,Neutral,0.028749999999999994
+2078,Nurse,Neutral,0.028333333333333335
+3276,Software Engineer,Neutral,0.02750000000000001
+1706,Junior Software Developer,Neutral,0.027500000000000004
+1169,Field Service Engineer,Neutral,0.0275
+2244,Personal Banker II,Neutral,0.027499999999999997
+70,Adjunct Faculty,Neutral,0.027499999999999997
+269,Associate Vice President,Neutral,0.027499999999999997
+3619,Trainee,Neutral,0.026666666666666672
+2937,Senior Database Administrator,Neutral,0.026666666666666672
+2688,Route Driver,Neutral,0.02666666666666667
+3542,Technical Expert,Neutral,0.02666666666666666
+1850,Loss Prevention,Neutral,0.026249999999999996
+138,Android Developer,Neutral,0.025000000000000022
+3070,Senior Quality Engineer,Neutral,0.025000000000000022
+3652,Treasury Analyst,Neutral,0.025000000000000022
+1153,Factory Worker,Neutral,0.025000000000000022
+2407,Production Assistant,Neutral,0.02500000000000001
+558,Chief Engineer,Neutral,0.02500000000000001
+1612,Inspector/Packer,Neutral,0.025
+1586,Industrial Placement Student,Neutral,0.025
+2576,Receiving Clerk,Neutral,0.025
+1338,General Labor,Neutral,0.025
+520,Catalog Specialist,Neutral,0.025
+250,Associate Recruiter,Neutral,0.025
+3463,System Administrator,Neutral,0.025
+3773,Whole Foods Shopper,Neutral,0.025
+88,Administrative Assistant II,Neutral,0.025
+3219,Sharepoint Developer,Neutral,0.025
+2525,Quality Assurance Analyst,Neutral,0.025
+1935,Marketer,Neutral,0.025
+2869,Seller,Neutral,0.025
+3324,Sorter,Neutral,0.025
+483,Call Centre Agent,Neutral,0.025
+1925,Marine Engineer,Neutral,0.025
+2822,Salesperson,Neutral,0.025
+3266,Software Development Engineer (SDE) II,Neutral,0.025
+2056,Multiple Positions,Neutral,0.025
+1186,Finance Business Partner,Neutral,0.024999999999999998
+574,Claims Adjuster,Neutral,0.024999999999999998
+2163,Over Night Stocker,Neutral,0.024999999999999998
+1663,Inventory Specialist,Neutral,0.024999999999999998
+3595,Test Analyst,Neutral,0.024999999999999994
+2959,Senior Embedded Software Engineer,Neutral,0.024999999999999994
+1378,Graphic Artist,Neutral,0.024999999999999994
+2278,Piping Engineer,Neutral,0.024999999999999994
+1280,Front End Supervisor,Neutral,0.024999999999999994
+2639,Research Fellow,Neutral,0.024999999999999994
+1206,Financial Analyst II,Neutral,0.024999999999999994
+2625,Repair Technician,Neutral,0.024999999999999994
+3466,System Engineer,Neutral,0.024999999999999994
+2678,Returns Processor,Neutral,0.024999999999999994
+322,Bakery Clerk,Neutral,0.024999999999999994
+3269,Software Development Engineer I,Neutral,0.024999999999999967
+339,Beauty Advisor,Neutral,0.022500000000000006
+1298,Fulfillment Associate,Neutral,0.0225
+140,Animator,Neutral,0.022499999999999992
+3656,Truck Driver,Neutral,0.02166666666666667
+3450,Support Analyst,Neutral,0.021666666666666667
+293,Automotive Technician,Neutral,0.021666666666666667
+3183,Server/Bartender,Neutral,0.021666666666666664
+630,Clinical Pharmacist,Neutral,0.020000000000000018
+2627,Replenishment Associate,Neutral,0.020000000000000018
+1161,Fed Ex Ground Package Handler,Neutral,0.020000000000000018
+1858,Loss Prevention Specialist,Neutral,0.020000000000000018
+1838,Local Truck Driver,Neutral,0.02000000000000001
+1944,Marketing Communications Specialist,Neutral,0.020000000000000004
+2202,Passenger Service Agent,Neutral,0.020000000000000004
+3728,Virtual Assistant,Neutral,0.020000000000000004
+1976,Mechanical Design Engineer,Neutral,0.020000000000000004
+3322,Sortation Associate,Neutral,0.020000000000000004
+1915,Manufacturing Associate,Neutral,0.020000000000000004
+910,Data Center Technician,Neutral,0.020000000000000004
+3781,Working Student,Neutral,0.020000000000000004
+84,Administrative,Neutral,0.020000000000000004
+2231,Pension Administrator,Neutral,0.020000000000000004
+1892,Maintenance Technician,Neutral,0.020000000000000004
+399,Business Development Executive,Neutral,0.020000000000000004
+479,Call Center Representative,Neutral,0.020000000000000004
+2899,Senior Auditor,Neutral,0.02
+1557,IT Support Engineer,Neutral,0.02
+502,Caseworker,Neutral,0.02
+717,Content Moderator,Neutral,0.02
+947,Department Lead,Neutral,0.019999999999999997
+2176,Package Handler,Neutral,0.019999999999999997
+578,Claims Examiner,Neutral,0.019999999999999997
+1760,Lead DevOps Engineer,Neutral,0.019999999999999997
+1271,Front Desk Receptionist,Neutral,0.01999999999999999
+1242,Food Service,Neutral,0.01999999999999999
+177,Art Director,Neutral,0.01999999999999999
+2543,Quality Inspector,Neutral,0.018333333333333337
+2204,Patient Access Representative,Neutral,0.0175
+2523,Quality Assurance,Neutral,0.017499999999999998
+2504,QA Associate,Neutral,0.017499999999999998
+3658,Tutor,Neutral,0.017499999999999998
+2642,Research and Development Engineer,Neutral,0.017499999999999995
+972,Devops Engineer,Neutral,0.016666666666666673
+3434,Supply Chain,Neutral,0.01666666666666667
+2023,Merchandiser,Neutral,0.016666666666666666
+3058,Senior Project Coordinator,Neutral,0.016666666666666666
+1151,Facilities Technician,Neutral,0.016666666666666666
+1696,Junior Associate,Neutral,0.015000000000000013
+1475,Human Resources Analyst,Neutral,0.015000000000000013
+311,Backend Developer,Neutral,0.015000000000000013
+3262,Software Designer,Neutral,0.015000000000000013
+2997,Senior IT Analyst,Neutral,0.015000000000000013
+3697,Utility Worker,Neutral,0.015000000000000013
+539,Certified Surgical Technologist,Neutral,0.015000000000000006
+1011,Dispatcher,Neutral,0.015000000000000006
+1386,Grocery Bagger,Neutral,0.015000000000000005
+3578,Technology,Neutral,0.015000000000000001
+228,Associate Buyer,Neutral,0.015
+89,Administrative Assistant III,Neutral,0.015
+2602,Registered Client Service Associate,Neutral,0.015
+249,Associate QA Engineer,Neutral,0.015
+279,Audit Assistant,Neutral,0.015
+491,Care Coordinator,Neutral,0.015
+1769,Lead Software Engineer,Neutral,0.015
+3191,Service,Neutral,0.015
+755,Corporate Trainer,Neutral,0.015
+3496,Talent Sourcer,Neutral,0.015
+3436,Supply Chain Analyst,Neutral,0.015
+3503,Tax Senior Associate,Neutral,0.015
+431,Buyer,Neutral,0.015
+3213,Service Specialist,Neutral,0.015
+898,Cybersecurity Analyst,Neutral,0.015
+146,Any Position,Neutral,0.015
+2365,Procurement Officer,Neutral,0.015
+225,Associate Business Analyst,Neutral,0.014999999999999996
+230,Associate Creative Director,Neutral,0.014999999999999996
+926,Database Administrator (Database Administrator),Neutral,0.014999999999999986
+1842,Logistics Associate,Neutral,0.014999999999999986
+3424,Summer Analyst,Neutral,0.014999999999999986
+379,Busineess Analyst,Neutral,0.014999999999999986
+1159,Fast Food Worker,Neutral,0.012500000000000011
+3418,Student Worker,Neutral,0.012500000000000004
+1659,Inventory Control Specialist,Neutral,0.012500000000000004
+835,Customer Relations Specialist,Neutral,0.012500000000000004
+2622,Remote Customer Service Representative,Neutral,0.012500000000000004
+2764,Sales Assosiates,Neutral,0.012500000000000004
+713,Content Analyst,Neutral,0.0125
+326,Banker,Neutral,0.0125
+889,Customer Support Representative,Neutral,0.012499999999999997
+1393,Group Leader,Neutral,0.012499999999999997
+2453,Program Director,Neutral,0.012499999999999997
+1439,Health Care Assistant,Neutral,0.012499999999999997
+1819,Lift Operator,Neutral,0.010000000000000009
+1356,Graduate Engineer Trainee,Neutral,0.010000000000000009
+3643,Transportation Associate,Neutral,0.010000000000000009
+3539,Technical Director,Neutral,0.010000000000000009
+1966,Materials Engineer,Neutral,0.010000000000000009
+3569,Technical Team Lead,Neutral,0.010000000000000005
+1610,Inspector,Neutral,0.010000000000000004
+560,Chief Executive Officer,Neutral,0.010000000000000002
+179,Artist,Neutral,0.010000000000000002
+837,Customer Relationship Officer,Neutral,0.010000000000000002
+192,Assistant Account Executive,Neutral,0.010000000000000002
+589,Claims Supervisor,Neutral,0.010000000000000002
+1906,Management Trainee,Neutral,0.010000000000000002
+1900,Management Accountant,Neutral,0.010000000000000002
+1852,Loss Prevention Agent,Neutral,0.01
+2906,Senior Buyer,Neutral,0.01
+532,Certified Nursing Assistant,Neutral,0.01
+3490,Talent Acquisition Partner,Neutral,0.01
+945,Department Head,Neutral,0.01
+3337,Speech Language Pathologist,Neutral,0.009999999999999998
+1564,IT Systems Administrator,Neutral,0.009999999999999995
+1383,Greeter,Neutral,0.009999999999999995
+1385,Grocery Associate,Neutral,0.009999999999999995
+1374,Graduate Trainee,Neutral,0.009999999999999995
+2391,Product Marketing,Neutral,0.009999999999999981
+651,Collections Specialist,Neutral,0.008333333333333331
+1142,FC Associate I,Neutral,0.007500000000000014
+1543,IT Senior Business Analyst,Neutral,0.00750000000000001
+72,Adjunct Instructor,Neutral,0.007500000000000007
+2255,Pharmacist,Neutral,0.007500000000000003
+1784,Learning Assistant,Neutral,0.0075
+759,Cost Accountant,Neutral,0.0075
+2704,SDE,Neutral,0.0075
+2316,Presales,Neutral,0.007499999999999996
+3359,Staff Pharmacist,Neutral,0.007499999999999993
+1833,Loader/Unloader,Neutral,0.007499999999999993
+1220,First Officer,Neutral,0.005000000000000018
+162,Applications Support Analyst,Neutral,0.005000000000000011
+2033,Mid,Neutral,0.005000000000000009
+3544,Technical Lead,Neutral,0.0050000000000000044
+3272,Software Development Engineer In Test,Neutral,0.0050000000000000044
+3628,Training Coordinator,Neutral,0.0050000000000000044
+1999,Medical Scribe,Neutral,0.0050000000000000044
+1001,Director of Operations,Neutral,0.0050000000000000044
+627,Clinical Dietitian,Neutral,0.0050000000000000044
+797,Crew Scheduler,Neutral,0.0050000000000000044
+2692,Runner,Neutral,0.005000000000000001
+3439,Supply Chain Coordinator,Neutral,0.005
+518,Casualty Claims Adjuster,Neutral,0.005
+1725,Kitchen Crew,Neutral,0.005
+642,Co,Neutral,0.004999999999999999
+1961,Material Handler,Neutral,0.0049999999999999975
+720,Content Specialist,Neutral,0.0049999999999999975
+2436,Production Technician,Neutral,0.003333333333333336
+1617,Instructional Designer,Neutral,0.003333333333333334
+1136,Executive Recruiter,Neutral,0.0025000000000000057
+2540,Quality Engineer,Neutral,0.0025000000000000022
+818,Customer Care Representative,Neutral,0.0025000000000000022
+1335,General Accountant,Neutral,0.0025
+3694,Utility,Neutral,0.0024999999999999953
+2430,Production Specialist,Neutral,2.7755575615628914e-17
+2016,Mentor,Neutral,6.938893903907228e-18
+1774,Leader,Neutral,6.938893903907228e-18
+815,Customer Care Executive,Neutral,0.0
+3221,Shelf Stacker,Neutral,0.0
+1863,MIS Executive,Neutral,0.0
+1389,Grocery Clerk,Neutral,0.0
+1409,HR Administrator,Neutral,0.0
+2655,Restaurant Server,Neutral,0.0
+1376,Graduate Trainee Engineer,Neutral,0.0
+3200,Service Delivery Specialist,Neutral,0.0
+2657,Retail,Neutral,0.0
+3150,Senior Technical Associate,Neutral,0.0
+3155,Senior Technical Specialist,Neutral,0.0
+3563,Technical Support Analyst,Neutral,0.0
+3158,Senior Technical Support Specialist,Neutral,0.0
+892,Cyber Security Analyst,Neutral,0.0
+1958,Mate,Neutral,0.0
+3169,Senior Underwriter,Neutral,0.0
+1952,Marketing Officer,Neutral,0.0
+1013,Distribution,Neutral,0.0
+1947,Marketing Director,Neutral,0.0
+2694,S S E(Senior Software Engineer),Neutral,0.0
+1073,Electronics Technician,Neutral,0.0
+2476,Project Engineer II,Neutral,0.0
+3533,Technical Associate,Neutral,0.0
+813,Customer Care Associate,Neutral,0.0
+2951,Senior Director Engineering,Neutral,0.0
+1020,Dock Worker,Neutral,0.0
+930,Debt Collector,Neutral,0.0
+1561,IT Support Technician,Neutral,0.0
+710,Contact Center Representative,Neutral,0.0
+3426,Summer Camp Counselor,Neutral,0.0
+1578,Inbound Stow,Neutral,0.0
+3420,Stylist,Neutral,0.0
+2793,Sales Person,Neutral,0.0
+3415,Student Library Assistant,Neutral,0.0
+2527,Quality Assurance Engineer,Neutral,0.0
+124,Allocation Analyst,Neutral,0.0
+3410,Student Ambassador,Neutral,0.0
+3743,Warehouse Loader,Neutral,0.0
+3351,Staff Attorney,Neutral,0.0
+391,Business Developer,Neutral,0.0
+2529,Quality Assurance Specialist,Neutral,0.0
+3353,Staff Engineer,Neutral,0.0
+3357,Staff Nurse,Neutral,0.0
+1686,Java Software Developer,Neutral,0.0
+2811,Sales Trainee,Neutral,0.0
+2538,Quality Control Technician,Neutral,0.0
+3394,Store Director,Neutral,0.0
+137,Analytics,Neutral,0.0
+743,Copy and Print Associate,Neutral,0.0
+1645,Intelligence Officer,Neutral,0.0
+1112,Equipment Technician,Neutral,0.0
+1141,FC Associate,Neutral,0.0
+3314,Solution Engineer,Neutral,0.0
+1555,IT Support Analyst,Neutral,0.0
+1777,Leadership,Neutral,0.0
+3243,Social Media Coordinator,Neutral,0.0
+1430,Head Of Human Resources,Neutral,0.0
+1056,Education Coordinator,Neutral,0.0
+2485,Project Management Office (PMO),Neutral,0.0
+1442,Healthcare,Neutral,0.0
+2493,Protection Specialist,Neutral,0.0
+429,Busser/Runner,Neutral,0.0
+856,Customer Service Clerk,Neutral,0.0
+495,Caregiver,Neutral,0.0
+2571,Receiver,Neutral,0.0
+1812,Licensed Practical Nurse,Neutral,0.0
+1807,Licensed Clinical Social Worker,Neutral,0.0
+2830,Scanner,Neutral,0.0
+3279,Software Engineer Associate,Neutral,0.0
+1144,FC Associate Tier I,Neutral,0.0
+3283,Software Engineer II,Neutral,0.0
+1795,Legal Assistant,Neutral,0.0
+695,Computer Technician,Neutral,0.0
+3750,Warehouse Order Selector,Neutral,0.0
+2554,R&D,Neutral,0.0
+1527,IT Helpdesk Analyst,Neutral,0.0
+1781,Learning And Development Specialist,Neutral,0.0
+1545,IT Service Desk,Neutral,0.0
+3576,Technologist,Neutral,0.0
+2964,Senior Enterprise Architect,Neutral,0.0
+3640,Transportation,Neutral,0.0
+2088,OTR Truck Driver,Neutral,0.0
+245,Associate Partner,Neutral,0.0
+2718,SQL Developer,Neutral,0.0
+2043,Model/Brand Representative,Neutral,0.0
+406,Business Intelligence,Neutral,0.0
+2110,Onboarding Specialist,Neutral,0.0
+580,Claims Handler,Neutral,0.0
+3661,UI Designer,Neutral,0.0
+1173,Field Service Technician,Neutral,0.0
+277,Audit,Neutral,0.0
+2044,Module Lead,Neutral,0.0
+2731,Safety Coordinator,Neutral,0.0
+989,Direct Support Professional (DSP),Neutral,0.0
+49,Accounting Specialist,Neutral,0.0
+3087,Senior Sales,Neutral,0.0
+3769,Welder/Fabricator,Neutral,0.0
+1260,Freelancer,Neutral,0.0
+3637,Translator,Neutral,0.0
+56,Accounts Payable Analyst,Neutral,0.0
+2238,Performance Test Engineer,Neutral,0.0
+3597,Test Automation Engineer,Neutral,0.0
+3642,Transportation Analyst,Neutral,0.0
+1282,Front End Web Developer,Neutral,0.0
+3715,Vice President Finance,Neutral,0.0
+2060,Network Administrator,Neutral,0.0
+2902,Senior Business Development Executive,Neutral,0.0
+1182,Finance Assistant,Neutral,0.0
+3623,Trainee Software Engineer,Neutral,0.0
+2888,Senior Applications Developer,Neutral,0.0
+1213,Financial Representative,Neutral,0.0
+1996,Medical Science Liaison,Neutral,0.0
+314,Baggage Handler,Neutral,0.0
+1215,Financial Service Representative,Neutral,0.0
+2872,Senior,Neutral,0.0
+2978,Senior Fund Accountant,Neutral,0.0
+3045,Senior Procurement Analyst,Neutral,0.0
+221,Associate Applications Developer,Neutral,0.0
+66,Actuarial Associate,Neutral,0.0
+386,Business Assistant,Neutral,0.0
+3632,Transaction Processing Associate,Neutral,0.0
+2019,Merchandise Coordinator,Neutral,0.0
+2668,Retail Sales Representative,Neutral,0.0
+2621,Reliability Engineer,Neutral,0.0
+3634,Transaction Risk Investigator,Neutral,0.0
+3664,UI Developer,Neutral,0.0
+2229,Peer Mentor,Neutral,0.0
+3060,Senior Project Engineer,Neutral,0.0
+2993,Senior Human Resources Generalist,Neutral,0.0
+2138,Operations Specialist,Neutral,-6.938893903907228e-18
+1205,Financial Advisor Trainee,Neutral,-1.0408340855860843e-17
+1549,IT Specialist,Neutral,-0.0025000000000000022
+865,Customer Service Officer,Neutral,-0.0025000000000000022
+2388,Product Management,Neutral,-0.0025000000000000022
+61,Accounts Receivable,Neutral,-0.0025000000000000022
+485,Captain,Neutral,-0.0025000000000000022
+3736,Warehouse,Neutral,-0.0030000000000000014
+1487,Human Resources Executive,Neutral,-0.0049999999999999906
+107,Advisor,Neutral,-0.0049999999999999906
+3014,Senior Legal Counsel,Neutral,-0.0049999999999999906
+2915,Senior Client Partner,Neutral,-0.0049999999999999975
+675,Compliance,Neutral,-0.0049999999999999975
+1065,Electrical Technician,Neutral,-0.0049999999999999975
+2424,Production Operator,Neutral,-0.004999999999999998
+1883,Maintenance Engineer,Neutral,-0.005
+2962,Senior Engineering Technician,Neutral,-0.005
+1676,Investment Specialist,Neutral,-0.005
+3124,Senior Specialist,Neutral,-0.005000000000000001
+1956,Master Data Analyst,Neutral,-0.0050000000000000044
+1068,Electrician,Neutral,-0.0050000000000000044
+1371,Graduate Teaching Assistant,Neutral,-0.0050000000000000044
+805,Customer Account Specialist,Neutral,-0.0050000000000000044
+2760,Sales Associate/Keyholder,Neutral,-0.0050000000000000044
+2562,Radiologic Technologist,Neutral,-0.0050000000000000044
+184,Assembly Line Worker,Neutral,-0.0050000000000000044
+1258,Fraud Investigator,Neutral,-0.006666666666666668
+1232,Floor Supervisor,Neutral,-0.007499999999999993
+2659,Retail Assistant,Neutral,-0.007499999999999993
+1647,Interior Designer,Neutral,-0.007499999999999993
+2093,Office Administrator,Neutral,-0.007499999999999993
+2072,News Reporter,Neutral,-0.0075
+1525,IT Help Desk Technician,Neutral,-0.0075
+24,Account Assistant,Neutral,-0.007500000000000001
+2133,Operations Executive,Neutral,-0.007500000000000007
+2252,PhD Student,Neutral,-0.007500000000000007
+2306,Pre,Neutral,-0.007500000000000007
+1917,Manufacturing Engineer,Neutral,-0.008333333333333331
+3112,Senior Software QA Engineer,Neutral,-0.009999999999999981
+1927,Market Analyst,Neutral,-0.009999999999999981
+1093,Engineering Lead,Neutral,-0.009999999999999988
+2353,Process Technician,Neutral,-0.009999999999999995
+453,CNC Machinist,Neutral,-0.009999999999999995
+959,Desktop Support,Neutral,-0.009999999999999995
+3067,Senior Quality Analyst,Neutral,-0.009999999999999995
+280,Audit Associate,Neutral,-0.009999999999999997
+2649,Resident Assistant,Neutral,-0.009999999999999998
+2766,Sales Coordinator,Neutral,-0.01
+2897,Senior Associate Technology,Neutral,-0.01
+318,Bakery,Neutral,-0.01
+977,Dietary Aide,Neutral,-0.010000000000000002
+1222,Flex Associate,Neutral,-0.010000000000000002
+1632,Insurance Broker,Neutral,-0.010000000000000009
+2366,Procurement Specialist,Neutral,-0.010000000000000009
+1446,Help Desk,Neutral,-0.010000000000000009
+1293,Frontend Engineer,Neutral,-0.010000000000000009
+1646,Interaction Designer,Neutral,-0.010000000000000009
+1619,Instructor,Neutral,-0.010000000000000009
+2182,Packer,Neutral,-0.010000000000000009
+1831,Loader,Neutral,-0.01166666666666667
+2671,Retail Specialist,Neutral,-0.012499999999999997
+1076,Eligibility Specialist,Neutral,-0.012499999999999997
+1559,IT Support Specialist,Neutral,-0.012499999999999997
+1903,Management Analyst,Neutral,-0.012499999999999997
+820,Customer Care Specialist,Neutral,-0.0125
+3198,Service Deli Clerk,Neutral,-0.0125
+42,Accounting Analyst,Neutral,-0.012500000000000002
+572,Claims,Neutral,-0.012500000000000004
+2619,Relationship Officer,Neutral,-0.012500000000000011
+1839,Logistics,Neutral,-0.013333333333333327
+3711,Vice President Business Development,Neutral,-0.014999999999999986
+1938,Marketing Analyst,Neutral,-0.014999999999999986
+3669,USPS CCA,Neutral,-0.015
+1171,Field Service Representative,Neutral,-0.015
+656,Commercial Account Executive,Neutral,-0.015000000000000003
+2676,Retired,Neutral,-0.015000000000000013
+1638,Insurance Specialist,Neutral,-0.015000000000000013
+795,Crew Leader,Neutral,-0.015000000000000013
+3470,Systems Analyst,Neutral,-0.015000000000000013
+1878,Mail Sorter,Neutral,-0.016666666666666666
+1963,Material Handler/Forklift Operator,Neutral,-0.017499999999999995
+1887,Maintenance Planner,Neutral,-0.017499999999999998
+362,Biomedical Engineer,Neutral,-0.01999999999999999
+2762,Sales Associate/Photographer,Neutral,-0.01999999999999999
+2894,Senior Art Director,Neutral,-0.01999999999999999
+1078,Emergency Medical Technician,Neutral,-0.01999999999999999
+1989,Medical Biller,Neutral,-0.01999999999999999
+1418,HRBP,Neutral,-0.01999999999999999
+58,Accounts Payable Clerk,Neutral,-0.019999999999999993
+3396,Store Leader,Neutral,-0.019999999999999997
+3527,Technical Advisor,Neutral,-0.019999999999999997
+3001,Senior IT Engineer,Neutral,-0.019999999999999997
+477,Call Center Customer Service Representative,Neutral,-0.02
+2473,Project Engineer,Neutral,-0.02
+3561,Technical Support Agent,Neutral,-0.02
+2514,QA Test Engineer,Neutral,-0.02
+2433,Production Support Analyst,Neutral,-0.02
+498,Cargo Agent,Neutral,-0.02
+2933,Senior Data Engineer,Neutral,-0.020000000000000004
+2443,Professor,Neutral,-0.020000000000000004
+2738,Sale Assistant,Neutral,-0.020000000000000004
+3281,Software Engineer I,Neutral,-0.020000000000000018
+798,Crew Trainer,Neutral,-0.021666666666666664
+887,Customer Support Engineer,Neutral,-0.022499999999999992
+936,Deli Clerk,Neutral,-0.0225
+1052,Editor,Neutral,-0.0225
+3589,Telecommunications Technician,Neutral,-0.0225
+439,CAD Engineer,Neutral,-0.023333333333333334
+3148,Senior Technical Architect,Neutral,-0.024999999999999994
+3109,Senior Software Development Engineer,Neutral,-0.024999999999999994
+949,Department Supervisor,Neutral,-0.024999999999999994
+2582,Recovery Specialist,Neutral,-0.024999999999999994
+2729,Safety,Neutral,-0.024999999999999994
+2314,Prep/Line Cook,Neutral,-0.024999999999999994
+3099,Senior Scientist,Neutral,-0.024999999999999994
+1126,Everything,Neutral,-0.025
+13,ASE Trainee,Neutral,-0.025
+2346,Process Engineer II,Neutral,-0.025
+2875,Senior Account Executive,Neutral,-0.025
+2881,Senior Advisor,Neutral,-0.025
+2883,Senior Agent,Neutral,-0.025
+3174,Senior Vice President Business Development,Neutral,-0.025
+2304,Power BI Developer,Neutral,-0.025
+2260,Phone Banker,Neutral,-0.025
+2551,Quantity Surveyor,Neutral,-0.025
+1027,Documentation Specialist,Neutral,-0.025000000000000022
+342,Benefits Administrator,Neutral,-0.025000000000000022
+3201,Service Desk,Neutral,-0.02625
+3260,Software Design Engineer,Neutral,-0.02666666666666667
+1800,Legal Secretary,Neutral,-0.027499999999999997
+2404,Production Assembler,Neutral,-0.027500000000000004
+2472,Project Director,Neutral,-0.028333333333333332
+2122,Operations Agent,Neutral,-0.029999999999999985
+3648,Transportation Specialist,Neutral,-0.03
+1197,Finance Specialist,Neutral,-0.03
+934,Deli Associate,Neutral,-0.03
+2188,Paramedic,Neutral,-0.03
+2308,Prefer Not To Say,Neutral,-0.03
+3344,Sr. Business Analyst,Neutral,-0.03
+1230,Floor Staff,Neutral,-0.03
+3032,Senior Operations Specialist,Neutral,-0.03
+1953,Marketing Representative,Neutral,-0.03
+1466,House Cleaner,Neutral,-0.03
+1482,Human Resources Coordinator,Neutral,-0.03
+2213,Patient Service Representative,Neutral,-0.03
+2976,Senior Full Stack Developer,Neutral,-0.03
+1531,IT Lead,Neutral,-0.0325
+190,Assistant,Neutral,-0.0325
+1870,Machine Operator,Neutral,-0.03499999999999999
+2427,Production Planner,Neutral,-0.034999999999999996
+2664,Retail Sales,Neutral,-0.034999999999999996
+2460,Programmer,Neutral,-0.034999999999999996
+199,Assistant Director,Neutral,-0.035
+1599,Information Technology Specialist,Neutral,-0.035
+257,Associate Specialist,Neutral,-0.035
+654,Collector,Neutral,-0.035
+3340,Sps Associate,Neutral,-0.035
+1266,Front Desk,Neutral,-0.035
+1252,Forklift Driver,Neutral,-0.035
+17,AV Technician,Neutral,-0.035
+2670,Retail Salesperson,Neutral,-0.035
+3767,Welder,Neutral,-0.0375
+2129,Operations Coordinator,Neutral,-0.0375
+1361,Graduate Mechanical Engineer,Neutral,-0.037500000000000006
+3296,Software QA Engineer,Neutral,-0.037500000000000006
+3549,Technical Recruiter,Neutral,-0.039999999999999994
+986,Direct Sales Representative,Neutral,-0.039999999999999994
+2770,Sales Development Representative,Neutral,-0.039999999999999994
+3650,Transportation Supervisor,Neutral,-0.04
+1655,Inventory Associate,Neutral,-0.04
+2356,Processing Associate,Neutral,-0.04
+1537,IT Professional,Neutral,-0.04
+1723,Keyholder/Floor Leader,Neutral,-0.04
+1114,Equity Research Analyst,Neutral,-0.04
+1346,Global Director,Neutral,-0.04
+1217,Firmware Engineer,Neutral,-0.04
+285,Authorized Officer,Neutral,-0.04000000000000001
+1108,Environmental Specialist,Neutral,-0.04000000000000001
+2290,Police Officer,Neutral,-0.041666666666666664
+1749,Lead,Neutral,-0.041666666666666664
+2496,Purchasing,Neutral,-0.042499999999999996
+2136,Operations Officer,Neutral,-0.0425
+288,Auto Technician,Neutral,-0.0425
+2711,SERVICE ADVISOR,Neutral,-0.043333333333333335
+3654,Tron Associate,Neutral,-0.044999999999999984
+952,Design Engineer,Neutral,-0.044999999999999984
+3689,Unloader,Neutral,-0.04499999999999999
+3010,Senior Lead Engineer,Neutral,-0.045
+3127,Senior Staff Engineer,Neutral,-0.045
+618,Client Services,Neutral,-0.045
+593,Class A Cdl Truck Driver,Neutral,-0.0475
+3194,Service Coordinator,Neutral,-0.0475
+299,BDC Representative,Neutral,-0.04999999999999999
+1856,Loss Prevention Officer,Neutral,-0.04999999999999999
+2095,Office Assistant,Neutral,-0.04999999999999999
+2804,Sales Support Associate,Neutral,-0.04999999999999999
+160,Applications Support,Neutral,-0.04999999999999999
+530,Certified Medical Assistant,Neutral,-0.05
+3162,Senior Test Analyst,Neutral,-0.05
+2518,QC Analyst,Neutral,-0.05
+2359,Procurement,Neutral,-0.05
+3143,Senior Team LEader,Neutral,-0.05
+2796,Sales Professional,Neutral,-0.05
+1032,Drive Thru Cashier,Neutral,-0.05
+3303,Software Test Analyst,Neutral,-0.05
+859,Customer Service Coordinator,Neutral,-0.05
+1029,Drilling Engineer,Neutral,-0.05
+1454,Helper,Neutral,-0.05
+638,Cloud Solution Architect,Neutral,-0.05
+93,Administrative Coordinator,Neutral,-0.05000000000000002
+1424,Hair Stylist,Neutral,-0.05000000000000002
+1540,IT Security Analyst,Neutral,-0.050000000000000044
+3647,Transportation Planner,Neutral,-0.050000000000000044
+2161,Outside Sales Representative,Neutral,-0.05166666666666666
+844,Customer Service (CSR),Neutral,-0.05499999999999999
+1987,Medical Assistant,Neutral,-0.05499999999999999
+1035,Driver Helper,Neutral,-0.05499999999999999
+2215,Patient Services Coordinator,Neutral,-0.05499999999999999
+3254,Software Applications Engineer,Neutral,-0.055
+2511,QA Technician,Neutral,-0.055
+421,Business Specialist,Neutral,-0.055
+586,Claims Service Representative,Neutral,-0.055
+2948,Senior Development Engineer,Neutral,-0.055
+526,Catering Coordinator,Neutral,-0.05750000000000001
+3645,Transportation Coordinator,Neutral,-0.06
+670,Company Driver,Neutral,-0.06
+2049,Mortgage Closer,Neutral,-0.06
+3630,Training Specialist,Neutral,-0.06
+1321,GIS Technician,Neutral,-0.06
+1200,Financial Accountant,Neutral,-0.06
+641,Cloud Support Engineer,Neutral,-0.06
+3101,Senior Scrum Master,Neutral,-0.06
+2749,Sales Ambassador,Neutral,-0.06
+307,BOA Branch Office Administrator,Neutral,-0.06
+2784,Sales Leader,Neutral,-0.06
+782,Creative Director,Neutral,-0.06
+2280,Planner,Neutral,-0.06
+921,Data Scientist,Neutral,-0.06
+1122,Event Coordinator,Neutral,-0.06
+75,Adjunct Professor,Neutral,-0.06
+2573,Receiving,Neutral,-0.06
+80,Administration,Neutral,-0.060000000000000005
+2197,Part Time Sales Associate,Neutral,-0.06000000000000001
+445,CDL Driver,Neutral,-0.06499999999999999
+3414,Student Grader,Neutral,-0.06499999999999999
+2050,Mortgage Loan Processor,Neutral,-0.065
+548,Chef,Neutral,-0.065
+1365,Graduate Researcher,Neutral,-0.065
+407,Business Intelligence Analyst,Neutral,-0.065
+1793,Legal,Neutral,-0.065
+2565,Railroad Conductor,Neutral,-0.065
+346,Benefits Analyst,Neutral,-0.065
+3177,Senior Web Developer,Neutral,-0.065
+481,Call Center Supervisor,Neutral,-0.065
+906,Data Analyst/Data Scientist,Neutral,-0.06999999999999999
+1692,Junior Accountant,Neutral,-0.06999999999999999
+358,Billing Specialist,Neutral,-0.07
+329,Banking,Neutral,-0.07
+3005,Senior Instructional Designer,Neutral,-0.07
+2323,Pricing Specialist,Neutral,-0.07
+1310,Full Time Sales Associate,Neutral,-0.07
+840,Customer Sales Representative,Neutral,-0.07000000000000003
+2339,Process Assistant,Neutral,-0.07250000000000001
+1120,Estimator,Neutral,-0.07250000000000001
+3474,Systems Developer,Neutral,-0.07499999999999998
+1008,"Director, Program Management",Neutral,-0.075
+3520,Tech Support,Neutral,-0.075
+3104,Senior Security Engineer,Neutral,-0.075
+3141,Senior Tax Analyst,Neutral,-0.075
+3699,Utilization Review Nurse,Neutral,-0.075
+2843,Seasonal Associate,Neutral,-0.075
+3585,Technology Lead,Neutral,-0.07500000000000001
+1651,Interviewer,Neutral,-0.07500000000000001
+2341,Process Associate,Neutral,-0.07500000000000001
+3301,Software Quality Engineer,Neutral,-0.07999999999999999
+305,BI Developer,Neutral,-0.07999999999999999
+732,Control Room Operator,Neutral,-0.08
+2828,Sanitation Worker,Neutral,-0.08
+1875,Mail Clerk,Neutral,-0.08
+205,Assistant Professor,Neutral,-0.08
+3368,Sterile Processing Technician,Neutral,-0.08000000000000002
+1825,Line Operator,Neutral,-0.08499999999999999
+1867,MSA,Neutral,-0.08499999999999999
+1889,Maintenance Supervisor,Neutral,-0.08499999999999999
+2458,Program Specialist,Neutral,-0.08499999999999999
+3370,Steward,Neutral,-0.08499999999999999
+1330,Game Tester,Neutral,-0.085
+1978,Mechanical Designer,Neutral,-0.085
+2864,Security Specialist,Neutral,-0.085
+2591,Recruitment Specialist,Neutral,-0.085
+2154,Order Processor,Neutral,-0.085
+1844,Logistics Officer,Neutral,-0.085
+1747,Lawyer,Neutral,-0.09
+3292,Software Engineering,Neutral,-0.09000000000000001
+2351,Process Specialist,Neutral,-0.09000000000000002
+450,CNA,Neutral,-0.095
+2038,Millwright,Neutral,-0.095
+3676,Undergraduate Research Assistant,Neutral,-0.095
+2968,Senior Executive Operations,Neutral,-0.095
+1584,Industrial Engineer,Neutral,-0.095
+3432,Supplier Quality Engineer,Neutral,-0.095
+1398,Guest Relations,Neutral,-0.09999999999999998
+897,CyberSecurity Engineer,Neutral,-0.09999999999999999
+2070,Network Support Engineer,Neutral,-0.09999999999999999
+455,CNC Operator,Neutral,-0.1
+1194,Finance Officer,Neutral,-0.1
+3617,Trader,Neutral,-0.1
+2791,Sales Operations Analyst,Neutral,-0.1
+822,Customer Executive,Neutral,-0.1
+2464,Project Administrator,Neutral,-0.1
+3300,Software Quality Assurance Engineer and Testers,Neutral,-0.1
+2179,Packaging Engineer,Neutral,-0.1
+3040,Senior Principal Systems Engineer,Neutral,-0.1
+1834,Loan Officer,Neutral,-0.1
+3146,Senior Technical Analyst,Neutral,-0.1
+2158,Outbound Order Picker,Neutral,-0.1
+1810,Licensed Insurance Agent,Neutral,-0.1
+2142,Operations Team Leader,Neutral,-0.1
+3379,Stock Controller,Neutral,-0.1
+3020,Senior Marketing Executive,Neutral,-0.1
+3602,Test Lead,Negative,-0.10000000000000003
+3309,Software Testing Engineer,Negative,-0.10000000000000003
+3455,Support Engineer,Negative,-0.10499999999999998
+2224,Payroll Analyst,Negative,-0.105
+1941,Marketing Associate,Negative,-0.105
+1552,IT Support,Negative,-0.105
+3571,Technical Test Lead,Negative,-0.105
+809,Customer Care,Negative,-0.105
+2553,R&D,Negative,-0.105
+3248,Software,Negative,-0.105
+2054,Multi,Negative,-0.10500000000000001
+958,Desktop Support,Negative,-0.10500000000000001
+2451,Program Coordinator,Negative,-0.10500000000000001
+2795,Sales Professional,Negative,-0.10500000000000001
+1783,Learning Assistant,Negative,-0.10500000000000001
+466,Cabin Crew,Negative,-0.10500000000000004
+3667,UPS Part Time Package Handler,Negative,-0.10999999999999999
+3388,Storage Engineer,Negative,-0.11
+3766,Welder,Negative,-0.11
+3152,Senior Technical Lead,Negative,-0.11
+1779,Learning Ambassador,Negative,-0.11
+2713,SME,Negative,-0.11
+552,Chemical Operator,Negative,-0.11
+2396,Product Specialist,Negative,-0.11000000000000001
+653,Collector,Negative,-0.11000000000000001
+1894,Major Account Executive,Negative,-0.11499999999999999
+742,Copy and Print Associate,Negative,-0.11499999999999999
+2475,Project Engineer I,Negative,-0.115
+1720,Keyholder,Negative,-0.115
+2165,Overnight Associate,Negative,-0.115
+328,Banking,Negative,-0.12
+3663,UI Developer,Negative,-0.12
+2821,Salesperson,Negative,-0.12
+2783,Sales Leader,Negative,-0.12000000000000001
+528,Cerified Phlebotomist,Negative,-0.125
+201,Assistant Engineer,Negative,-0.125
+2041,Mobile Expert,Negative,-0.125
+1290,Frontend Developer,Negative,-0.125
+2419,Production Line Worker,Negative,-0.125
+2702,SAP Basis Administrator,Negative,-0.125
+2429,Production Specialist,Negative,-0.125
+1652,Inventory Analyst,Negative,-0.125
+3188,Server/Waitress,Negative,-0.125
+3372,Stock,Negative,-0.125
+1573,Inbound Customer Service Representative,Negative,-0.125
+3472,Systems Architect,Negative,-0.125
+2809,Sales Team Leader,Negative,-0.125
+1776,Leadership,Negative,-0.125
+2632,Representative,Negative,-0.13
+1960,Material Handler,Negative,-0.13
+3134,Senior Systems Administrator,Negative,-0.13
+1902,Management Analyst,Negative,-0.13
+963,Desktop Support Technician,Negative,-0.13
+2710,SEO Specialist,Negative,-0.13
+3365,Starbucks,Negative,-0.13
+2628,Reporter,Negative,-0.13
+3225,Shipper/Receiver,Negative,-0.13499999999999998
+3271,Software Development Engineer II,Negative,-0.13499999999999998
+762,Costumer Service,Negative,-0.13499999999999998
+2181,Packer,Negative,-0.13499999999999998
+563,Chief Financial Officer,Negative,-0.13499999999999998
+534,Certified Nursing Assistant CNA,Negative,-0.135
+1075,Eligibility Specialist,Negative,-0.135
+3639,Transportation,Negative,-0.135
+3747,Warehouse Operative/Picker,Negative,-0.135
+2856,Security Engineer,Negative,-0.135
+1175,Field Supervisor,Negative,-0.135
+1229,Floor Staff,Negative,-0.135
+3431,Supplier Quality Engineer,Negative,-0.135
+148,Application,Negative,-0.135
+649,Collections Representative,Negative,-0.13999999999999999
+512,Cashier/Customer Service,Negative,-0.13999999999999999
+2221,Payroll,Negative,-0.13999999999999999
+357,Billing Specialist,Negative,-0.14
+488,Car Salesman,Negative,-0.14
+271,Attorney,Negative,-0.14
+1727,Kitchen Staff,Negative,-0.14
+2426,Production Planner,Negative,-0.14
+28,Account Coordinator,Negative,-0.14
+1741,Laborer,Negative,-0.14
+1441,Healthcare,Negative,-0.14
+117,Aircraft Maintenance Technician,Negative,-0.145
+2369,Produce Clerk,Negative,-0.145
+3190,Service,Negative,-0.145
+2373,Product,Negative,-0.145
+3054,Senior Programmer,Negative,-0.145
+2121,Operations Administrator,Negative,-0.145
+2832,Scheduler,Negative,-0.145
+2400,Product Support Specialist,Negative,-0.145
+3016,Senior Management,Negative,-0.145
+523,Category Specialist,Negative,-0.145
+2846,Seasonal Sales Associate,Negative,-0.145
+1824,Line Operator,Negative,-0.145
+3246,Social Worker,Negative,-0.145
+2243,Personal Banker I,Negative,-0.145
+2075,Non,Negative,-0.14500000000000002
+3427,Superintendent,Negative,-0.14500000000000002
+886,Customer Support Associate,Negative,-0.14999999999999997
+116,Aircraft Maintenance Supervisor,Negative,-0.15
+1712,KYC Analyst,Negative,-0.15
+159,Applications Support,Negative,-0.15
+3460,Support Worker,Negative,-0.15
+1746,Lawyer,Negative,-0.15
+1627,Insurance Advisor,Negative,-0.15
+1196,Finance Specialist,Negative,-0.15
+345,Benefits Analyst,Negative,-0.15
+3548,Technical Officer,Negative,-0.15
+2128,Operations Coordinator,Negative,-0.15
+2501,Python Developer,Negative,-0.15
+3235,Shop Assistant,Negative,-0.15
+1067,Electrician,Negative,-0.15
+673,Complaints Handler,Negative,-0.15
+995,Director of Development,Negative,-0.15
+2109,Onboarding Specialist,Negative,-0.15
+3259,Software Design Engineer,Negative,-0.15
+2106,Officer,Negative,-0.15000000000000002
+1509,IT Associate,Negative,-0.15000000000000002
+2098,Office Clerk,Negative,-0.15000000000000002
+109,Aeronautical Engineer,Negative,-0.15000000000000002
+2587,Recruitment,Negative,-0.15000000000000002
+2943,Senior DevOps Engineer,Negative,-0.15000000000000002
+900,DSM,Negative,-0.15000000000000002
+2406,Production Assistant,Negative,-0.15000000000000002
+3696,Utility Worker,Negative,-0.15000000000000002
+894,Cyber Security Engineer,Negative,-0.155
+2594,Regional Director,Negative,-0.155
+694,Computer Technician,Negative,-0.155
+3735,Warehouse,Negative,-0.15500000000000003
+915,Data Entry Clerk,Negative,-0.15999999999999998
+3330,Sourcing Specialist,Negative,-0.15999999999999998
+2148,Order Filler,Negative,-0.16
+791,Credit Specialist,Negative,-0.16
+2029,Merchant,Negative,-0.16000000000000003
+537,Certified Personal Trainer,Negative,-0.1625
+1486,Human Resources Executive,Negative,-0.165
+2719,SQL Server Database Administrator,Negative,-0.165
+23,Account Assistant,Negative,-0.165
+1452,Helpdesk Technician,Negative,-0.1675
+3452,Support Associate,Negative,-0.16999999999999998
+902,DSP,Negative,-0.16999999999999998
+1757,Lead Cashier,Negative,-0.16999999999999998
+1591,Information Security Engineer,Negative,-0.17
+2467,Project Controller,Negative,-0.175
+304,BI Developer,Negative,-0.175
+750,Corporate Office,Negative,-0.175
+1661,Inventory Coordinator,Negative,-0.175
+3500,Tax Associate,Negative,-0.175
+3543,Technical Lead,Negative,-0.175
+1228,Floor Leader,Negative,-0.175
+1518,IT Director,Negative,-0.175
+3114,Senior Software Test Engineer,Negative,-0.17500000000000002
+843,Customer Service (CSR),Negative,-0.18
+3003,Senior Infrastructure Engineer,Negative,-0.18
+355,Billing Coordinator,Negative,-0.18
+2745,Sales Advisor,Negative,-0.1825
+1373,Graduate Trainee,Negative,-0.185
+2187,Paramedic,Negative,-0.185
+2992,Senior Human Resources Generalist,Negative,-0.185
+1031,Drive Thru Cashier,Negative,-0.185
+282,Auditor,Negative,-0.19
+490,Care Assistant,Negative,-0.19
+3556,Technical Specialist,Negative,-0.195
+112,Agent,Negative,-0.195
+1408,HR Administrator,Negative,-0.195
+3448,Support,Negative,-0.195
+961,Desktop Support Engineer,Negative,-0.195
+1026,Documentation Specialist,Negative,-0.195
+1657,Inventory Control,Negative,-0.1975
+3468,Systems Administrator,Negative,-0.1975
+1799,Legal Secretary,Negative,-0.2
+2558,RN Staff Nurse,Negative,-0.2
+351,Billing,Negative,-0.2
+555,Chemist,Negative,-0.2
+768,Counter Help,Negative,-0.2
+3757,Warehouse Specialist,Negative,-0.2
+2385,Product Director,Negative,-0.2
+441,CAE Engineer,Negative,-0.2
+104,Admissions Advisor,Negative,-0.2
+344,Benefits Advisor,Negative,-0.2
+235,Associate Designer,Negative,-0.2
+669,Company Driver,Negative,-0.2
+2819,Salesman,Negative,-0.205
+3123,Senior Specialist,Negative,-0.205
+2939,Senior Design Engineer,Negative,-0.20500000000000002
+1752,Lead Associate,Negative,-0.21
+3206,Service Desk Technician,Negative,-0.215
+1881,Maintenance,Negative,-0.215
+2321,Pricing Analyst,Negative,-0.215
+3326,Sourcer,Negative,-0.215
+167,Apprentice Electrician,Negative,-0.21500000000000002
+1300,Fulfillment Center Associate,Negative,-0.21500000000000002
+2825,Sandwich Maker,Negative,-0.21833333333333335
+731,Control Room Operator,Negative,-0.22499999999999998
+2728,Safety,Negative,-0.22499999999999998
+830,Customer Relations,Negative,-0.225
+1846,Logistics Specialist,Negative,-0.24
+1949,Marketing Executive,Negative,-0.24
+1190,Finance Director,Negative,-0.24
+3211,Service Representative,Negative,-0.24
+2958,Senior Embedded Software Engineer,Negative,-0.24000000000000002
+712,Content Analyst,Negative,-0.24999999999999997
+620,Client Services Representative,Negative,-0.25
+3066,Senior Quality Analyst,Negative,-0.25
+3090,Senior Sales Associate,Negative,-0.25
+529,Certified Medical Assistant,Negative,-0.25
+3028,Senior Network Security Engineer,Negative,-0.25
+3025,Senior Member of Technical Staff,Negative,-0.25
+3612,Tier I Associate,Negative,-0.25
+3621,Trainee Engineer,Negative,-0.25
+3392,Store Clerk,Negative,-0.25
+2803,Sales Support Associate,Negative,-0.25
+47,Accounting Clerk,Negative,-0.255
+2568,Real Estate Agent,Negative,-0.255
+1382,Greeter,Negative,-0.26
+2618,Relationship Officer,Negative,-0.26
+3523,Tech Support Representative,Negative,-0.26
+473,Cake Decorator,Negative,-0.275
+2492,Protection Specialist,Negative,-0.275
+1359,Graduate Engineering Trainee GET,Negative,-0.275
+3537,Technical Coordinator,Negative,-0.28
+3568,Technical Team Lead,Negative,-0.285
+3230,Shipping And Receiving Clerk,Negative,-0.28500000000000003
+2001,Medical Secretary,Negative,-0.28500000000000003
+1105,Environmental Scientist,Negative,-0.29000000000000004
+2724,SSR,Negative,-0.3
+2358,Procurement,Negative,-0.3
+2748,Sales Ambassador,Negative,-0.3
+1296,Fry Cook,Negative,-0.3
+929,Debt Collector,Negative,-0.31499999999999995
+1050,Economist,Negative,-0.31499999999999995
+753,Corporate Recruiter,Negative,-0.32499999999999996
+1019,Dock Worker,Negative,-0.325
+3738,Warehouse Associate,Negative,-0.325
+3535,Technical Business Analyst,Negative,-0.325
+1306,Full Stack Web Developer,Negative,-0.325
+3700,VP,Negative,-0.325
+858,Customer Service Coordinator,Negative,-0.32999999999999996
+1717,Key Holder,Negative,-0.335
+2390,Product Marketing,Negative,-0.345
+2891,Senior Architect,Negative,-0.35
+834,Customer Relations Specialist,Negative,-0.35
+1469,Housekeeping,Negative,-0.35
+3502,Tax Senior,Negative,-0.35
+2046,Monitor Technician,Negative,-0.355
+3332,Sous Chef,Negative,-0.355
+1597,Information Technology Analyst,Negative,-0.355
+449,CNA,Negative,-0.36
+1735,Lab Technician,Negative,-0.365
+1563,IT Systems Administrator,Negative,-0.375
+238,Associate Developer,Negative,-0.375
+3096,Senior Sales Representative,Negative,-0.375
+1715,Key Account Executive,Negative,-0.375
+3591,Telesales Agent,Negative,-0.38
+2510,QA Technician,Negative,-0.39
+2409,Production Associate,Negative,-0.4
+2449,Program Associate,Negative,-0.425
+2249,PhD Candidate,Negative,-0.425
+3438,Supply Chain Coordinator,Negative,-0.44
+240,Associate Editor,Negative,-0.45
+227,Associate Buyer,Negative,-0.45
+2077,Nurse,Negative,-0.455
+2537,Quality Control Technician,Negative,-0.48
+2085,O3,Negative,-0.5
+1637,Insurance Specialist,Negative,-0.5
+2216,Patient Transporter,Negative,-0.5
+3305,Software Test Automation Engineer,Negative,-0.5
+1155,Faculty,Negative,-0.5
+2416,Production Lead,Negative,-0.5
+626,Clinical Dietitian,Negative,-0.54
+87,Administrative Assistant II,Negative,-0.55
+1788,Learning and Development,Negative,-0.585
+2858,Security Guard,Negative,-0.6
+3290,Software Engineer(),Negative,-0.7
+1877,Mail Handler,Negative,-0.8
+700,Construction Superintendent,Negative,-0.8400000000000001
+1219,First Officer,Negative,-1.0
