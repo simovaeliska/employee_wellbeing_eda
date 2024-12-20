@@ -92,7 +92,7 @@ All the neccesary libraries for this project can be find in pyproject.toml & lib
 </details>
 
 ### Presentation
-[Presentation Slides](### Overview
+[Presentation Slides](https://www.canva.com/design/DAGY6bhs84I/Hkgb_bPwjE8ZO7rhKvnIqA/edit?utm_content=DAGY6bhs84I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
