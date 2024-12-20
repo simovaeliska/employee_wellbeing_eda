@@ -1,7 +1,7 @@
 [project]
 name = "employee-wellbeing-eda"
 version = "0.1.0"
-description = "Add your description here"
+description = "All the libraries needed for this project are listed below"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
